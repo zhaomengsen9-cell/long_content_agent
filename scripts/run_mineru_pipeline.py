@@ -13,6 +13,8 @@ PROJECT_DIR = Path(__file__).resolve().parents[1]
 DEFAULT_INPUT_DIR = PROJECT_DIR / "dataset" / "public_dataset_upload" / "raw"
 DEFAULT_OUTPUT_DIR = PROJECT_DIR / "dataset" / "mineru_pipeline_output"
 DEFAULT_GPU_IDS = "4,5,6,7"
+DEFAULT_MODEL_SOURCE = "local"
+DEFAULT_DEVICE_MODE = "cuda"
 
 
 @dataclass
@@ -45,7 +47,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--workers",
         type=int,
-        default=2,
+        default=1,
         help="Number of files to process concurrently.",
     )
     parser.add_argument(
@@ -70,6 +72,16 @@ def parse_args() -> argparse.Namespace:
         help="GPU ids exposed to MinerU via CUDA_VISIBLE_DEVICES. Use an empty string to disable.",
     )
     parser.add_argument(
+        "--model-source",
+        default=DEFAULT_MODEL_SOURCE,
+        help="Value for MINERU_MODEL_SOURCE. Use local for pre-downloaded models.",
+    )
+    parser.add_argument(
+        "--device-mode",
+        default=DEFAULT_DEVICE_MODE,
+        help="Value for MINERU_DEVICE_MODE. Use cuda to force GPU or cpu to force CPU.",
+    )
+    parser.add_argument(
         "--force",
         action="store_true",
         help="Reprocess files even if a success marker exists.",
@@ -78,6 +90,12 @@ def parse_args() -> argparse.Namespace:
         "--dry-run",
         action="store_true",
         help="Only print the files that would be processed.",
+    )
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=None,
+        help="Only process the first N supported files. Useful for testing.",
     )
     return parser.parse_args()
 
@@ -137,6 +155,8 @@ def run_mineru_file(
     method: str,
     lang: str,
     assigned_gpu_id: str | None,
+    model_source: str,
+    device_mode: str,
     force: bool,
 ) -> MinerUResult:
     start = time.monotonic()
@@ -171,9 +191,19 @@ def run_mineru_file(
     env = os.environ.copy()
     if assigned_gpu_id:
         env["CUDA_VISIBLE_DEVICES"] = assigned_gpu_id
+    if model_source:
+        env["MINERU_MODEL_SOURCE"] = model_source
+    if device_mode:
+        env["MINERU_DEVICE_MODE"] = device_mode
+    env.setdefault("PYTORCH_ALLOC_CONF", "expandable_segments:True")
 
     gpu_log = assigned_gpu_id if assigned_gpu_id else "not forced"
-    log(f"[start] parsing: {source} -> {task_output_dir} | CUDA_VISIBLE_DEVICES={gpu_log}")
+    log(
+        f"[start] parsing: {source} -> {task_output_dir} "
+        f"| CUDA_VISIBLE_DEVICES={gpu_log} "
+        f"| MINERU_DEVICE_MODE={env.get('MINERU_DEVICE_MODE', 'not set')} "
+        f"| MINERU_MODEL_SOURCE={env.get('MINERU_MODEL_SOURCE', 'not set')}"
+    )
 
     try:
         completed = subprocess.run(
@@ -196,7 +226,17 @@ def run_mineru_file(
 
     elapsed = time.monotonic() - start
     log_path = task_output_dir / "mineru.log"
-    log_path.write_text(completed.stdout + completed.stderr, encoding="utf-8")
+    log_header = "\n".join(
+        [
+            f"command: {' '.join(command)}",
+            f"CUDA_VISIBLE_DEVICES={env.get('CUDA_VISIBLE_DEVICES', '')}",
+            f"MINERU_DEVICE_MODE={env.get('MINERU_DEVICE_MODE', '')}",
+            f"MINERU_MODEL_SOURCE={env.get('MINERU_MODEL_SOURCE', '')}",
+            f"PYTORCH_ALLOC_CONF={env.get('PYTORCH_ALLOC_CONF', '')}",
+            "",
+        ]
+    )
+    log_path.write_text(log_header + completed.stdout + completed.stderr, encoding="utf-8")
 
     if completed.returncode == 0:
         success_marker.write_text(str(time.time()), encoding="utf-8")
@@ -238,6 +278,10 @@ def main() -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
     manifest_path = output_dir / "manifest.jsonl"
     files = iter_supported_files(input_dir, output_dir)
+    if args.limit is not None:
+        if args.limit < 1:
+            raise ValueError("--limit must be greater than or equal to 1")
+        files = files[: args.limit]
     unsupported_files = iter_unsupported_files(input_dir, output_dir)
 
     log(f"Input: {input_dir}")
@@ -246,6 +290,8 @@ def main() -> None:
     log(f"Unsupported files: {len(unsupported_files)}")
     log(f"Workers: {args.workers}")
     log(f"GPU assignment: {', '.join(gpu_id_list) if gpu_id_list else 'not forced'}")
+    log(f"MINERU_MODEL_SOURCE: {args.model_source or 'not set'}")
+    log(f"MINERU_DEVICE_MODE: {args.device_mode or 'not set'}")
 
     if args.dry_run:
         for index, path in enumerate(files):
@@ -261,20 +307,6 @@ def main() -> None:
     succeeded = 0
     failed = 0
     skipped = 0
-
-    for path in unsupported_files:
-        write_manifest(
-            manifest_path,
-            MinerUResult(
-                source=str(path),
-                output_dir="",
-                status="skipped_unsupported",
-                elapsed_seconds=0.0,
-                assigned_gpu_id=None,
-                error=f"Unsupported suffix for MinerU CLI: {path.suffix}",
-            ),
-        )
-        skipped += 1
 
     log("Starting MinerU parsing tasks...")
 
@@ -292,6 +324,8 @@ def main() -> None:
                     args.method,
                     args.lang,
                     assigned_gpu_id,
+                    args.model_source,
+                    args.device_mode,
                     args.force,
                 )
             )
@@ -312,6 +346,22 @@ def main() -> None:
                 f"| gpu={result.assigned_gpu_id or 'not forced'} "
                 f"({result.elapsed_seconds:.1f}s)"
             )
+
+    if unsupported_files:
+        log(f"Recording unsupported files: {len(unsupported_files)}")
+    for path in unsupported_files:
+        write_manifest(
+            manifest_path,
+            MinerUResult(
+                source=str(path),
+                output_dir="",
+                status="skipped_unsupported",
+                elapsed_seconds=0.0,
+                assigned_gpu_id=None,
+                error=f"Unsupported suffix for MinerU CLI: {path.suffix}",
+            ),
+        )
+        skipped += 1
 
     log(f"Done. success={succeeded}, skipped={skipped}, failed={failed}")
     log(f"Manifest: {manifest_path}")
