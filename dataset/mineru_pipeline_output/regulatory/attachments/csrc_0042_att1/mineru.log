@@ -1,0 +1,52 @@
+command: mineru --path /opt/mengsen/long_content/dataset/public_dataset_upload/raw/regulatory/attachments/csrc_0042_att1.pdf --output /opt/mengsen/long_content/dataset/mineru_pipeline_output/regulatory/attachments/csrc_0042_att1 --backend pipeline --method auto --lang ch
+CUDA_VISIBLE_DEVICES=6
+MINERU_DEVICE_MODE=cuda
+MINERU_MODEL_SOURCE=local
+PYTORCH_ALLOC_CONF=expandable_segments:True
+Start MinerU FastAPI Service: http://127.0.0.1:35289
+API documentation: http://127.0.0.1:35289/docs
+2026-07-13 11:02:52.481 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:35289
+2026-07-13 11:02:55.016 | INFO     | __main__:create_app:250 - Request concurrency limited to 3
+INFO:     Started server process [3687696]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:35289 (Press CTRL+C to quit)
+2026-07-13 11:02:55.498 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 10 pages in this batch | 10 pages total | task#1 [csrc_0042_att1]
+2026-07-13 11:02:58.385 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze_streaming:182 - Pipeline processing-window multi-file run. doc_count=1, total_pages=10, window_size=64, total_batches=1
+2026-07-13 11:03:01.353 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze_streaming:234 - Pipeline processing window batch 1/1: 10/10 pages, batch_pages=10, doc_slices=doc0:1-10
+2026-07-13 11:03:01.746 | INFO     | mineru.backend.pipeline.pipeline_analyze:batch_image_analyze:327 - GPU Memory: 79 GB, Batch Ratio: 16. 
+2026-07-13 11:03:01.746 | INFO     | mineru.backend.pipeline.model_init:__init__:206 - DocAnalysis init, this may take some times......
+2026-07-13 11:03:06.097 | INFO     | mineru.backend.pipeline.model_init:__init__:259 - DocAnalysis init done!
+2026-07-13 11:03:06.097 | INFO     | mineru.backend.pipeline.pipeline_analyze:custom_model_init:82 - model init cost: 4.350656986236572
+
+Layout Predict:   0%|          | 0/10 [00:00<?, ?it/s]
+Layout Predict:  80%|████████  | 8/10 [00:00<00:00, 11.28it/s]
+Layout Predict: 100%|██████████| 10/10 [00:00<00:00, 12.48it/s]
+Layout Predict: 100%|██████████| 10/10 [00:00<00:00, 12.17it/s]
+
+Table-ocr det: 0it [00:00, ?it/s]
+Table-ocr det: 0it [00:00, ?it/s]
+
+Table-wireless Predict: 0it [00:00, ?it/s]
+Table-wireless Predict: 0it [00:00, ?it/s]
+
+OCR-det ch:   0%|          | 0/21 [00:00<?, ?it/s]
+OCR-det ch:  14%|█▍        | 3/21 [00:00<00:00, 27.58it/s]
+OCR-det ch:  29%|██▊       | 6/21 [00:00<00:00, 15.24it/s]
+OCR-det ch:  48%|████▊     | 10/21 [00:00<00:00, 22.27it/s]
+OCR-det ch:  67%|██████▋   | 14/21 [00:00<00:00, 24.75it/s]
+OCR-det ch:  90%|█████████ | 19/21 [00:00<00:00, 31.24it/s]
+OCR-det ch: 100%|██████████| 21/21 [00:00<00:00, 28.01it/s]
+
+Seal Predict: 0it [00:00, ?it/s]
+Seal Predict: 0it [00:00, ?it/s]
+
+Processing pages:   0%|          | 0/10 [00:00<?, ?it/s]
+Processing pages:  40%|████      | 4/10 [00:00<00:00, 35.18it/s]
+Processing pages:  80%|████████  | 8/10 [00:00<00:00, 35.46it/s]
+Processing pages: 100%|██████████| 10/10 [00:00<00:00, 19.49it/s]
+2026-07-13 11:03:09.665 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 10/10 pages | 1 of 1 batch finished | task#1 [csrc_0042_att1]
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3687696]

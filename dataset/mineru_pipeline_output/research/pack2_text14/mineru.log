@@ -1,0 +1,134 @@
+command: mineru --path /opt/mengsen/long_content/dataset/public_dataset_upload/raw/research/pack2_text14.pdf --output /opt/mengsen/long_content/dataset/mineru_pipeline_output/research/pack2_text14 --backend pipeline --method auto --lang ch
+CUDA_VISIBLE_DEVICES=7
+MINERU_DEVICE_MODE=cuda
+MINERU_MODEL_SOURCE=local
+PYTORCH_ALLOC_CONF=expandable_segments:True
+Start MinerU FastAPI Service: http://127.0.0.1:47839
+API documentation: http://127.0.0.1:47839/docs
+2026-07-13 11:23:33.875 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:47839
+2026-07-13 11:23:36.339 | INFO     | __main__:create_app:250 - Request concurrency limited to 3
+INFO:     Started server process [6974]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:47839 (Press CTRL+C to quit)
+2026-07-13 11:23:36.889 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 55 pages in this batch | 55 pages total | task#1 [pack2_text14]
+2026-07-13 11:23:39.919 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze_streaming:182 - Pipeline processing-window multi-file run. doc_count=1, total_pages=55, window_size=64, total_batches=1
+2026-07-13 11:23:48.611 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze_streaming:234 - Pipeline processing window batch 1/1: 55/55 pages, batch_pages=55, doc_slices=doc0:1-55
+2026-07-13 11:23:49.086 | INFO     | mineru.backend.pipeline.pipeline_analyze:batch_image_analyze:327 - GPU Memory: 79 GB, Batch Ratio: 16. 
+2026-07-13 11:23:49.087 | INFO     | mineru.backend.pipeline.model_init:__init__:206 - DocAnalysis init, this may take some times......
+2026-07-13 11:23:53.698 | INFO     | mineru.backend.pipeline.model_init:__init__:259 - DocAnalysis init done!
+2026-07-13 11:23:53.698 | INFO     | mineru.backend.pipeline.pipeline_analyze:custom_model_init:82 - model init cost: 4.611613512039185
+
+Layout Predict:   0%|          | 0/55 [00:00<?, ?it/s]
+Layout Predict:  15%|█▍        | 8/55 [00:00<00:04, 11.32it/s]
+Layout Predict:  29%|██▉       | 16/55 [00:00<00:02, 18.74it/s]
+Layout Predict:  44%|████▎     | 24/55 [00:01<00:01, 24.18it/s]
+Layout Predict:  58%|█████▊    | 32/55 [00:01<00:00, 28.92it/s]
+Layout Predict:  73%|███████▎  | 40/55 [00:01<00:00, 32.36it/s]
+Layout Predict:  87%|████████▋ | 48/55 [00:01<00:00, 34.89it/s]
+Layout Predict: 100%|██████████| 55/55 [00:01<00:00, 35.63it/s]
+Layout Predict: 100%|██████████| 55/55 [00:01<00:00, 28.58it/s]
+
+Table-ocr det:   0%|          | 0/7 [00:00<?, ?it/s]
+Table-ocr det:  29%|██▊       | 2/7 [00:00<00:00,  8.57it/s]
+Table-ocr det:  71%|███████▏  | 5/7 [00:00<00:00, 12.59it/s]
+Table-ocr det: 100%|██████████| 7/7 [00:00<00:00, 14.24it/s]
+Table-ocr det: 100%|██████████| 7/7 [00:00<00:00, 13.16it/s]
+
+Table-ocr rec ch:   0%|          | 0/1296 [00:00<?, ?it/s]
+Table-ocr rec ch:   4%|▍         | 54/1296 [00:00<00:02, 538.49it/s]
+Table-ocr rec ch:   9%|▉         | 114/1296 [00:00<00:02, 572.62it/s]
+Table-ocr rec ch:  13%|█▎        | 174/1296 [00:00<00:01, 584.82it/s]
+Table-ocr rec ch:  18%|█▊        | 234/1296 [00:00<00:01, 589.43it/s]
+Table-ocr rec ch:  23%|██▎       | 294/1296 [00:00<00:01, 587.12it/s]
+Table-ocr rec ch:  27%|██▋       | 354/1296 [00:00<00:01, 590.33it/s]
+Table-ocr rec ch:  32%|███▏      | 414/1296 [00:00<00:01, 580.91it/s]
+Table-ocr rec ch:  37%|███▋      | 480/1296 [00:00<00:01, 588.55it/s]
+Table-ocr rec ch:  42%|████▏     | 540/1296 [00:00<00:01, 590.77it/s]
+Table-ocr rec ch:  46%|████▋     | 600/1296 [00:01<00:01, 590.57it/s]
+Table-ocr rec ch:  51%|█████▏    | 666/1296 [00:01<00:01, 595.14it/s]
+Table-ocr rec ch:  56%|█████▋    | 732/1296 [00:01<00:00, 597.22it/s]
+Table-ocr rec ch:  61%|██████    | 792/1296 [00:01<00:00, 597.98it/s]
+Table-ocr rec ch:  66%|██████▌   | 852/1296 [00:01<00:00, 598.29it/s]
+Table-ocr rec ch:  70%|███████   | 912/1296 [00:01<00:00, 594.93it/s]
+Table-ocr rec ch:  75%|███████▌  | 972/1296 [00:01<00:00, 589.93it/s]
+Table-ocr rec ch:  80%|███████▉  | 1032/1296 [00:01<00:00, 592.37it/s]
+Table-ocr rec ch:  84%|████████▍ | 1092/1296 [00:01<00:00, 591.18it/s]
+Table-ocr rec ch:  89%|████████▉ | 1152/1296 [00:01<00:00, 586.33it/s]
+Table-ocr rec ch:  94%|█████████▎| 1212/1296 [00:02<00:00, 587.18it/s]
+Table-ocr rec ch:  98%|█████████▊| 1272/1296 [00:02<00:00, 561.87it/s]
+Table-ocr rec ch: 100%|██████████| 1296/1296 [00:02<00:00, 577.02it/s]
+
+Table-wireless Predict:   0%|          | 0/7 [00:00<?, ?it/s]
+Table-wireless Predict:  57%|█████▋    | 4/7 [00:04<00:03,  1.20s/it]
+Table-wireless Predict: 100%|██████████| 7/7 [00:06<00:00,  1.06it/s]
+Table-wireless Predict: 100%|██████████| 7/7 [00:06<00:00,  1.01it/s]
+
+Table-wired Predict:   0%|          | 0/7 [00:00<?, ?it/s]
+Table-wired Predict:  14%|█▍        | 1/7 [00:00<00:01,  4.38it/s]
+Table-wired Predict:  29%|██▊       | 2/7 [00:01<00:05,  1.03s/it]
+Table-wired Predict:  43%|████▎     | 3/7 [00:01<00:02,  1.57it/s]
+Table-wired Predict:  57%|█████▋    | 4/7 [00:02<00:01,  1.99it/s]
+Table-wired Predict:  71%|███████▏  | 5/7 [00:02<00:00,  2.12it/s]
+Table-wired Predict:  86%|████████▌ | 6/7 [00:03<00:00,  2.05it/s]
+Table-wired Predict: 100%|██████████| 7/7 [00:03<00:00,  2.56it/s]
+Table-wired Predict: 100%|██████████| 7/7 [00:03<00:00,  2.05it/s]
+
+OCR-det ch:   0%|          | 0/62 [00:00<?, ?it/s]
+OCR-det ch:   2%|▏         | 1/62 [00:00<00:18,  3.28it/s]
+OCR-det ch:   3%|▎         | 2/62 [00:00<00:12,  4.73it/s]
+OCR-det ch:  10%|▉         | 6/62 [00:00<00:04, 13.69it/s]
+OCR-det ch:  15%|█▍        | 9/62 [00:01<00:06,  8.01it/s]
+OCR-det ch:  19%|█▉        | 12/62 [00:01<00:04, 11.07it/s]
+OCR-det ch:  26%|██▌       | 16/62 [00:01<00:02, 15.46it/s]
+OCR-det ch:  32%|███▏      | 20/62 [00:01<00:02, 20.14it/s]
+OCR-det ch:  37%|███▋      | 23/62 [00:01<00:01, 21.04it/s]
+OCR-det ch:  42%|████▏     | 26/62 [00:01<00:01, 20.64it/s]
+OCR-det ch:  47%|████▋     | 29/62 [00:01<00:01, 22.57it/s]
+OCR-det ch:  53%|█████▎    | 33/62 [00:01<00:01, 24.24it/s]
+OCR-det ch:  58%|█████▊    | 36/62 [00:02<00:01, 25.47it/s]
+OCR-det ch:  63%|██████▎   | 39/62 [00:02<00:00, 25.19it/s]
+OCR-det ch:  71%|███████   | 44/62 [00:02<00:00, 30.73it/s]
+OCR-det ch:  77%|███████▋  | 48/62 [00:02<00:00, 32.34it/s]
+OCR-det ch:  84%|████████▍ | 52/62 [00:02<00:00, 34.38it/s]
+OCR-det ch:  92%|█████████▏| 57/62 [00:02<00:00, 38.27it/s]
+OCR-det ch: 100%|██████████| 62/62 [00:02<00:00, 22.74it/s]
+
+Seal Predict: 0it [00:00, ?it/s]
+Seal Predict: 0it [00:00, ?it/s]
+
+Processing pages:   0%|          | 0/55 [00:00<?, ?it/s]
+Processing pages:   5%|▌         | 3/55 [00:00<00:01, 26.97it/s]
+Processing pages:  11%|█         | 6/55 [00:00<00:01, 25.45it/s]
+Processing pages:  16%|█▋        | 9/55 [00:00<00:01, 27.16it/s]
+Processing pages:  22%|██▏       | 12/55 [00:00<00:01, 24.50it/s]
+Processing pages:  27%|██▋       | 15/55 [00:00<00:01, 23.61it/s]
+Processing pages:  33%|███▎      | 18/55 [00:00<00:01, 23.25it/s]
+Processing pages:  38%|███▊      | 21/55 [00:00<00:01, 23.43it/s]
+Processing pages:  44%|████▎     | 24/55 [00:00<00:01, 23.68it/s]
+Processing pages:  49%|████▉     | 27/55 [00:01<00:01, 22.94it/s]
+Processing pages:  55%|█████▍    | 30/55 [00:01<00:01, 20.65it/s]
+Processing pages:  60%|██████    | 33/55 [00:01<00:01, 20.42it/s]
+Processing pages:  65%|██████▌   | 36/55 [00:01<00:00, 20.32it/s]
+Processing pages:  71%|███████   | 39/55 [00:01<00:00, 20.13it/s]
+Processing pages:  76%|███████▋  | 42/55 [00:01<00:00, 20.53it/s]
+Processing pages:  82%|████████▏ | 45/55 [00:02<00:00, 20.75it/s]
+Processing pages:  87%|████████▋ | 48/55 [00:02<00:00, 19.44it/s]
+Processing pages:  93%|█████████▎| 51/55 [00:02<00:00, 19.35it/s]
+Processing pages:  98%|█████████▊| 54/55 [00:02<00:00, 18.86it/s]
+
+OCR-rec Predict:   0%|          | 0/198 [00:00<?, ?it/s][A
+
+OCR-rec Predict:  30%|███       | 60/198 [00:00<00:00, 557.11it/s][A
+
+OCR-rec Predict:  61%|██████    | 120/198 [00:00<00:00, 567.29it/s][A
+
+OCR-rec Predict:  91%|█████████ | 180/198 [00:00<00:00, 528.73it/s][A
+OCR-rec Predict: 100%|██████████| 198/198 [00:00<00:00, 508.31it/s]
+
+Processing pages: 100%|██████████| 55/55 [00:03<00:00, 16.50it/s]
+2026-07-13 11:24:19.027 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 55/55 pages | 1 of 1 batch finished | task#1 [pack2_text14]
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [6974]

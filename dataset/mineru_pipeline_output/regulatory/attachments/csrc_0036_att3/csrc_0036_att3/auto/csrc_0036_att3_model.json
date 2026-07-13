@@ -1,0 +1,159 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7229,
+                "bbox": [
+                    215,
+                    311,
+                    340,
+                    359
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9401,
+                "bbox": [
+                    444,
+                    432,
+                    1208,
+                    494
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9741,
+                "bbox": [
+                    212,
+                    611,
+                    1441,
+                    841
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9558,
+                "bbox": [
+                    209,
+                    870,
+                    1436,
+                    1013
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8302,
+                "bbox": [
+                    817,
+                    2173,
+                    836,
+                    2200
+                ],
+                "index": 5
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    308,
+                    346,
+                    365
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    448,
+                    429,
+                    1209,
+                    498
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    296,
+                    612,
+                    1437,
+                    670
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    214,
+                    696,
+                    1440,
+                    758
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    234,
+                    779,
+                    486,
+                    849
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    296,
+                    869,
+                    1437,
+                    932
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    955,
+                    858,
+                    1017
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    2175,
+                    836,
+                    2204
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

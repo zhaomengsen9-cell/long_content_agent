@@ -1,0 +1,65 @@
+command: mineru --path /opt/mengsen/long_content/dataset/public_dataset_upload/raw/insurance/10.pdf --output /opt/mengsen/long_content/dataset/mineru_pipeline_output/insurance/10 --backend pipeline --method auto --lang ch
+CUDA_VISIBLE_DEVICES=5
+MINERU_DEVICE_MODE=cuda
+MINERU_MODEL_SOURCE=local
+PYTORCH_ALLOC_CONF=expandable_segments:True
+Start MinerU FastAPI Service: http://127.0.0.1:45559
+API documentation: http://127.0.0.1:45559/docs
+2026-07-13 10:30:58.495 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:45559
+2026-07-13 10:31:01.046 | INFO     | __main__:create_app:250 - Request concurrency limited to 3
+INFO:     Started server process [2889956]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:45559 (Press CTRL+C to quit)
+2026-07-13 10:31:01.508 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 14 pages in this batch | 14 pages total | task#1 [10]
+2026-07-13 10:31:04.473 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze_streaming:182 - Pipeline processing-window multi-file run. doc_count=1, total_pages=14, window_size=64, total_batches=1
+2026-07-13 10:31:08.533 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze_streaming:234 - Pipeline processing window batch 1/1: 14/14 pages, batch_pages=14, doc_slices=doc0:1-14
+2026-07-13 10:31:08.944 | INFO     | mineru.backend.pipeline.pipeline_analyze:batch_image_analyze:327 - GPU Memory: 79 GB, Batch Ratio: 16. 
+2026-07-13 10:31:08.944 | INFO     | mineru.backend.pipeline.model_init:__init__:206 - DocAnalysis init, this may take some times......
+2026-07-13 10:31:13.969 | INFO     | mineru.backend.pipeline.model_init:__init__:259 - DocAnalysis init done!
+2026-07-13 10:31:13.969 | INFO     | mineru.backend.pipeline.pipeline_analyze:custom_model_init:82 - model init cost: 5.024871110916138
+
+Layout Predict:   0%|          | 0/14 [00:00<?, ?it/s]
+Layout Predict:  57%|█████▋    | 8/14 [00:00<00:00, 11.04it/s]
+Layout Predict: 100%|██████████| 14/14 [00:00<00:00, 16.15it/s]
+Layout Predict: 100%|██████████| 14/14 [00:00<00:00, 14.96it/s]
+
+Table-ocr det:   0%|          | 0/1 [00:00<?, ?it/s]
+Table-ocr det: 100%|██████████| 1/1 [00:00<00:00, 19.38it/s]
+
+Table-ocr rec ch:   0%|          | 0/6 [00:00<?, ?it/s]
+Table-ocr rec ch: 100%|██████████| 6/6 [00:00<00:00, 299.89it/s]
+
+Table-wireless Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+Table-wireless Predict: 100%|██████████| 1/1 [00:00<00:00, 24.33it/s]
+
+Table-wired Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+Table-wired Predict: 100%|██████████| 1/1 [00:00<00:00,  7.31it/s]
+Table-wired Predict: 100%|██████████| 1/1 [00:00<00:00,  7.30it/s]
+
+OCR-det ch:   0%|          | 0/22 [00:00<?, ?it/s]
+OCR-det ch:   9%|▉         | 2/22 [00:00<00:01, 17.42it/s]
+OCR-det ch:  18%|█▊        | 4/22 [00:00<00:01, 11.57it/s]
+OCR-det ch:  27%|██▋       | 6/22 [00:00<00:02,  5.57it/s]
+OCR-det ch:  41%|████      | 9/22 [00:01<00:01,  8.94it/s]
+OCR-det ch:  50%|█████     | 11/22 [00:01<00:01, 10.10it/s]
+OCR-det ch:  59%|█████▉    | 13/22 [00:01<00:00, 11.47it/s]
+OCR-det ch:  68%|██████▊   | 15/22 [00:01<00:00, 11.67it/s]
+OCR-det ch:  82%|████████▏ | 18/22 [00:01<00:00, 14.39it/s]
+OCR-det ch:  95%|█████████▌| 21/22 [00:01<00:00, 17.08it/s]
+OCR-det ch: 100%|██████████| 22/22 [00:01<00:00, 12.66it/s]
+
+Seal Predict: 0it [00:00, ?it/s]
+Seal Predict: 0it [00:00, ?it/s]
+
+Processing pages:   0%|          | 0/14 [00:00<?, ?it/s]
+Processing pages:  21%|██▏       | 3/14 [00:00<00:00, 22.19it/s]
+Processing pages:  43%|████▎     | 6/14 [00:00<00:00, 22.50it/s]
+Processing pages:  64%|██████▍   | 9/14 [00:00<00:00, 23.02it/s]
+Processing pages:  86%|████████▌ | 12/14 [00:00<00:00, 23.35it/s]
+Processing pages: 100%|██████████| 14/14 [00:00<00:00, 16.13it/s]
+2026-07-13 10:31:21.159 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 14/14 pages | 1 of 1 batch finished | task#1 [10]
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2889956]

@@ -1,0 +1,2405 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.6526,
+                "bbox": [
+                    310,
+                    520,
+                    1328,
+                    596
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9827,
+                "bbox": [
+                    210,
+                    692,
+                    1430,
+                    1063
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9232,
+                "bbox": [
+                    304,
+                    1314,
+                    977,
+                    1370
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9107,
+                "bbox": [
+                    437,
+                    1391,
+                    1115,
+                    1448
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.905,
+                "bbox": [
+                    437,
+                    1469,
+                    1157,
+                    1526
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8971,
+                "bbox": [
+                    437,
+                    1546,
+                    1113,
+                    1603
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8976,
+                "bbox": [
+                    438,
+                    1624,
+                    1114,
+                    1681
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8982,
+                "bbox": [
+                    438,
+                    1701,
+                    1116,
+                    1760
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.7978,
+                "bbox": [
+                    255,
+                    2085,
+                    300,
+                    2123
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    310,
+                    519,
+                    1328,
+                    602
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    308,
+                    691,
+                    1423,
+                    745
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    219,
+                    770,
+                    1423,
+                    824
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    220,
+                    847,
+                    1421,
+                    901
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    217,
+                    927,
+                    1419,
+                    977
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    237,
+                    1007,
+                    709,
+                    1054
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    309,
+                    1310,
+                    971,
+                    1369
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    444,
+                    1390,
+                    1109,
+                    1447
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    443,
+                    1470,
+                    1152,
+                    1524
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    441,
+                    1545,
+                    1107,
+                    1602
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    442,
+                    1623,
+                    1107,
+                    1680
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    446,
+                    1703,
+                    1108,
+                    1757
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    264,
+                    2087,
+                    293,
+                    2127
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9152,
+                "bbox": [
+                    178,
+                    306,
+                    306,
+                    353
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8623,
+                "bbox": [
+                    563,
+                    381,
+                    1089,
+                    440
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7653,
+                "bbox": [
+                    177,
+                    458,
+                    314,
+                    493
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8458,
+                "bbox": [
+                    799,
+                    458,
+                    918,
+                    492
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.5895,
+                "bbox": [
+                    1361,
+                    458,
+                    1474,
+                    492
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9909,
+                "bbox": [
+                    163,
+                    496,
+                    1491,
+                    1933
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目</td><td rowspan=2 colspan=1>行次</td><td rowspan=2 colspan=1>期初余额</td><td rowspan=2 colspan=1>期末余额</td><td rowspan=2 colspan=1>扣减比例</td><td rowspan=1 colspan=2>应计算的金额</td></tr><tr><td rowspan=1 colspan=1>期初余额</td><td rowspan=1 colspan=1>期末余额</td></tr><tr><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>减：优先股及永续次级债等</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>减：资产项目的风险调整合计</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>存出保证金</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：履约保证金</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>期货（期权）保证金注1</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其他存出保证金</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>长期股权投资</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>投资性房地产、固定资产、在建工程注2</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其他注3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>减：或有负债的风险调整合计</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>对外担保金额及担保承诺注4</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其他或有负债注5</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>加：中国证监会认定或核准的其他调整项目合计注6</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>母公司提供的担保承诺</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其他项目</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>减：中国证监会认定或核准的其他调整项目合计注6</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>所有权受限等无法变现的资产（如被冻结）</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其他项目</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>核心净资本</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>加：附属净资本注7</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>借入的次级债（含永续次级债）注8</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>中国证监会认定或核准的其他调整项目注9</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>净资本注10</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=7>附1：期末或有事项</td></tr><tr><td rowspan=1 colspan=7>附2：其他需要特别说明的事项</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8397,
+                "bbox": [
+                    258,
+                    2088,
+                    299,
+                    2121
+                ],
+                "index": 7
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    265,
+                    2086,
+                    293,
+                    2130
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    175,
+                    302,
+                    313,
+                    359
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    178,
+                    458,
+                    319,
+                    493
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    799,
+                    454,
+                    922,
+                    496
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1357,
+                    456,
+                    1476,
+                    495
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    564,
+                    379,
+                    1090,
+                    445
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9343,
+                "bbox": [
+                    165,
+                    278,
+                    1482,
+                    1444
+                ],
+                "index": 1,
+                "html": "<table><tr><td>注： 1.期货（期权）保证金是指已被股指期货、国债期货、商品期货、股票（股指）期权、商品期 权等合约占用的交易保证金。 2．固定资产包括所有权权属明确的房产及其他固定资产。 3.其他资本扣除项包括商誉、递延所得税资产、无形资产、待转承销费用、抵债资产、长期待 摊费用等其他资产，例如购买固定资产等长期资产的预付款项等。持有的金融资产、承租业务使用权 资产不扣减净资本。 4．对外担保金额不包括公司为自身负债提供的反担保。担保承诺指对控股证券业务子公司提供 的担保承诺。按或有事项涉及金额的20%或可能发生的损失孰高者扣除。 5．对于证券公司在债券承销过程中设置定向转让条款，约定投资者有权在一定时间内，将持有 的部分或全部债券转让给承销商的，以及证券公司为境外持牌子公司融资提供的担保涉及的或有事项 净资本扣除额在本行填列。 6.指由中国证监会认定或核准的可计入核心净资本或需从核心净资本中扣除的项目。 7．附属净资本不得超过核心净资本。 8.次级债计入净资本的具体比例参照中国证监会的相关规定。对于证券公司发行的附有选择权 的次级债，无论选择权属于证券公司或投资者，应当根据审慎原则，在计入净资本时按剔除选择权年 限的期限确定计入比例。 9.指由中国证监会认定或核准的可计入附属净资本的项目，包括优先股、应急可转债等。 10.净资本为核心净资本和附属净资本之和。 11.计算净资本时，需要计提资产减值准备的项目，以扣减资产减值准备后的净额作为计算基础； 无须计提资产减值准备的项目，以其账面余额作为计算基础。 12.证券公司对境外非持牌子公司融资提供担保、且相关融资金额最终未计入附属持牌公司负债 的，应在本表的基础上，对相关融资金额参照“对外担保金额”（即100%扣减净资本）进行模拟测</td></tr><tr><td>算，将相关测算结果报送中国证监会，并抄报住所地派出机构。 法定代表人 办公电话 移动电话 总经理 办公电话 移动电话 财务负责人 办公电话 移动电话 首席风险官 办公电话 移动电话</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8357,
+                "bbox": [
+                    257,
+                    2087,
+                    300,
+                    2122
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    266,
+                    2086,
+                    291,
+                    2127
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9199,
+                "bbox": [
+                    161,
+                    291,
+                    296,
+                    339
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5738,
+                "bbox": [
+                    463,
+                    351,
+                    1146,
+                    412
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8433,
+                "bbox": [
+                    137,
+                    432,
+                    276,
+                    467
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8677,
+                "bbox": [
+                    694,
+                    431,
+                    847,
+                    466
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6619,
+                "bbox": [
+                    1288,
+                    433,
+                    1409,
+                    467
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9909,
+                "bbox": [
+                    123,
+                    474,
+                    1530,
+                    2033
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目</td><td rowspan=2 colspan=1>行次</td><td rowspan=2 colspan=1>期初余额</td><td rowspan=2 colspan=1>期末余额</td><td rowspan=2 colspan=1>计算标准</td><td rowspan=1 colspan=2>风险资本准备</td></tr><tr><td rowspan=1 colspan=1>期初余额</td><td rowspan=1 colspan=1>期末余额</td></tr><tr><td rowspan=1 colspan=1>1．市场风险资本准备</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：（1）权益类证券及其衍生品规模注1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>上海180指数、深圳100指数、沪深300指数、中证 500指数成份股注2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>8%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>一般上市股票注2</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>25%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>流通受限的股票注2</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其他股票注2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>80%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>权益类基金注3</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：指数基金</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其他权益类基金</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>股指期货、权益互换及卖出期权注4</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>30%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>买入期权注4</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>（2）非权益类证券及其衍生品规模注1</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>国债、中央银行票据、国开债</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>政策性金融债、政府支持机构债券注5</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>地方政府债券注5</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>同业存单</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>信用评级AAA级的信用债券、银行承兑汇票注5</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>信用评级AAA级以下，AA级（含）以上的信用债券、银行承兑汇票注5</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>15%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>信用评级AA级以下，BBB级（含）以上的信用债券、银行承兑汇票注5</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>信用评级BBB级以下的信用债券、银行承兑汇票注5</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>80%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>非权益类基金注6</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：货币基金</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8249,
+                "bbox": [
+                    258,
+                    2089,
+                    300,
+                    2121
+                ],
+                "index": 7
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    464,
+                    348,
+                    1147,
+                    417
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    264,
+                    2087,
+                    294,
+                    2127
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    159,
+                    288,
+                    301,
+                    345
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    432,
+                    280,
+                    468
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    696,
+                    430,
+                    847,
+                    469
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1285,
+                    430,
+                    1409,
+                    469
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9902,
+                "bbox": [
+                    123,
+                    281,
+                    1531,
+                    2043
+                ],
+                "index": 1,
+                "html": "<table><tr><td rowspan=1 colspan=1>利率债指数基金注6</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>6%</td></tr><tr><td rowspan=1 colspan=1>其他非权益类基金</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>国债期货、债券远期及利率互换注4</td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>20%</td></tr><tr><td rowspan=1 colspan=1>外汇衍生品注4</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>20%</td></tr><tr><td rowspan=1 colspan=1>集合及信托等产品注6</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：现金管理类理财产品</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td></tr><tr><td rowspan=1 colspan=1>分级产品中的非优先级</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>25%</td></tr><tr><td rowspan=1 colspan=1>单一产品注6</td><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td></tr><tr><td rowspan=1 colspan=1>大宗商品现货（含黄金）</td><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>8%</td></tr><tr><td rowspan=1 colspan=1>大宗商品衍生品（不含期权）</td><td rowspan=1 colspan=1>34</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>20%</td></tr><tr><td rowspan=1 colspan=1>非权益类期权注4</td><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：买入期权注4</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td></tr><tr><td rowspan=1 colspan=1>卖出期权注4</td><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>20%</td></tr><tr><td rowspan=1 colspan=1>信用衍生品</td><td rowspan=1 colspan=1>38</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：买入信用衍生品注4</td><td rowspan=1 colspan=1>39</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td></tr><tr><td rowspan=1 colspan=1>卖出信用衍生品注4</td><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>20%/60%</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>41</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>（3）已对冲风险的权益类证券及其衍生品注7</td><td rowspan=1 colspan=1>42</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>权益类证券</td><td rowspan=1 colspan=1>43</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td></tr><tr><td rowspan=1 colspan=1>权益类衍生品</td><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td></tr><tr><td rowspan=1 colspan=1>（4）已对冲风险的非权益类证券及其衍生品注7</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>非权益类证券</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1%</td></tr><tr><td rowspan=1 colspan=1>非权益类衍生品</td><td rowspan=1 colspan=1>47</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1%</td></tr><tr><td rowspan=1 colspan=1>2.信用风险资本准备</td><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>融资类业务注8</td><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：场内股票质押业务注8</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：第一大股东高比例质押</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td></tr><tr><td rowspan=1 colspan=1>受限股股票质押</td><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>40%</td></tr><tr><td rowspan=1 colspan=1>非受限股股票质押</td><td rowspan=1 colspan=1>53</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>15%</td></tr><tr><td rowspan=1 colspan=1>低履约保障合约</td><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>加倍计算</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>20%</td></tr><tr><td rowspan=1 colspan=1>其他场内融资业务</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>场外融资业务注8</td><td rowspan=1 colspan=1>57</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>30%</td></tr><tr><td rowspan=1 colspan=1>应收账款注8</td><td rowspan=1 colspan=1>58</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：账龄1年以内（含1年）</td><td rowspan=1 colspan=1>59</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>账龄1年以上</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8378,
+                "bbox": [
+                    257,
+                    2088,
+                    301,
+                    2122
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    266,
+                    2087,
+                    291,
+                    2127
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9903,
+                "bbox": [
+                    123,
+                    282,
+                    1530,
+                    2053
+                ],
+                "index": 1,
+                "html": "<table><tr><td rowspan=1 colspan=1>应收股东及关联公司款项注8</td><td rowspan=1 colspan=1>61</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td></tr><tr><td rowspan=1 colspan=1>逆回购交易注8</td><td rowspan=1 colspan=1>62</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：交易所债券质押式逆回购</td><td rowspan=1 colspan=1>63</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1%</td></tr><tr><td rowspan=1 colspan=1>其他逆回购交易</td><td rowspan=1 colspan=1>64</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>其中：信用评级AA级（含）以下的债券逆回购交易</td><td rowspan=1 colspan=1>65</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>20%</td></tr><tr><td rowspan=1 colspan=1>非全额保证金的权益互换注8</td><td rowspan=1 colspan=1>66</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>67</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3.操作风险资本准备注9</td><td rowspan=1 colspan=1>68</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>证券经纪业务净收入</td><td rowspan=1 colspan=1>69</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>12%</td></tr><tr><td rowspan=1 colspan=1>证券投资咨询业务净收入</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>12%</td></tr><tr><td rowspan=1 colspan=1>证券承销与保荐业务、财务顾问业务净收入</td><td rowspan=1 colspan=1>71</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>15%</td></tr><tr><td rowspan=1 colspan=1>证券资产管理业务净收入</td><td rowspan=1 colspan=1>72</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>15%</td></tr><tr><td rowspan=1 colspan=1>证券自营业务净收入</td><td rowspan=1 colspan=1>73</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>18%</td></tr><tr><td rowspan=1 colspan=1>融资类业务净收入</td><td rowspan=1 colspan=1>74</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>18%</td></tr><tr><td rowspan=1 colspan=1>其他业务净收入</td><td rowspan=1 colspan=1>75</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>18%</td></tr><tr><td rowspan=1 colspan=1>4.特定风险资本准备</td><td rowspan=1 colspan=1>76</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>证券公司资产管理业务注10</td><td rowspan=1 colspan=1>77</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>单一资管计划</td><td rowspan=1 colspan=1>78</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：投资标准化资产</td><td rowspan=1 colspan=1>79</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0.1%</td></tr><tr><td rowspan=1 colspan=1>投资股票质押</td><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>3%</td></tr><tr><td rowspan=1 colspan=1>其中：低履约保障合约注8</td><td rowspan=1 colspan=1>81</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>6%</td></tr><tr><td rowspan=1 colspan=1>投资其他非标资产</td><td rowspan=1 colspan=1>82</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>3%</td></tr><tr><td rowspan=1 colspan=1>高杠杆、高集中度产品注10</td><td rowspan=1 colspan=1>83</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>集合资管计划</td><td rowspan=1 colspan=1>84</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：投资标准化资产</td><td rowspan=1 colspan=1>85</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0.1%</td></tr><tr><td rowspan=1 colspan=1>投资股票质押</td><td rowspan=1 colspan=1>86</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td></tr><tr><td rowspan=1 colspan=1>其中：低履约保障合约注8</td><td rowspan=1 colspan=1>87</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>投资其他非标资产</td><td rowspan=1 colspan=1>88</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td></tr><tr><td rowspan=1 colspan=1>高杠杆、高集中度产品注10</td><td rowspan=1 colspan=1>89</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>私募投资基金服务注11</td><td rowspan=1 colspan=1>90</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：私募证券投资基金托管业务</td><td rowspan=1 colspan=1>91</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0.2%</td></tr><tr><td rowspan=1 colspan=1>非标私募投资基金托管业务</td><td rowspan=1 colspan=1>92</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2%</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8379,
+                "bbox": [
+                    258,
+                    2088,
+                    300,
+                    2122
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    267,
+                    2087,
+                    291,
+                    2129
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9899,
+                "bbox": [
+                    124,
+                    281,
+                    1528,
+                    2039
+                ],
+                "index": 1,
+                "html": "<table><tr><td>非标私募投资基金代销 业务</td><td>93</td><td></td><td></td><td>1%</td><td></td><td></td></tr><tr><td>资产支持证券管理业务注12</td><td>94</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>其中：场内资产支持证券</td><td>95</td><td></td><td></td><td>0.5%</td><td></td><td></td></tr><tr><td>场外资产支持证券</td><td>96</td><td></td><td></td><td>2%</td><td></td><td></td></tr><tr><td>债券质押式正回购结算业务注13</td><td>97</td><td></td><td></td><td>1%</td><td></td><td></td></tr><tr><td>为区域性股权市场提供服务注14</td><td>98</td><td></td><td></td><td>1%</td><td></td><td></td></tr><tr><td>黄金租借业务注15</td><td>99</td><td></td><td></td><td>2%</td><td></td><td></td></tr><tr><td>5.中国证监会认可的调整事项 分类调整前的各项风险资本准备合计</td><td>100 101</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>注16 分类调整后的各项风险资本准备合计</td><td>102</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>注17 附：其他需要特别说明的事项</td><td>103</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"7\">注： 1．权益类证券及其衍生品包括：股票、存托凭证、权益类基金、股指期货、权益互换、权益类期权等。 非权益类证券及其衍生品包括：债券、非权益类基金、国债期货、债券远期、利率互换、外汇衍生品、单一 产品、集合及信托产品、大宗商品现货和衍生品、非权益类期权、信用衍生品等。证券公司开展中国证监会 认可的做市业务，在做市账户中持有的金融资产及衍生品的市场风险资本准备按照对应类别标准的90%计 算。本规定所指衍生品，包含期货及其他衍生品。 2.指数成份股包含属于当地市场前三大综合指数成份股的境外股票。一般上市股票包含境外市场股票、 优先股以及在全国股转系统挂牌股份中做市并且持股市值与该股票市值比例低于5%的部分。流通受限的股 票包含未上市流通、限制流通以及流动性较低的股票，具体指已发行尚未上市流通的新股、处于限售期的法 人股、在一定期限内被锁定或被冻结的股票以及在全国股转系统挂牌的股份（包含做市并且持股市值与该股 票市值比例高于5%的部分）。其他股票包含 ST股票、*ST股票、已退市股票和持有市值与该股票市值的 比例超过5%的股票。股票的分类中同时符合两个或两个以上标准的，应采用最高的比例进行计算。存托凭 证参照凭证对应证券类别标准计算填列。股票不含转融通融入的证券。 3．权益类基金包括股票基金、混合基金、权益类指数基金（含ETF）等。 4．股指期货、权益互换、国债期货、债券远期、利率互换（包括以债券、固定收益类结构化票据、债 券类指数、债券类基金等固定收益类资产为基础标的的收益互换）、外汇衍生品、大宗商品衍生品（不含商 品期权）投资规模分别按照合约名义价值总额的15%、10%、5%、50%、3%、3%和10%计算。名义价值是 指合约实际参与衍生品交易的名义金额。期权主要包括权益类（股票、股指、ETF期权等）及非权益类（商 品期权等）。买入期权投资规模按照买入场内外期权的权利金价格之和计算。卖出场内期权投资规模按照 Delta 金额的15%计算。期权的Delta 金额根据交易所公布的Delta系数进行计算。卖出场外期权投资规模按 照该期权在给定压力情形下的最大损失的5倍计算（按照合约本身的损失测算，多头与空头合约不允许净轧 差），且不低于名义价值的5%；给定压力情形为期权标的价格以当前价格为基础上下波动 20%。买入信用 衍生品按照账面价值的100%计算市场风险资本准备；一级、二级交易商卖出信用衍生品的，分别按照合约 名义价值总额的20%、60%计算市场风险资本准备。证券公司开展的保证金比例低于名义本金100%的以境 内个股为标的的收益互换业务，市场风险资本准备按照对应类别标准的2倍计算。 5．政策性金融债特指进出口银行、农业发展银行等政策性银行发行的金融债券。政府支持机构债券为</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8254,
+                "bbox": [
+                    258,
+                    2088,
+                    301,
+                    2121
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    264,
+                    2086,
+                    293,
+                    2126
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5415,
+                "bbox": [
+                    132,
+                    283,
+                    1524,
+                    562
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5385,
+                "bbox": [
+                    133,
+                    562,
+                    1522,
+                    920
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5469,
+                "bbox": [
+                    133,
+                    919,
+                    1521,
+                    1197
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5575,
+                "bbox": [
+                    133,
+                    1196,
+                    1522,
+                    1796
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5648,
+                "bbox": [
+                    132,
+                    1794,
+                    1523,
+                    2033
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8268,
+                "bbox": [
+                    258,
+                    2089,
+                    299,
+                    2121
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    266,
+                    2086,
+                    291,
+                    2126
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    289,
+                    1517,
+                    317
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    326,
+                    1519,
+                    359
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    365,
+                    1517,
+                    398
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    407,
+                    1516,
+                    435
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    447,
+                    1516,
+                    476
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    488,
+                    1517,
+                    517
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    527,
+                    1319,
+                    555
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    925,
+                    1517,
+                    953
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    962,
+                    1518,
+                    995
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1004,
+                    1517,
+                    1033
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    1041,
+                    1517,
+                    1075
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1083,
+                    1517,
+                    1112
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    1121,
+                    1518,
+                    1154
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    1157,
+                    227,
+                    1197
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1798,
+                    1517,
+                    1826
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1837,
+                    1517,
+                    1866
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1877,
+                    1516,
+                    1906
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    1915,
+                    1517,
+                    1948
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    1954,
+                    1517,
+                    1987
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    1994,
+                    1519,
+                    2028
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    565,
+                    1515,
+                    595
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    605,
+                    1517,
+                    635
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    642,
+                    1517,
+                    678
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    685,
+                    1517,
+                    715
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    725,
+                    1517,
+                    755
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    765,
+                    1517,
+                    795
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    805,
+                    1517,
+                    835
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    843,
+                    1517,
+                    874
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    882,
+                    1336,
+                    915
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1199,
+                    1518,
+                    1234
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1242,
+                    1517,
+                    1272
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1281,
+                    1517,
+                    1311
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    1316,
+                    1518,
+                    1352
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1361,
+                    1515,
+                    1391
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    1397,
+                    1518,
+                    1432
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1440,
+                    1517,
+                    1470
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    1478,
+                    1518,
+                    1512
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1520,
+                    1517,
+                    1550
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1559,
+                    1515,
+                    1589
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1599,
+                    1517,
+                    1628
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1639,
+                    1517,
+                    1669
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    1676,
+                    1517,
+                    1710
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1718,
+                    1517,
+                    1748
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    139,
+                    1756,
+                    1352,
+                    1789
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9821,
+                "bbox": [
+                    129,
+                    282,
+                    1528,
+                    1440
+                ],
+                "index": 1,
+                "html": "<table><tr><td>业务净收入为近三个年度利润监管报表“融资业务利息收入&quot;科目扣除相应利息成本后的平均数。其他业务净 收入为近三个年度利润监管报表“营业收入”相应科目余额扣除以上各业务净收入后的平均数。 10.包括证券公司及其控股的从事私募资产管理业务的子公司开展的各类资产管理业务。投资标准化资 产、股票质押、其他非标资产的，按照实际投资金额分类计算，未实际投资规模（现金、银行存款等）不纳 入计算。高杠杆产品为正回购余额与净资产之比超过40%的资管计划，按照产品投向分类计算标准的2倍计 算；高集中度产品为正回购余额与净资产比值超过20%、且投资单一发行人及其关联方、一致行动人发行的 信用债券占净资产比例超过25%的资管计划，对投资相关信用债券超过25%部分全额计算特定风险资本准 备。 11.非标私募投资基金包括私募股权投资基金、创业投资基金及其他非标私募投资基金，按照产品净值 计算。私募基金分类以基金业协会登记和公示信息为准。 12.指证券公司承担管理人职责的资产支持证券，按照产品存续规模计算。场内资产支持证券指证券交 易所挂牌交易的资产支持证券。因公募REITs产品发行需要，担任相关资产支持证券管理人的，相关产品 存续规模无需计算特定风险资本准备。 13．指证券公司作为结算参与人，客户开展的债券质押式正回购业务，按待回购交易余额计算。</td></tr><tr><td>14.指证券公司及其控股子公司根据《区域性股权市场监督管理试行办法》为区域性股权市场提供的财 务顾问、居间介绍服务等业务，按照各项业务存续规模之和计算。 15.按照黄金租借业务存续规模计算。证券公司开展黄金租借业务应当符合《黄金租借业务管理暂行办 法》等相关监管规定。 16.分类调整前的各项风险资本准备合计为市场风险资本准备、信用风险资本准备、操作风险资本准备 及特定风险资本准备计算结果之和。 17.各类证券公司风险资本准备每年1月1日根据上年分类评价结果进行调整，系数为：连续三年A类 AA级以上（含）为0.4，连续三年A类为0.6，A类为0.8，B类为0.9，C类为1，D类为2。C类为基准。 18.连续三年A类AA级以上（含）的“白名单”证券公司，经中国证监会认可后，可以试点采取内部 模型法等风险计量高级方法计算风险资本准备。 法定代表人 办公电话 移动电话 总经理</td></tr><tr><td>办公电话 移动电话 财务负责人 办公电话 移动电话 首席风险官 办公电话 移动电话 制表人 办公电话 移动电话</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8401,
+                "bbox": [
+                    257,
+                    2087,
+                    300,
+                    2122
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    266,
+                    2087,
+                    291,
+                    2128
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9285,
+                "bbox": [
+                    219,
+                    261,
+                    352,
+                    310
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.515,
+                "bbox": [
+                    467,
+                    322,
+                    1201,
+                    382
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.7183,
+                "bbox": [
+                    218,
+                    395,
+                    356,
+                    430
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.736,
+                "bbox": [
+                    825,
+                    395,
+                    945,
+                    429
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.7462,
+                "bbox": [
+                    1327,
+                    394,
+                    1450,
+                    429
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9896,
+                "bbox": [
+                    204,
+                    431,
+                    1465,
+                    2048
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=2>项          目</td><td rowspan=1 colspan=1>行次</td><td rowspan=1 colspan=1>期末余额</td><td rowspan=1 colspan=1>转换系数</td><td rowspan=1 colspan=1>计算结果</td></tr><tr><td rowspan=7 colspan=1>表内资产</td><td rowspan=1 colspan=1>表内资产总额注1</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>减：表内资产扣除项</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>1.客户资金</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>代理买卖证券款、信用交易代理买卖证券款、代理承销证券款</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>客户保证金注2</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>表内资产余额</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=17 colspan=1>表外项目</td><td rowspan=1 colspan=1>1.证券衍生产品注3</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>国债期货、债券远期、利率互换、外汇衍生品</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>股指期货、权益互换及卖出场内期权</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>大宗商品衍生品</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>卖出信用衍生品</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>卖出场外期权</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2.资产管理业务注4</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0.5%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3.其他表外项目</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>资产支持证券注5</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0.3%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>转融通融入证券注5</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>股票再融资承销承诺注6</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>15%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>股票IPO承销承诺注6</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>债券承销承诺注6</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>对外担保金额及担保承诺注7</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其他或有事项注8</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>表外项目余额注9</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>中国证监会认可的调整事项</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>分类调整前的表内外资产总额注10</td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>分类调整后的表内外资产总额注11</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=6>注：1.表内资产总额为资产负债表中的总资产。2．指客户因开展场内衍生品交易提交的交易保证金。3．国债期货、债券远期、信用衍生品、利率互换（包括以债券、固定收益类结构化票据、债券类指数、债券类基金等固定收益类资产为基础标的的收益互换）、外汇衍生品、股指期货、权</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8506,
+                "bbox": [
+                    260,
+                    2087,
+                    315,
+                    2122
+                ],
+                "index": 7
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    264,
+                    2084,
+                    311,
+                    2132
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    215,
+                    257,
+                    359,
+                    317
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    219,
+                    395,
+                    360,
+                    430
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    824,
+                    392,
+                    948,
+                    432
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    393,
+                    1450,
+                    432
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    468,
+                    319,
+                    1203,
+                    388
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9841,
+                "bbox": [
+                    206,
+                    282,
+                    1464,
+                    1480
+                ],
+                "index": 1,
+                "html": "<table><tr><td>益互换、大宗商品衍生品（不含商品期权）期末余额分别按照合约名义价值总额的5%、50%、 50%、3%、3%、15%、10%、10%计算，其中保证金比例低于名义本金100%的以境内个股为标 的的收益互换按20%计算。期权主要包括权益类（股票、股指、ETF期权等）及非权益类（商品 期权等）。卖出场内期权期末余额按照Delta金额的15%计算。期权的Delta金额根据交易所公 布的Delta系数进行计算。卖出场外期权期末余额按照该期权在给定压力情形下的最大损失的5 倍计算（按照合约本身的损失测算，多头与空头合约不允许净轧差），且不低于名义金额的5%， 给定压力情形为期权标的证券价格以当前价格为基础上下波动 20%。多头与空头不允许净轧差。 名义价值是指合约实际参与衍生品交易的名义金额。 4.包括证券公司管理的公募产品、私募资管产品（含控股从事私募资产管理业务的子公司从 事的各类私募资产管理业务），产品规模以净值填列。 5.指证券公司承担管理人职责的资产支持证券，按照产品存续规模计算。转融通融入证券按</td></tr><tr><td>行日期）前3天开始计算至发行期结束日止。若在此期间之前已经签署承销团协议的，期末余额 按照各主承销商及分销商承诺包销的金额填列；若在此期间之前没有签署承销团协议的，期末余 额按照各主承销商承诺包销的金额填列。若承销协议没有约定各主承销商承诺包销的金额，按总 包销金额平均分配到各主承销商填列。 7．对外担保金额不包括公司为自身负债提供的反担保；担保承诺指对控股证券业务子公司提 供的担保承诺。 8.其他或有事项包括但不限于资本性支出承诺、投资承诺、或有负债、未决诉讼赔偿及其他 各类承诺事项等。按或有事项涉及金额的20%或可能发生的损失孰高者计算。 9.表外项目余额为证券衍生产品、资产管理业务及其他表外项目计算结果合计。 10.分类调整前的表内外资产总额为表内资产余额与表外项目余额合计。</td></tr><tr><td>连续三年A类AA级以上（含）为0.7，连续三年A类为0.9，其余为1。 法定代表人 办公电话 移动电话 总经理 办公电话 移动电话 财务负责人 办公电话 移动电话 首席风险官 办公电话 移动电话 制表人 办公电话 移动电话</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8431,
+                "bbox": [
+                    257,
+                    2086,
+                    314,
+                    2123
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    266,
+                    2086,
+                    308,
+                    2127
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9306,
+                "bbox": [
+                    198,
+                    291,
+                    333,
+                    339
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.62,
+                "bbox": [
+                    470,
+                    352,
+                    1154,
+                    412
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.6596,
+                "bbox": [
+                    197,
+                    425,
+                    335,
+                    460
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.626,
+                "bbox": [
+                    867,
+                    424,
+                    985,
+                    460
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8136,
+                "bbox": [
+                    1302,
+                    425,
+                    1424,
+                    460
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9905,
+                "bbox": [
+                    182,
+                    462,
+                    1441,
+                    2002
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>行次</td><td rowspan=1 colspan=1>期末金额</td><td rowspan=1 colspan=1>折算率</td><td rowspan=1 colspan=1>折算后金额</td></tr><tr><td rowspan=1 colspan=1>优质流动性资产</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：货币资金注1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>结算备付金</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>国债、中央银行票据、国开债</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>减：已冻结或质押部分</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>政策性金融债、政府支持机构债券注2</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>99%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>减：已冻结或质押部分</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>99%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>地方政府债券注2</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>95%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>减：已冻结或质押部分</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>95%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>同业存单</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>95%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>减：已冻结或质押部分</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>95%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>信用评级AAA级的信用债券、银行承兑汇票注2</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>96%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>减：已冻结或质押部分</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>96%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>信用评级AAA级以下，AA+级（含）以上的信用债券、银行承兑汇票注2</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>90%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>减：已冻结或质押部分</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>90%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>货币基金、利率债指数基金、现金管理类理财产品</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>90%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>减：已冻结或质押部分</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>90%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>上海180指数、深圳100指数、沪深300指数、中证500指数成份股及宽基股票指数类ETF注3</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>减：已冻结或质押部分</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>未来30日现金流出</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>1.30日内到期的负债现金流出</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>短期借款</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>拆入资金</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>卖出回购（按质押物分类）注4</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：国债、中央银行票据、国开债</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8576,
+                "bbox": [
+                    259,
+                    2087,
+                    314,
+                    2122
+                ],
+                "index": 7
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    472,
+                    348,
+                    1153,
+                    417
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    266,
+                    2083,
+                    313,
+                    2133
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    286,
+                    339,
+                    344
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    425,
+                    340,
+                    461
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    864,
+                    422,
+                    986,
+                    461
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1301,
+                    423,
+                    1426,
+                    462
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 11,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9899,
+                "bbox": [
+                    182,
+                    282,
+                    1442,
+                    2043
+                ],
+                "index": 1,
+                "html": "<table><tr><td rowspan=1 colspan=1>政策性金融债、政府支持机构债券</td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1%</td></tr><tr><td rowspan=1 colspan=1>地方政府债券</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td></tr><tr><td rowspan=1 colspan=1>同业存单</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td></tr><tr><td rowspan=1 colspan=1>信用评级AAA级的信用债券、银行承兑汇票</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>4%</td></tr><tr><td rowspan=1 colspan=1>信用评级AAA级以下，AA+级（含）以上的信用债券、银行承兑汇票</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>信用评级AA级的信用债券、银行承兑汇票</td><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>30%</td></tr><tr><td rowspan=1 colspan=1>债券基金、公募REITs注 5</td><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td></tr><tr><td rowspan=1 colspan=1>应付职工薪酬、税费、利息和股利</td><td rowspan=1 colspan=1>34</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td></tr><tr><td rowspan=1 colspan=1>交易性金融负债、衍生金融负债</td><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td></tr><tr><td rowspan=1 colspan=1>30日内须偿还的次级债务和其他债务</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td></tr><tr><td rowspan=1 colspan=1>2.或有负债</td><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>对外担保金额及担保承诺注6</td><td rowspan=1 colspan=1>38</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>3%</td></tr><tr><td rowspan=1 colspan=1>其他或有事项注6</td><td rowspan=1 colspan=1>39</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>3%</td></tr><tr><td rowspan=1 colspan=1>3．自营业务及长期投资资金流出</td><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>利率互换、外汇衍生品注7</td><td rowspan=1 colspan=1>41</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0.1%</td></tr><tr><td rowspan=1 colspan=1>权益互换注7</td><td rowspan=1 colspan=1>42</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0.2%</td></tr><tr><td rowspan=1 colspan=1>国债期货、债券远期及卖出信用衍生品注7</td><td rowspan=1 colspan=1>43</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>4%</td></tr><tr><td rowspan=1 colspan=1>大宗商品衍生品（不含期权）注7</td><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>8%</td></tr><tr><td rowspan=1 colspan=1>股指期货、卖出期权注7</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>20%</td></tr><tr><td rowspan=1 colspan=1>已承诺不可撤销的30日内须支付的自营业务投资金额</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td></tr><tr><td rowspan=1 colspan=1>已承诺不可撤销的30日内须支付的长期股权、固定资产、无形资产和其他长期资产的投资金额</td><td rowspan=1 colspan=1>47</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td></tr><tr><td rowspan=1 colspan=1>4.承销业务资金流出注8</td><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>股票再融资承销承诺</td><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>15%</td></tr><tr><td rowspan=1 colspan=1>股票IPO承销承诺</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>债券承销承诺</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td></tr><tr><td rowspan=1 colspan=1>5.融资类业务资金流出注9</td><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td></tr><tr><td rowspan=1 colspan=1>6.资产管理业务资金流出</td><td rowspan=1 colspan=1>53</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>已承诺不可撤销的30日内须自有资金认购的金额</td><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8616,
+                "bbox": [
+                    259,
+                    2087,
+                    315,
+                    2122
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    265,
+                    2085,
+                    311,
+                    2130
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 12,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9901,
+                "bbox": [
+                    183,
+                    284,
+                    1441,
+                    2036
+                ],
+                "index": 1,
+                "html": "<table><tr><td rowspan=1 colspan=1>7.其他资金流出</td><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>已承诺不可撤销的30日内须给付的约定购回业务金额</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>经中国证监会认可的已承诺不可撤销的对子公司出具的流动性担保承诺</td><td rowspan=1 colspan=1>57</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>未来30日现金流入</td><td rowspan=1 colspan=1>58</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>1.30日内到期的短期资金流入</td><td rowspan=1 colspan=1>59</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>银行承兑汇票</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>拆出资金</td><td rowspan=1 colspan=1>61</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>买入返售金融资产注10</td><td rowspan=1 colspan=1>62</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>90%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>应收股利、应收利息</td><td rowspan=1 colspan=1>63</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2．自营业务资金流入</td><td rowspan=1 colspan=1>64</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>30日内到期的信用评级AA级以下（含）的信用债券注11</td><td rowspan=1 colspan=1>65</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>75%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3.未使用的不可撤销金融机构授信额度注12</td><td rowspan=1 colspan=1>66</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>4.经中国证监会认可的未使用的由证券公司母公司出具的不可撤销流动性担保承诺</td><td rowspan=1 colspan=1>67</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>75%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>5.其他资金流入</td><td rowspan=1 colspan=1>68</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>集中清算交易在途结算资金</td><td rowspan=1 colspan=1>69</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>95%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>银行间市场非集中清算交易在途结算资金</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>95%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>未来30日内现金净流出注13</td><td rowspan=1 colspan=1>71</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>流动性覆盖率（LCR）注14</td><td rowspan=1 colspan=1>72</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=5>注：1.不包括代理买卖证券款、信用交易代理买卖证券款以及代理承销证券款。结算备付金应当扣除自有备付金中最低结算备付金。2.政策性金融债特指进出口银行、农业发展银行等政策性银行发行的金融债券。政府支持机构债券为得到中央政府正式支持发行的债券，如中国铁路总公司发行的获得中央政府支持的铁路建设债券等。地方政府债券为地方政府作为发行主体发行的债券。信用债券不含证券、基金、期货公司发行的债券。信用评级以长期信用评级为基准，短期信用评级A-1归入信用评级AAA级以下，AA+级（含）以上的信用债券中，短期信用评级A-2归入信用评级AA级的信用债券中，短期信用评级A-3归入信用评级AA级以下的信用债券中。未评级的信用债券参照债券发行主体评级，发行主体无评级的归入信用评级BBB级以下的信用债券。债券信用评级信息以中央国债登记结算有限责任公司公布的信息为准。次级债券、永续债按照债券的信用评级（未评级的参照债券发行主体评级）下调一档计算。可转债、资产支持证券、资产支持专项计划、熊猫债、中小企业私募债等参照信用债评级标准计算填列。银行承兑汇票应当已经贴现，银行承兑汇票的信用评级按照票据承兑行和贴现行对应的信用评级孰低确定，如无评级，归入BBB级以下。3.不包括融资融券业务中已借出证券及已用于对冲权益互换合约的证券。上海180指数、深圳100指数、沪深300指数、中证500指数成份股及宽基股票指数类ETF折算后金额不超过</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8586,
+                "bbox": [
+                    259,
+                    2088,
+                    315,
+                    2121
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    265,
+                    2085,
+                    312,
+                    2129
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 13,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.5454,
+                "bbox": [
+                    186,
+                    277,
+                    1440,
+                    1601
+                ],
+                "index": 1,
+                "html": "<table><tr><td>优质流动性资产总额的15%。本规定关于宽基股票指数类ETF的认定标准，参照证券交易所对 指数基金的分类标准。 4.含报价回购融入的资金。 5.债券基金指利率债指数基金（含ETF）及作为交易所报价回购质押品的债券基金或基金 专户。 6．对外担保金额不包括公司为自身负债提供的反担保；担保承诺指对控股证券业务子公司 提供的担保承诺。其他或有事项包括因客户开展债券质押式正回购交易，证券公司履行结算参 与人职责可能垫付资金的情形，按照待回购交易余额填列。 7.按合约期末名义价值总额填列，其中国债期货、商品期货、股指期货及在全国银行间同 业拆借中心开展的利率互换，按单品种（合约标的）单边最大名义价值填列。名义价值是指合 约实际参与衍生品交易的名义金额。利率互换包括以债券、固定收益类结构化票据、债券类指 数、债券类基金等固定收益类资产为基础标的的收益互换。卖出期权包括权益类（股票、股指、 ETF期权等）及非权益类（商品期权等）。卖出场内期权期末余额按照Delta金额的15%计算， 不再适用折算率。期权的Delta金额根据交易所公布的Delta系数进行计算。</td></tr><tr><td>8.股票再融资项目、IPO项目、债券项目（含资产支持证券）承销承诺自网上申购日（或 发行日期）前3天开始计算至发行期结束日止。若在此期间之前已经签署承销团协议的，期末 余额按照各主承销商及分销商承诺包销的金额填列；若在此期间之前没有签署承销团协议的， 期末余额按照各主承销商承诺包销的金额填列。若承销协议没有约定各主承销商承诺包销的金 额，按总包销金额平均分配到各主承销商填列。 9.指未清偿融资融券业务下的融出资金、未清偿约定购回及未清偿股票质押式回购。 10.不含约定购回及股票质押式回购融出的资金。买入返售金融资产余额超出对应持有的未 被冻结的质押券面额部分不得计入。 11．不含证券、基金、期货公司发行的债券。 12.指商业银行提供的随时可用、不可撤销的授信额度。对使用时间、比例、证券公司财务 及流动性状况等有条件限制的一般性授信不得计入。 13.未来30日内现金净流出=未来30日现金流出-min（未来30日现金流入,75%未来30日现 金流出）。 14.流动性覆盖率（LCR）为优质流动性资产/未来30日内现金净流出×100%。 法定代表人 办公电话 移动电话</td></tr><tr><td>总经理 办公电话 移动电话 财务负责人 办公电话 移动电话 首席风险官 办公电话 移动电话 制表人 办公电话 移动电话</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8523,
+                "bbox": [
+                    258,
+                    2087,
+                    316,
+                    2122
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    264,
+                    2084,
+                    311,
+                    2129
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 14,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9171,
+                "bbox": [
+                    182,
+                    291,
+                    317,
+                    339
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5074,
+                "bbox": [
+                    485,
+                    352,
+                    1169,
+                    412
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.6027,
+                "bbox": [
+                    181,
+                    425,
+                    320,
+                    460
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8243,
+                "bbox": [
+                    1348,
+                    425,
+                    1470,
+                    460
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9898,
+                "bbox": [
+                    167,
+                    459,
+                    1486,
+                    2038
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>行次</td><td rowspan=1 colspan=1>期末金额</td><td rowspan=1 colspan=1>折算率</td><td rowspan=1 colspan=1>折算后金额</td></tr><tr><td rowspan=1 colspan=1>可用稳定资金注1</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：1.净资产</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2.剩余存续期大于等于1年的借款和负债</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>次级债务</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>长期借款</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>应付债券</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其他注2</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3.剩余存续期大于等于6个月小于1年的借款和负债注3</td><td rowspan=1 colspan=1>8號</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>次级债务</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>20%/10%/0%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>长期借款</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>20%/10%/0%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>应付债券</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>20%/10%/0%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>4.所有其他负债和权益</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>5.经中国证监会认可的调整项目</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>所需稳定资金</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：1.高流动性资产</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>货币资金注4</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>结算备付金</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>拆出资金（不足1年）</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>存出保证金</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>买入返售金融资产注5</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>货币基金、现金管理类理财产品</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2.剩余存续期不足1年的证券注6</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>国债、中央银行票据、国开债</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>政策性金融债、政府支持机构债券</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>地方政府债券</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>同业存单</td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>信用评级AAA级的信用债券、银行承兑汇票</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8566,
+                "bbox": [
+                    260,
+                    2087,
+                    315,
+                    2122
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    487,
+                    348,
+                    1169,
+                    417
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    265,
+                    2084,
+                    311,
+                    2129
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    286,
+                    324,
+                    346
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    425,
+                    326,
+                    460
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1346,
+                    423,
+                    1470,
+                    462
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 15,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9904,
+                "bbox": [
+                    167,
+                    282,
+                    1487,
+                    2034
+                ],
+                "index": 1,
+                "html": "<table><tr><td rowspan=1 colspan=1>信用评级AAA级以下，AA级（含）以上的信用债券、银行承兑汇票</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1%</td></tr><tr><td rowspan=1 colspan=1>信用评级AA级以下，BBB级（含）以上的信用债券、银行承兑汇票</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>3%</td></tr><tr><td rowspan=1 colspan=1>信用评级BBB级以下的信用债券、银行承兑汇票</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td></tr><tr><td rowspan=1 colspan=1>3.剩余存续期大于等于1年证券注6</td><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>国债、中央银行票据、国开债</td><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2%</td></tr><tr><td rowspan=1 colspan=1>政策性金融债券、政府支持机构债券</td><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2%</td></tr><tr><td rowspan=1 colspan=1>地方政府债券</td><td rowspan=1 colspan=1>34</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td></tr><tr><td rowspan=1 colspan=1>同业存单</td><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td></tr><tr><td rowspan=1 colspan=1>信用评级AAA级的信用债券、银行承兑汇票</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>信用评级AAA级以下，AA级（含）以上的信用债券、银行承兑汇票</td><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>20%</td></tr><tr><td rowspan=1 colspan=1>信用评级AA级以下，BBB级（含）以上的信用债券、银行承兑汇票</td><td rowspan=1 colspan=1>38</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>30%</td></tr><tr><td rowspan=1 colspan=1>信用评级BBB级以下的信用债券、银行承兑汇票</td><td rowspan=1 colspan=1>39</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td></tr><tr><td rowspan=1 colspan=1>4.股票注7</td><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>上海180指数、深圳100指数、沪深300指数、中证500指数成份股</td><td rowspan=1 colspan=1>41</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>30%</td></tr><tr><td rowspan=1 colspan=1>一般上市股票</td><td rowspan=1 colspan=1>42</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td></tr><tr><td rowspan=1 colspan=1>流通受限的股票及其他股票注7</td><td rowspan=1 colspan=1>43</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td></tr><tr><td rowspan=1 colspan=1>5.可转换债券</td><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>30%</td></tr><tr><td rowspan=1 colspan=1>6.衍生金融资产</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0%</td></tr><tr><td rowspan=1 colspan=1>7.证券投资基金注8</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>非权益类基金</td><td rowspan=1 colspan=1>47</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：利率债指数基金注8</td><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>6%</td></tr><tr><td rowspan=1 colspan=1>其他非权益类基金</td><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>权益类基金</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：指数基金</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>其他权益类基金</td><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>20%</td></tr><tr><td rowspan=1 colspan=1>8.其他现金管理类产品注9</td><td rowspan=1 colspan=1>53</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>20%</td></tr><tr><td rowspan=1 colspan=1>9.融出资金</td><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>自有资金融出资金</td><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>30%</td></tr><tr><td rowspan=1 colspan=1>转融通融出资金</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8565,
+                "bbox": [
+                    259,
+                    2087,
+                    316,
+                    2122
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    266,
+                    2085,
+                    309,
+                    2128
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 16,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9903,
+                "bbox": [
+                    165,
+                    283,
+                    1487,
+                    2036
+                ],
+                "index": 1,
+                "html": "<table><tr><td rowspan=1 colspan=1>10.约定购回融出资金</td><td rowspan=1 colspan=1>57</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>11.股票质押式回购融出资金</td><td rowspan=1 colspan=1>58</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>到期日在1年以内（含）的融出资金</td><td rowspan=1 colspan=1>59</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>到期日在1年以上（不含）的融出资金</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>逾期合约融出资金</td><td rowspan=1 colspan=1>61</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>12.1年以内的应收款项、应收股利注10</td><td rowspan=1 colspan=1>62</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>13.其他所有资产注11</td><td rowspan=1 colspan=1>63</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>到期日在6个月以内（含）</td><td rowspan=1 colspan=1>64</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>到期日在6个月以上、1年以内（含）</td><td rowspan=1 colspan=1>65</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>75%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>到期日在1年以上（不含）</td><td rowspan=1 colspan=1>66</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>14.表外项目</td><td rowspan=1 colspan=1>67</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>14.1 证券衍生产品</td><td rowspan=1 colspan=1>68</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>利率互换、外汇衍生品注12</td><td rowspan=1 colspan=1>69</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>0.5%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>权益互换注12</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>国债期货、债券远期及卖出信用衍生品注12</td><td rowspan=1 colspan=1>71</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>3%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>大宗商品衍生品（不含期权）注12</td><td rowspan=1 colspan=1>72</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>8%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>股指期货、卖出期权注12</td><td rowspan=1 colspan=1>73</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>12%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>14.2 其他表外项目</td><td rowspan=1 colspan=1>74</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>股票再融资承销承诺注13</td><td rowspan=1 colspan=1>75</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>15%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>股票IPO承销承诺注13</td><td rowspan=1 colspan=1>76</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>债券承销承诺注13</td><td rowspan=1 colspan=1>77</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>对外担保金额及担保承诺注14</td><td rowspan=1 colspan=1>78</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其他或有事项注14</td><td rowspan=1 colspan=1>79</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>净稳定资金率（NSFR）注15</td><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=5>注：1．对于证券公司发行的附有选择权的次级债、可转债，无论选择权属于证券公司或投资者，应当根据审慎原则，按剔除选择权年限的期限，确定计入可用稳定资金的金额。2.指有相关政策法规、合同、公司股东大会或董事会决议等法律依据表明其剩余存续期大于等于一年，且债权人无权要求公司提前偿还的债务。承租业务使用权负债按照剩余存续期计入可用稳定资金。3．各类证券公司按照以下标准将剩余存续期大于等于6个月小于1年的借款和负债计入可用稳定资金：连续三年A类AA级以上（含）为20%，连续三年A类为10%，其余为0%。每年1月1日根据上年分类评价结果对计入标准进行调整。4．不包括代理买卖证券款、信用交易代理买卖证券款以及代理承销证券款。5.不含约定购回及股票质押式回购融出的资金。</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8567,
+                "bbox": [
+                    259,
+                    2088,
+                    315,
+                    2122
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    265,
+                    2084,
+                    311,
+                    2129
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 17,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9536,
+                "bbox": [
+                    174,
+                    283,
+                    1483,
+                    2041
+                ],
+                "index": 1,
+                "html": "<table><tr><td>6.政策性金融债特指进出口银行、农业发展银行等政策性银行发行的金融债券。政府支持机构 债券为得到中央政府正式支持发行的债券，如中国铁路总公司发行的获得中央政府支持的铁路建设债 券等。地方政府债券为地方政府作为发行主体发行的债券。信用评级以长期信用评级为基准，短期信 用评级A-1归入信用评级AAA级以下、AA级（含）以上的信用债券中，短期信用评级A-2归入信 用评级AA级以下、BBB级（含）以上的信用债券中，短期信用评级A-3归入信用评级BBB级以下 的信用债券中。未评级的信用债券参照债券发行主体评级，发行主体无评级的归入信用评级BBB级 以下的信用债券。债券信用评级信息以中央国债登记结算有限责任公司公布的信息为准。次级债券、 永续债按照债券的信用评级（未评级的参照债券发行主体评级）下调一档计算。资产支持证券、资产 支持专项计划、熊猫债、中小企业私募债等参照信用债评级标准计算填列。可转债不在此处填报。附 回售、回购选择权的债券，剩余期限以债券剩余期限为准。银行承兑汇票应当已经贴现，银行承兑汇 票的信用评级按照票据承兑行和贴现行对应的信用评级孰低确定，如无评级，归入BBB级以下。 7.指数成份股包含属于当地市场前三大综合指数成份股的境外股票。一般上市股票包含境外市 场股票、优先股以及在全国股转系统挂牌股份中做市并且持股市值与该股票市值比例低于5%的部分。 流通受限的股票包含未上市流通、限制流通以及流动性较低的股票，具体指已发行尚未上市流通的新 股、处于禁售期的法人股、在一定期限内被锁定或被冻结的股票以及在全国股转系统挂牌的股份（包 含做市并且持股市值与该股票市值比例高于5%的部分）。其他股票包含ST股票、*ST股票、已退 市股票和持有市值与该股票市值的比例超过5%的股票。股票的分类中同时符合两个或两个以上标准 的，应采用最高的比例进行计算。股票不含转融通融入的证券。 8.证券投资基金不含货币基金。利率债指数基金包括基金产品名称显示投资方向为利率债（国 债、中央银行票据、政策性金融债、政府支持机构债券、地方政府债券）的指数基金（含ETF）。 9.指一个月内可赎回或到期的其他现金管理类产品（不含现金管理类理财产品）。 10．不含交易过程的应收清算款，如银行间市场结算形成的在途应收款。 11.含承租业务使用权资产。不含代理买卖证券款、信用交易代理买卖证券款、代理承销证券款 及转融通融入证券形成的资产。不能确定到期日的资产，归入到期日在1年以上类别。 12.按合约期末名义价值总额填列，其中国债期货、商品期货、股指期货及在全国银行间同业拆 借中心开展的利率互换，按单品种（合约标的）单边最大名义价值填列。名义价值是指合约实际参与 衍生品交易的名义金额。利率互换包括以债券、固定收益类结构化票据、债券类指数、债券类基金等 固定收益类资产为基础标的的收益互换。卖出期权包括权益类（股票、股指、ETF期权等）及非权益 类（商品期权等）。卖出场内期权期末余额按照Delta金额的15%计算，不再适用折算率。期权的</td></tr><tr><td>Delta金额根据交易所公布的Delta系数进行计算。 13．股票再融资项目、IPO项目、债券项目（含资产支持证券）承销承诺自网上申购日（或发行 日期）前3天开始计算至发行期结束日止。若在此期间之前已经签署承销团协议的，期末余额按照各 主承销商及分销商承诺包销的金额填列；若在此期间之前没有签署承销团协议的，期末余额按照各主 承销商承诺包销的金额填列。若承销协议没有约定各主承销商承诺包销的金额，按总包销金额平均分 配到各主承销商填列。 14．对外担保金额不包括公司为自身负债提供的反担保；担保承诺指对控股证券业务子公司提 供的担保承诺。其他或有事项包括因客户开展债券质押式正回购交易，证券公司履行结算参与人职责 可能垫付资金的情形。 15.净稳定资金率为可用稳定资金/所需稳定资金×100%。</td></tr><tr><td>法定代表人 办公电话 移动电话 总经理 办公电话 移动电话 财务负责人 办公电话 移动电话 首席风险官 办公电话 移动电话 制表人 办公电话 移动电话</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8507,
+                "bbox": [
+                    259,
+                    2087,
+                    315,
+                    2122
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    265,
+                    2085,
+                    310,
+                    2132
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 18,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9187,
+                "bbox": [
+                    160,
+                    291,
+                    293,
+                    339
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6743,
+                "bbox": [
+                    484,
+                    352,
+                    1168,
+                    411
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6343,
+                "bbox": [
+                    158,
+                    426,
+                    297,
+                    460
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.771,
+                "bbox": [
+                    709,
+                    426,
+                    832,
+                    460
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.5881,
+                "bbox": [
+                    1367,
+                    425,
+                    1493,
+                    462
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9908,
+                "bbox": [
+                    141,
+                    464,
+                    1510,
+                    2037
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>行次</td><td rowspan=1 colspan=1>期初</td><td rowspan=1 colspan=1>期末</td><td rowspan=1 colspan=1>预警标准</td><td rowspan=1 colspan=1>监管标准</td><td rowspan=1 colspan=1>备注</td></tr><tr><td rowspan=1 colspan=1>核心净资本</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>附属净资本</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>净资本</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>净资产</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>各项风险资本准备之和</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>表内外资产总额</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>风险覆盖率注1</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≥120%</td><td rowspan=1 colspan=1>≥100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>资本杠杆率注2</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≥9.6%</td><td rowspan=1 colspan=1>≥8%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>流动性覆盖率注3</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≥120%</td><td rowspan=1 colspan=1>≥100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>净稳定资金率注4</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≥120%</td><td rowspan=1 colspan=1>≥100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>净资本/净资产</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≥24%</td><td rowspan=1 colspan=1>≥20%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>净资本/负债</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≥9.6%</td><td rowspan=1 colspan=1>≥8%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>净资产/负债</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≥12%</td><td rowspan=1 colspan=1>≥10%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>自营权益类证券及其衍生品注5/净资本</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≤80%</td><td rowspan=1 colspan=1>≤100%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>自营非权益类证券及其衍生品注6/净资本</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≤400%</td><td rowspan=1 colspan=1>≤500%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>持有一种权益类证券的成本与净资本的比例前五名</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≤24%</td><td rowspan=1 colspan=1>≤30%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>持有一种权益类证券的市值与其总市值的比例前五名注7</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≤4%</td><td rowspan=1 colspan=1>≤5%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>持有一种非权益类证券的规模与其总规模的比例前五名注8</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≤16%</td><td rowspan=1 colspan=1>≤20%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8589,
+                "bbox": [
+                    259,
+                    2088,
+                    315,
+                    2122
+                ],
+                "index": 7
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    487,
+                    350,
+                    1167,
+                    416
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    264,
+                    2084,
+                    310,
+                    2131
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    155,
+                    286,
+                    299,
+                    346
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    159,
+                    426,
+                    300,
+                    461
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    709,
+                    422,
+                    832,
+                    464
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1366,
+                    422,
+                    1495,
+                    465
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 19,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.99,
+                "bbox": [
+                    142,
+                    281,
+                    1511,
+                    2036
+                ],
+                "index": 1,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>持有本公司或子公司管理的单个集合资产管理计划的规模与其总规模的比例前五名注8</td><td rowspan=1 colspan=1>34</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≤40%</td><td rowspan=1 colspan=1>≤50%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：</td><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>38</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>39</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>融资（含融券）的金额/净资本注9</td><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≤320%</td><td rowspan=1 colspan=1>≤400%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>对单一客户融资（含融券）业务规模与净资本的比例前五名注10</td><td rowspan=1 colspan=1>41</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≤4%</td><td rowspan=1 colspan=1>≤5%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：</td><td rowspan=1 colspan=1>42</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>43</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>接受单只担保股票市值与该股票总市值比例前五名注11</td><td rowspan=1 colspan=1>47</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>≤16%</td><td rowspan=1 colspan=1>≤20%</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>其中：</td><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=7>注：1．风险覆盖率=净资本/各项风险资本准备之和×100%2.资本杠杆率=核心净资本/表内外资产总额×100%，此处核心净资本不扣除担保等或有负债的风险调整。3．流动性覆盖率=优质流动性资产/未来30日内现金净流出×100%4.净稳定资金率=可用稳定资金/所需稳定资金×100%5．“自营权益类证券及其衍生品”包括：股票、权益类基金、股指期货、权益互换、权益类期权等。其中，自营权益类证券按照其市值计算；股指期货投资规模按照合约名义价值总额的15%计算；权益互换投资规模按照合约名义价值总额的10%计算；买入期权投资规模按照买入股票（股指）期权和买入场外期权的权利金价格之和计算；卖出场内期权投资规模按照Delta金额的15%计算；卖出场外期权投资规模按照该期权在给定压力情形下的最大损失的5倍计算（按照合约本身的损失测算，多头与空头合约不允许净轧差），且不低于名义金额的5%，给定压力情形为期权标的证券价格以当前价格为基础上下波动20%。对于已有效对冲风险的投资组合，按投资规模总额的5%计算，投资规模为多头规模的绝对值与空头规模的绝对值之和。名义价值是指合约实际参与衍生品交易的名义金额。6.“自营非权益类证券及其衍生品”包括：债券、非权益类基金、国债期货、债券远期、利率互换、</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8542,
+                "bbox": [
+                    258,
+                    2088,
+                    311,
+                    2122
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    265,
+                    2086,
+                    307,
+                    2129
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 20,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9488,
+                "bbox": [
+                    143,
+                    283,
+                    1509,
+                    1800
+                ],
+                "index": 1,
+                "html": "<table><tr><td>非权益类期权、外汇衍生品、大宗商品衍生品、信用衍生品、银行承兑汇票、单一产品、集合及信托等 产品。其中，自营非权益类证券按照其市值计算；国债期货、债券远期、信用衍生品、利率互换（包括 以债券、固定收益类结构化票据、债券类指数、债券类基金等固定收益类资产为基础标的的收益互换）、 外汇衍生品、大宗商品衍生品（不含商品期权）投资规模分别按照合约名义价值总额的5%、50%、50%、 3%、3%、10%计算。非权益类期权投资规模参照注5计算。名义价值是指合约实际参与衍生品交易的名 义金额。对于已有效对冲风险的投资组合，按投资规模总额的1%计算，投资规模为多头规模的绝对值与 空头规模的绝对值之和。私募资管计划、信托产品、基金专户等产品按期末净值规模计算。 7．不含宽基股票指数类ETF。因包销、作为公募基金管理人跟投本公司管理的权益类公募基金、中 国证监会认可的做市业务以及股票质押违约处理等导致的情形及中国证监会另有认定的除外。证券公司 另类子公司投资境内证券交易所上市交易和转让的证券的，应当将另类子公司与母公司自营持有同一只 证券的市值合并计算。证监会认可的做市业务包括证券公司在沪深证券交易所、全国股转系统等交易场 所依法开展的做市业务。因其他投资者赎回、减资导致投资标的总规模缩小等原因造成本指标出现被动 超标情形的，可不认定为违规情形，但应当按照《证券公司风险控制指标管理办法》要求履行报告义务， 同时采取必要措施稳妥处置。 8.不含同业存单、银行承兑汇票，国债、中央银行票据、国开债及基金名称显示投资方向为此类债 券的指数基金（含ETF）。因包销、成立发起式基金、为公募REITs提供流动性支持服务、中国证监会 认可的做市业务、买入信用衍生品（合约名义本金未超过持有标的债券规模）或卖出信用衍生品履行保 护义务等导致的情形及中国证监会另有认定的除外。证券公司委托其他证券公司、基金公司、信托公司 等机构进行的一对一投资不必填报。证券公司及其子公司以自有资金参与其自身或其子公司管理的单个 集合资产管理计划的份额合计不得超过该资产管理计划总份额的50%，为子公司管理的集合资产管理计 划提供流动性支持等证监会认可的情形除外；前五名的数据单列，其中证券公司填列自身及其各类子公 司（含资管子公司）以自有资金参与的份额，资管子公司填写自身以自有资金参与的份额。参与证券交 易所质押式报价回购业务的，对质押式报价回购基金专户风控指标进行穿透式计算，穿透计算后，基金 专户和证券公司自营合计持有一种非权益类证券的规模与其总规模的比例不得超过20%。因其他投资者 赎回、减资导致投资标的总规模缩小等原因造成本指标出现被动超标情形的，可不认定为违规情形，但 应当按照《证券公司风险控制指标管理办法》要求履行报告义务，同时采取必要措施稳妥处置。 9.融资（含融券）的金额指证券公司开展融资融券业务、约定式购回交易、股票质押式回购交易等 融资类业务融出（含融券）金额总计。</td></tr><tr><td>12．表中有关前五名的期初数据，是指期末前五名情形所对应的期初数。 13．经中国证监会同意实施并表监管的证券公司，相关风险控制指标可由中国证监会另行规定。 法定代表人 办公电话 移动电话 总经理 办公电话 移动电话 财务负责人 办公电话 移动电话 首席风险官 办公电话 移动电话 制表人 办公电话 移动电话</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8595,
+                "bbox": [
+                    260,
+                    2087,
+                    313,
+                    2121
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    264,
+                    2085,
+                    311,
+                    2130
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 21,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

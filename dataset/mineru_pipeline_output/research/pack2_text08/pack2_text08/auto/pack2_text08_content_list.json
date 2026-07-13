@@ -1,0 +1,3170 @@
+[
+    {
+        "type": "text",
+        "text": "杠杆资金&股票型ETF分化加剧 流动性&交易拥挤度&投资者温度计周报",
+        "text_level": 2,
+        "bbox": [
+            47,
+            325,
+            916,
+            477
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2026年4月20日",
+        "bbox": [
+            46,
+            616,
+            158,
+            650
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "证券分析师：姚佩 执业编号：S0360522120004",
+        "bbox": [
+            46,
+            687,
+            427,
+            722
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "联系人：朱冬墨 邮箱：zhudongmo@hcyjs.com",
+        "bbox": [
+            47,
+            729,
+            419,
+            764
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邮箱：yaopei@hcyjs.com",
+        "bbox": [
+            465,
+            687,
+            654,
+            722
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本报告由华创证券有限责任公司编制",
+        "bbox": [
+            10,
+            872,
+            180,
+            896
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "卖的出价或询价。本报告所载信息均为个人观点，并不构成对所涉及证券的个人投资建议。",
+        "bbox": [
+            9,
+            925,
+            422,
+            951
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "请仔细阅读PPT后部分的分析师声明及免责声明。",
+        "bbox": [
+            10,
+            961,
+            235,
+            985
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            124
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "@2021华创 版权所有",
+        "bbox": [
+            987,
+            896,
+            996,
+            985
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "核心结论",
+        "text_level": 2,
+        "bbox": [
+            47,
+            51,
+            152,
+            101
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "资金流动性：",
+        "text_level": 2,
+        "bbox": [
+            22,
+            188,
+            152,
+            229
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）资金供给端：偏股型公募新发规模扩张至历史中高位、杠杆资金&股票型ETF分化加剧：杠杆资金净流入重回历史高位；股票型ETF流出规模持续扩大、回购金额仍处于历史低位；",
+        "bbox": [
+            20,
+            250,
+            967,
+            344
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2）资金需求端：股权融资规模收缩至历史中位、产业资本净减持扩张至历史中高位、南向资金重回净流入。",
+        "bbox": [
+            20,
+            361,
+            908,
+            403
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "• 交易拥挤度：以过去四周成交额占比/市值占比（较全A）作为衡量主题行业交易热度的表征指标来看，本周热度分位（下同）上行行业主要为：建材+10pct至66%、传媒+10pct至28%、医疗服务+7pct至76%；下行行业主要为：化工-28pct至37%、煤炭-15pct至36%、央企-13pct至56%。",
+        "bbox": [
+            20,
+            420,
+            971,
+            568
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "投资者温度计：",
+        "text_level": 2,
+        "bbox": [
+            22,
+            585,
+            170,
+            625
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）上周市场呈震荡上行、成长领跑的格局，风险偏好修复量能温和放量，市场对美伊冲突逐步脱敏，自媒体A股搜索热度下降。",
+        "bbox": [
+            19,
+            644,
+            970,
+            737
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2）公募抱团趋势不变，风格偏向价值，行业偏向金融、周期、消费。",
+        "bbox": [
+            20,
+            755,
+            589,
+            798
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3）最近一周以小单衡量的沪深两市A股散户资金净流入820.8亿元，较前值增加503.4亿元，处过去五年33.7%分位，净流入规模上升。",
+        "bbox": [
+            19,
+            816,
+            976,
+            909
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            124
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            46,
+            964,
+            323,
+            985
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2",
+        "bbox": [
+            492,
+            964,
+            504,
+            987
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目录",
+        "text_level": 2,
+        "bbox": [
+            77,
+            100,
+            139,
+            155
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "01 资金流动性：杠杆资金&股票型ETF分化加剧   \n02 交易拥挤度：建材、传媒、医疗服务上行；化工、煤炭、央企下行   \n03 投资者温度计：自媒体A股搜索热度下降，散户资金净流入规模上升",
+        "bbox": [
+            128,
+            259,
+            751,
+            542
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1、资金流动性：杠杆资金&股票型ETF分化加剧",
+        "text_level": 2,
+        "bbox": [
+            47,
+            48,
+            581,
+            100
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "资金流动性：1）资金供给端：偏股型公募新发规模扩张至历史中高位、杠杆资金&股票型ETF分化加剧：杠杆资金净流入重回历史高位；股票型ETF流出规模持续扩大、回购金额仍处于历史低位；2）资金需求端：股权融资规模收缩至历史中位、产业资本净减持扩张至历史中高位、南向资金重回净流入。",
+        "bbox": [
+            30,
+            162,
+            965,
+            311
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/093b143841fa4d0fedb4178b8d47415cb6ff999919814269d5f034ec98be0e72.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+            "4 数据来源：Wind，华创证券，数据截至26/4/20，下同"
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=4>资金供给</td></tr><tr><td rowspan=1 colspan=4>资金供给主体(亿元)                  上期             本期           近3年分位</td></tr><tr><td rowspan=5 colspan=1>偏股型公募新发份额两融资金净流入股票型ETF净申购上市公司回购合计</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>91</td><td rowspan=2 colspan=1>72%95%</td></tr><tr><td rowspan=1 colspan=1>330</td><td rowspan=1 colspan=1>554</td><td rowspan=1 colspan=1>95%</td></tr><tr><td rowspan=1 colspan=1>-340</td><td rowspan=1 colspan=1>-506</td><td rowspan=3 colspan=1>3%30%</td></tr><tr><td rowspan=2 colspan=1>73</td><td rowspan=1 colspan=1>12</td></tr><tr><td rowspan=1 colspan=1>138</td></tr><tr><td rowspan=1 colspan=4>资金需求</td></tr><tr><td rowspan=1 colspan=1>资金需求主体(亿元)</td><td rowspan=1 colspan=1>上期</td><td rowspan=1 colspan=1>本期</td><td rowspan=1 colspan=1>近3年分位</td></tr><tr><td rowspan=4 colspan=1>股权融资产业资本净减持南向资金净流入合计</td><td rowspan=1 colspan=1>321</td><td rowspan=1 colspan=1>105</td><td rowspan=4 colspan=1>58%72%73%</td></tr><tr><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1>72%</td></tr><tr><td rowspan=1 colspan=1>-102</td><td rowspan=1 colspan=1>225</td><td rowspan=1 colspan=1>73%</td></tr><tr><td rowspan=1 colspan=1>255</td><td rowspan=1 colspan=1>410</td></tr><tr><td rowspan=1 colspan=3>限售解禁流通市值                    1174             768</td><td rowspan=1 colspan=1>75%</td></tr></table>",
+        "bbox": [
+            221,
+            340,
+            775,
+            948
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1、公募权益新发规模上升",
+        "text_level": 2,
+        "bbox": [
+            47,
+            48,
+            361,
+            100
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "• 公募权益新成立基金：上周新成立份额91.1亿份，较前值13.2亿份上升，其中主动型新发56.3亿份，被动指数型新发34.8亿份。",
+        "bbox": [
+            31,
+            188,
+            953,
+            279
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "chart",
+        "img_path": "images/dcd79a4d13d3c812bfe8af7a9ecdeea24c6bf55ff2c6a135686b3d93201b6394.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+            "5 数据来源：Wind，华创证券"
+        ],
+        "bbox": [
+            230,
+            335,
+            759,
+            937
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUACHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            876,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "• 1）最新融资余额2.65万亿较前值上升、融券余额198.2亿元较前值上升，整体余额占流通市值比例为2.57%，处近三年89%分位；",
+        "bbox": [
+            31,
+            172,
+            961,
+            261
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "• 2）两融资金整体上周净流入约553.7亿元，较前值净流入329.6亿元上升，处近三年95%分位；成交额占全A比例为10.1%，较前值上升0.4pct，参与度处近三年82%分位。",
+        "bbox": [
+            31,
+            275,
+            963,
+            368
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "chart",
+        "img_path": "images/ef8340d8248ded02f33bf97119278acaac8ae24930942ace74d831c19936f9d5.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号"
+        ],
+        "bbox": [
+            26,
+            405,
+            461,
+            955
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "chart",
+        "img_path": "images/184eaef47582cc8a816d783cc32e733d27906b740eb846f815cec58fca50f0bb.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [
+            "6 数据来源：Wind，华创证券"
+        ],
+        "bbox": [
+            536,
+            400,
+            969,
+            959
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "1.2、两融资金：净流入553.7亿",
+        "bbox": [
+            48,
+            48,
+            400,
+            100
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2、两融资金：净流入553.7亿",
+        "text_level": 2,
+        "bbox": [
+            48,
+            48,
+            400,
+            100
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3）两融自身换手率上周为44.7%，较前值31.9%上升，处近三年83%分位。",
+        "bbox": [
+            31,
+            157,
+            687,
+            200
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "• 4）融资融券余业务个人投资者数量达到811.1万名，其中平均每日参与交易的投资者数量达到46.8万名，较前值上升6.5万名，散户参与度上升。",
+        "bbox": [
+            31,
+            212,
+            955,
+            305
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "chart",
+        "img_path": "images/85a1195265e9735f6507ef186286c5140884f1e3a8f7ba63c27fd12db4626383.jpg",
+        "content": "",
+        "chart_caption": [
+            "周频两融交易情况(亿元)"
+        ],
+        "chart_footnote": [
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号"
+        ],
+        "bbox": [
+            34,
+            392,
+            473,
+            914
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "chart",
+        "img_path": "images/10edadb65795eb74aac4d79e793a07f1a12a9fb0a1b6349058912dc2e89c4097.jpg",
+        "content": "",
+        "chart_caption": [
+            "融资融券业务投资者数量"
+        ],
+        "chart_footnote": [
+            "数据来源：Wind，华创证券"
+        ],
+        "bbox": [
+            521,
+            416,
+            961,
+            918
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "7",
+        "bbox": [
+            492,
+            964,
+            504,
+            988
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.2、两融资金行业：电子、电新净流入；煤炭净流出",
+        "text_level": 2,
+        "bbox": [
+            45,
+            48,
+            634,
+            100
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5）两融上周主要：",
+        "bbox": [
+            33,
+            446,
+            213,
+            488
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "净流入电子186.7亿、 电新117.0亿、通信88.3亿；",
+        "bbox": [
+            32,
+            503,
+            282,
+            592
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "净流出煤炭-1.1亿。",
+        "bbox": [
+            33,
+            607,
+            217,
+            650
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/13e081ae3d59eb0abd73026c2865fae70f6618b109a7061d63bac8ec49708228.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "8 数据来源：Wind，华创证券"
+        ],
+        "table_body": "<table><tr><td colspan=\"4\">两融一一上周净流向前10行业 &amp;各行业前3净流向个股(亿元)</td><td colspan=\"4\">两融一一上周净流向后10行业 &amp;各行业后3净流向个股(亿元)</td></tr><tr><td rowspan=\"4\">申万一级行业净流入</td><td rowspan=\"4\"></td><td>个股简称 </td><td>个股净流入</td><td rowspan=\"3\">申万一级行业净流入</td><td rowspan=\"3\">-1.1</td><td>个股简称</td><td>个股净流入</td></tr><tr><td>东山精密</td><td>10.8</td><td>永泰能源</td><td>-0.6</td></tr><tr><td>兆易创新</td><td>9.5</td><td>山煤国际</td><td>-0.3</td></tr><tr><td rowspan=\"3\">电力设备</td><td rowspan=\"3\">117.0</td><td>德明利</td><td>8.8</td><td rowspan=\"3\"></td><td>盘江股份</td><td>-0.2</td></tr><tr><td>宁德时代</td><td>25.3</td><td>探路者 0.0</td><td>-0.4</td></tr><tr><td>天华新能</td><td>6.5</td><td>森马服饰</td><td>-0.2</td></tr><tr><td rowspan=\"3\">通信</td><td rowspan=\"3\">88.3</td><td>中恒电气</td><td>3.3</td><td rowspan=\"3\">综合</td><td rowspan=\"3\">0.4</td><td>周大生</td><td>-0.1</td></tr><tr><td>中际旭创</td><td>41.6</td><td>南京新百</td><td>-0.3</td></tr><tr><td>亨通光电 光迅科技</td><td>6.8 6.4</td><td>天宸股份</td><td>-0.1</td></tr><tr><td rowspan=\"4\">有色金属</td><td rowspan=\"3\">56.1</td><td></td><td></td><td>10.3</td><td rowspan=\"3\">0.5</td><td>特力A 爱美客</td><td>0.0</td></tr><tr><td>华友钻业</td><td></td><td rowspan=\"2\">美容护理</td><td>华熙生物</td><td>-0.2</td></tr><tr><td>云南锗业 北方稀土</td><td>3.8</td><td></td><td>-0.1</td></tr><tr><td rowspan=\"3\">计算机</td><td rowspan=\"3\">42.3</td><td></td><td>3.4</td><td rowspan=\"3\">房地产</td><td rowspan=\"3\">0.7</td><td>珀莱雅</td><td>-0.1</td></tr><tr><td>海康威视</td><td>13.4</td><td>先导基电</td><td>-0.8</td></tr><tr><td>大华股份</td><td>5.4</td><td>保利发展 西藏城投</td><td>-0.7 -0.5</td></tr><tr><td rowspan=\"3\">机械设备</td><td rowspan=\"3\">36.7</td><td rowspan=\"3\"></td><td>金山办公</td><td>3.8</td><td rowspan=\"3\">1.6</td><td>中国电建</td><td></td></tr><tr><td>汇川技术</td><td>3.0</td><td></td><td>-1.2</td></tr><tr><td>罗博特科 巨力索具</td><td>2.4</td><td>中国中铁 中国核建</td><td>-1.1 -0.9</td></tr><tr><td rowspan=\"3\">医药生物</td><td rowspan=\"3\">35.4</td><td>药明康德</td><td>2.2</td><td rowspan=\"3\">钢铁</td><td rowspan=\"3\">2.3</td><td>包钢股份</td><td>-2.1</td></tr><tr><td>九安医疗</td><td>3.0 2.5</td><td></td><td>-0.6</td></tr><tr><td>美诺华</td><td></td><td>杭钢股份</td><td>-0.3</td></tr><tr><td rowspan=\"3\">基础化工</td><td rowspan=\"3\">30.5</td><td></td><td>2.3</td><td rowspan=\"3\">商贸零售</td><td rowspan=\"3\">2.9</td><td>沙钢股份 浙江东日</td><td>-0.3</td></tr><tr><td>亚钾国际 卫星化学</td><td>2.2</td><td></td><td></td></tr><tr><td>振华股份</td><td>1.7</td><td>爱施德</td><td>-0.3</td></tr><tr><td rowspan=\"3\">国防军工</td><td rowspan=\"3\">24.2</td><td></td><td>1.6</td><td rowspan=\"3\">农林牧渔</td><td rowspan=\"3\">3.1</td><td>上海九百</td><td>-0.2</td></tr><tr><td>华丰科技</td><td>3.6</td><td>牧原股份</td><td>-1.9</td></tr><tr><td>中航沈飞</td><td>2.1</td><td>平潭发展</td><td>-1.2</td></tr><tr><td rowspan=\"3\">传媒</td><td rowspan=\"3\">13.6</td><td>中国卫星 巨人网络</td><td>1.7</td><td rowspan=\"3\">环保</td><td rowspan=\"3\">3.1</td><td>诺普信 高能环境</td><td>-0.9</td></tr><tr><td>蓝色光标</td><td>2.8 2.6</td><td>朗坤科技</td><td>-2.9 -0.3</td></tr><tr><td>恺英网络</td><td>2.5</td><td>武汉天源</td><td>-0.2</td></tr></table>",
+        "bbox": [
+            408,
+            140,
+            909,
+            946
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUACHUANG SECURITIES",
+        "bbox": [
+            882,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            124
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            46,
+            962,
+            323,
+            985
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.3、股票型ETF：净流入-506.4亿，处近三年2.6%分位",
+        "text_level": 2,
+        "bbox": [
+            47,
+            48,
+            662,
+            100
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "股票型ETF整体上周净流入-506.4亿，较前值净流入-340.2亿下降，净流向整体处近三年2.6%分位。",
+        "bbox": [
+            32,
+            187,
+            887,
+            231
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "chart",
+        "img_path": "images/508d584213ed82dc238ef3502b2e05287c70c8f4ca1d3a4f96934c943ecc93f5.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+            "9 数据来源：Wind，华创证券"
+        ],
+        "bbox": [
+            194,
+            288,
+            789,
+            944
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUACHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.3、股票型ETF：行业ETF净流入-3.8亿，主题ETF净流入-145.6亿",
+        "text_level": 2,
+        "bbox": [
+            47,
+            48,
+            793,
+            100
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "上周行业/主题ETF净流入品种集中于卫星（24.3亿）、电池（16.1亿）、医药生物（15.2亿）等；净流出品种集中于电子（-84.8亿）、人工智能（-53.2亿）、基础化工（-16.0亿）等。",
+        "bbox": [
+            31,
+            162,
+            957,
+            255
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/3c17165b3d4fb470581755972c063f8306c666587999821b41bbfdd0408ffd50.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+            "数据来源：Wind，华创证券",
+            "注：根据行业/主题ETF跟踪指数权重行业分布，划分成23个申万一级行业类ETF与27个主题类ETF。"
+        ],
+        "table_body": "<table><tr><td colspan=\"9\">近一周行业/主题ETF净流入额(对应至申万一级行业/主题)</td></tr><tr><td>序号</td><td>行业/主题</td><td colspan=\"2\">净流入额(亿元)</td><td>序号</td><td>行业/主题</td><td colspan=\"2\">净流入额(亿元)</td><td></td></tr><tr><td>1</td><td>卫星</td><td>本周 24.3</td><td>上周 -9.4</td><td></td><td>26 金融</td><td>本周 -0.7</td><td>上周 0.5</td><td></td></tr><tr><td>2</td><td>电池</td><td>16.1</td><td> -4.8 </td><td></td><td>27 5G</td><td>-0.9</td><td>1.1</td><td></td></tr><tr><td>3</td><td>医药生物</td><td>15.2 口</td><td>-2.5</td><td>1</td><td>28 软件</td><td>-1.1</td><td>-1.5</td><td>E</td></tr><tr><td>4</td><td>农林牧渔</td><td>10.2 口</td><td>1.4</td><td></td><td>29 家用电器</td><td> -1.2</td><td> -2.5</td><td>L</td></tr><tr><td>5</td><td>公用事业</td><td>5.7 □</td><td>0.9</td><td></td><td>30 绿色发展</td><td>-1.3</td><td>-0.4</td><td></td></tr><tr><td>6</td><td>传媒</td><td>5.1 司</td><td>-0.9</td><td></td><td>31 钢铁</td><td> -1.4</td><td> -1.7</td><td></td></tr><tr><td>7</td><td>食品饮料</td><td>4.7 二</td><td>-1.7</td><td></td><td>32 云计算</td><td>-1.4</td><td>-1.9</td><td>[</td></tr><tr><td>8</td><td>国防军工</td><td>2.2</td><td> -4.0</td><td></td><td>33 建筑材料</td><td> -1.5</td><td>-0.2</td><td></td></tr><tr><td>9</td><td>机械设备</td><td>0.7</td><td>0.2</td><td></td><td>34 能源</td><td>-1.6</td><td>-2.6</td><td>■</td></tr><tr><td>10</td><td>非银金融</td><td>0.6</td><td>-39.5</td><td></td><td>35 通信</td><td> -2.1</td><td>13.5</td><td></td></tr><tr><td>11</td><td>高端制造</td><td>0.6</td><td>-0.1</td><td></td><td>36 计算机</td><td>-2.1</td><td>-5.1</td><td></td></tr><tr><td>12</td><td>新能源车</td><td>0.6</td><td> -2.7</td><td></td><td>37 煤炭</td><td> -2.5</td><td> -3.9 </td><td></td></tr><tr><td>13</td><td>汽车</td><td>0.0</td><td>-0.4</td><td></td><td>38 房地产</td><td>-2.6</td><td>-0.4</td><td></td></tr><tr><td>14</td><td>品牌工程</td><td>0.0</td><td>0.0</td><td></td><td>39 科技</td><td> -2.9</td><td> -2.8</td><td>二</td></tr><tr><td>15</td><td>养老</td><td>0.0</td><td>0.0</td><td></td><td>40 银行</td><td>-3.2</td><td>-10.</td><td></td></tr><tr><td>16</td><td>原材料</td><td>-0.1</td><td>0.0</td><td></td><td>41 消费</td><td>-3.3</td><td> -5.2</td><td></td></tr><tr><td>17</td><td>物联网</td><td>-0.1</td><td>0.0</td><td></td><td>42 区域经济</td><td>-3.6</td><td>0.0</td><td></td></tr><tr><td>18</td><td>数字经济</td><td>-0.2</td><td>-0.3</td><td></td><td>43 旅游</td><td> -5.0</td><td>1.8 1</td><td></td></tr><tr><td>19</td><td>新材料</td><td>-0.2</td><td>0.0</td><td></td><td>44 有色金属</td><td> -8.1</td><td>15.6</td><td></td></tr><tr><td>20</td><td>民企</td><td>-0.3</td><td>-0.2</td><td></td><td>45 电力设备</td><td> -8.7 </td><td> -17.4</td><td></td></tr><tr><td>21</td><td>建筑装饰</td><td>-0.3</td><td>0.2</td><td></td><td>46 机器人</td><td> -11.5</td><td>-8.5</td><td></td></tr><tr><td>22</td><td>大宗商品</td><td>-0.3</td><td>-0.3</td><td></td><td>47 油气</td><td> -13.7</td><td> -13</td><td></td></tr><tr><td>23</td><td>交通运输</td><td>-0.4</td><td>0.3</td><td></td><td>48 基础化工</td><td> -16.0</td><td>6.6</td><td>国</td></tr><tr><td>24</td><td>央国企</td><td>-0.6</td><td> -3.5</td><td>■</td><td>49 人工智能</td><td>-53.2</td><td>-44.1</td><td></td></tr><tr><td>25</td><td>船舶</td><td>-0.7</td><td>-1.2</td><td></td><td>50 电子</td><td>-84.8</td><td></td><td>-53.3</td></tr></table>",
+        "bbox": [
+            219,
+            285,
+            779,
+            944
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUACHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            967,
+            87
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            876,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.4、 上市公司回购：回购额上升",
+        "text_level": 2,
+        "bbox": [
+            47,
+            48,
+            411,
+            100
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "上周上市公司回购金额为11.6亿，较前值6.6亿上升，处近三年30%分位。",
+        "bbox": [
+            32,
+            177,
+            666,
+            220
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "chart",
+        "img_path": "images/4cddb021361c50f90c3f1655a394694de180737ec42fa08e9ba0b30ad9e3f926.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [],
+        "bbox": [
+            257,
+            275,
+            752,
+            922
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "11 数据来源：Wind，华创证券",
+        "bbox": [
+            491,
+            964,
+            652,
+            994
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            47,
+            962,
+            323,
+            985
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1.5、 股权融资规模下降",
+        "text_level": 2,
+        "bbox": [
+            48,
+            48,
+            312,
+            100
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "以上市日为标准，上周股权融资金额为105.0亿元，处近三年58%分位，其中IPO47.0亿、再融资57.9亿。",
+        "bbox": [
+            32,
+            200,
+            933,
+            244
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "chart",
+        "img_path": "images/3d6a010f5dc279829c766ad713605b10813621c48cf191a8fafa5ca4ed72edfc.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+            "12 数据来源：Wind，华创证券"
+        ],
+        "bbox": [
+            236,
+            314,
+            751,
+            920
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUACHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            876,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1.6、产业资本净减持规模上升",
+        "text_level": 2,
+        "bbox": [
+            47,
+            48,
+            386,
+            100
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "• 1）上周产业资本整体增持6.1亿元、减持-86.4亿元，净减持-80.4亿，较前值-36.6亿规模上升，净减持规模处近三年72%分位。",
+        "bbox": [
+            31,
+            188,
+            961,
+            279
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "chart",
+        "img_path": "images/83f71b5de7afb2de5620b1b24476434b824668c90207c7dae2449afdca6ca1fc.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+            "13 数据来源：Wind，华创证券"
+        ],
+        "bbox": [
+            250,
+            338,
+            736,
+            935
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUACHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            876,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1.6、产业资本行业：上周净增持地产；减持电子、电新",
+        "text_level": 2,
+        "bbox": [
+            48,
+            48,
+            662,
+            100
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2）分行业来看，上周净增持地产0.03亿；净减持电子-32.5亿、电新-7.5亿、环保-9.6亿。",
+        "bbox": [
+            33,
+            477,
+            401,
+            616
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6a71ff08b6d9005be2c8f5944d306d54a4d43d944a4ab86704b434bd325a02e.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "14 数据来源：Wind，华创证券",
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号"
+        ],
+        "table_body": "<table><tr><td colspan=\"8\">分行业产业资本净增减持情况(亿元)</td></tr><tr><td>大类 </td><td>行业</td><td>周度</td><td>月度</td><td>2026YTD</td><td>周度 </td><td>月频2026YTD</td><td></td></tr><tr><td rowspan=\"8\">周期</td><td>基础化工 钢铁</td><td>-0.1 0.0</td><td>-10.2 -1.2</td><td>-107.0 -2.5</td><td rowspan=\"8\"></td><td rowspan=\"8\"></td><td rowspan=\"8\">-161.2</td></tr><tr><td>有色金属</td><td> -2.2</td><td>0.1</td><td>-41.5</td></tr><tr><td>建筑材料</td><td>0.0</td><td>12.5</td><td>22.8</td></tr><tr><td>建筑装饰</td><td>-0.7</td><td></td><td>-11.4</td></tr><tr><td></td><td></td><td>-2.0</td><td>-15.3 1.1</td></tr><tr><td>煤炭</td><td>0.0</td><td>0.8 -1.0</td><td></td></tr><tr><td>石油石化</td><td>-0.2</td><td>22.3</td><td>26.3</td></tr><tr><td>交通运输</td><td>-0.8</td><td>1.3</td><td>11.7</td></tr><tr><td>环保 公用事业</td><td>-9.6 -1.7</td><td>-20.8 -1.7</td><td>-46.8 -11.8</td><td></td><td></td></tr><tr><td rowspan=\"4\">TMT</td><td>电子</td><td>-32.5</td><td>-88.2</td><td>-439.9</td><td rowspan=\"4\">-38.9</td><td rowspan=\"4\">-113.2</td><td rowspan=\"4\">-638.5</td></tr><tr><td>通信</td><td>-1.0</td><td>-11.4</td><td>-100.8</td></tr><tr><td>传媒</td><td>-1.3</td><td></td><td></td></tr><tr><td>计算机</td><td>-4.1</td><td>-2.1</td><td>-25.8 -72.1</td></tr><tr><td rowspan=\"4\">制造</td><td>电力设备</td><td>-7.5</td><td>-11.5 -27.2</td><td>-166.0</td><td rowspan=\"4\">-14.4</td><td rowspan=\"4\">-50.6</td><td rowspan=\"4\">-365.2</td></tr><tr><td>机械设备</td><td>-3.2</td><td>-20.5</td><td> -107.7</td></tr><tr><td>国防军工</td><td>-2.9</td><td></td><td>-49.6</td></tr><tr><td>汽车</td><td>-0.8</td><td>-5.2 2.3</td><td> -41.9</td></tr><tr><td rowspan=\"11\">消费</td><td>农林牧渔</td><td>0.0</td><td>-2.6</td><td>-15.4</td><td rowspan=\"8\">-11.8</td><td rowspan=\"8\">-46.5</td><td rowspan=\"8\">-234.3</td></tr><tr><td>家用电器</td><td>-1.0</td><td>-6.2</td><td>-27.2</td></tr><tr><td>食品饮料</td><td>-0.5</td><td>0.1</td><td>-22.2</td></tr><tr><td>纺织服饰</td><td>0.0</td><td>0.1</td><td>-5.6</td></tr><tr><td>轻工制造</td><td>0.0</td><td>-0.9</td><td>-12.5</td></tr><tr><td>医药生物</td><td>-3.4</td><td>-27.1</td><td>-107.6</td></tr><tr><td>社会服务</td><td>0.0</td><td>0.0</td><td>-6.2</td></tr><tr><td>美容护理</td><td>-4.1</td><td>-4.2</td><td>-8.3</td></tr><tr><td rowspan=\"3\">金融地产</td><td>商贸零售</td><td>-2.8</td><td>-5.9</td><td> -29.4</td><td rowspan=\"3\">0.0</td><td rowspan=\"3\">2.5</td><td rowspan=\"3\">-1.3</td></tr><tr><td>房地产</td><td>0.0</td><td>-1.5</td><td>-10.7</td></tr><tr><td>银行</td><td>0.0</td><td>8.0</td><td>22.0</td></tr><tr><td rowspan=\"2\"></td><td>非银金融</td><td>0.0</td><td>-4.0</td><td>-12.6</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td>综合</td><td>0.0</td><td>-1.1</td><td>-1.9</td></tr></table>",
+        "bbox": [
+            480,
+            140,
+            934,
+            946
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUACHUANG SECURITIES",
+        "bbox": [
+            882,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            124
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1.7、 限售解禁规模下降",
+        "text_level": 2,
+        "bbox": [
+            48,
+            48,
+            312,
+            100
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "上周解禁市值768.2亿元，较前值1174.3亿下降，处近三年75%分位。预计本周解禁市值为473.8亿元。",
+        "bbox": [
+            32,
+            187,
+            914,
+            229
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "chart",
+        "img_path": "images/56ae43edd0b6de3706fa371ac00cfdbe4e7180a37c17c06f5bd15909f35fdd08.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+            "15 数据来源：Wind，华创证券"
+        ],
+        "bbox": [
+            212,
+            287,
+            768,
+            935
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUACHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            876,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "1.8、南向资金：净流入224.6亿",
+        "text_level": 2,
+        "bbox": [
+            48,
+            48,
+            400,
+            100
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "上周南向资金流向224.6亿元，较上周-102.5亿元上升，周净流向强度处近三年73%分位。",
+        "bbox": [
+            32,
+            188,
+            803,
+            231
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "chart",
+        "img_path": "images/6451048e5169a680f90ac2d48d4cbf22dfa7c7f3f3ba2d96290cb97b2f437cd1.jpg",
+        "content": "",
+        "chart_caption": [
+            "周频南向资金整体流向"
+        ],
+        "chart_footnote": [
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+            "16 数据来源：Wind，华创证券"
+        ],
+        "bbox": [
+            230,
+            350,
+            771,
+            940
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUACHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "1.9、 北向资金参与度上升",
+        "text_level": 2,
+        "bbox": [
+            48,
+            48,
+            337,
+            100
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "上周北向资金成交占沪深A股比例7.0%，较前值上升1.5pct，参与度处近三年53%分位。",
+        "bbox": [
+            32,
+            185,
+            791,
+            229
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "chart",
+        "img_path": "images/2ece1b24cf4de49b40463481aad81daa9fea3e5f74e7b3fbe0f1af1ae11560d0.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+            "17 数据来源：Wind，华创证券"
+        ],
+        "bbox": [
+            244,
+            300,
+            752,
+            927
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUACHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            876,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "目录",
+        "text_level": 2,
+        "bbox": [
+            77,
+            98,
+            139,
+            157
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "01 资金流动性：杠杆资金&股票型ETF分化加剧   \n02 交易拥挤度：建材、传媒、医疗服务上行；化工、煤炭、央企下行   \n03 投资者温度计：自媒体A股搜索热度下降，散户资金净流入规模上升",
+        "bbox": [
+            127,
+            262,
+            751,
+            562
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "2.1、成长主题行业：医疗服务易热度分位上升7pct至76%",
+        "text_level": 2,
+        "bbox": [
+            46,
+            48,
+            688,
+            100
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "chart",
+        "img_path": "images/e8e38985b825724eaf0dd5c08c46d2c059e85fcde6c6959b8c5ed33566f08996.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 1.9 历史分位76%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            166,
+            177,
+            492,
+            525
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "chart",
+        "img_path": "images/ea06abf62a7db21645abe99c1a12f819e11a9604f07fa0d1b19353420fa571d5.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 2.1 历史分位21%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            500,
+            179,
+            833,
+            525
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "chart",
+        "img_path": "images/acc5ff81857ef5f7a1025793ed9e96c3040578cb6929178bad8ae0ed0f091323.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 3.3 历史分位94%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            166,
+            587,
+            464,
+            937
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "chart",
+        "img_path": "images/6595f9fecd4de718c74cc68c72b2a2a308bf17b8ccc6727554ede53ca7477508.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 1.1 历史分位37%"
+        ],
+        "chart_footnote": [
+            "19 数据来源：Wind，华创证券，历史分位为16年以来，走势图为22年以来",
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号"
+        ],
+        "bbox": [
+            467,
+            587,
+            832,
+            935
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            124
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2.1、成长主题行业：医疗服务易热度分位上升7pct至76%",
+        "text_level": 2,
+        "bbox": [
+            46,
+            48,
+            687,
+            100
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "chart",
+        "img_path": "images/a90666fe727422c57510fba607176d5fbddb34bb83fe564f2a20650102f7cacb.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 2.1 历史分位33%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            312,
+            307,
+            684,
+            701
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            124
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            47,
+            964,
+            323,
+            985
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "20",
+        "bbox": [
+            490,
+            964,
+            506,
+            987
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "数据来源：Wind，华创证券，历史分位为16年以来，走势图为22年以来",
+        "bbox": [
+            513,
+            966,
+            862,
+            994
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2.2、价值主题行业：央企下降13pct至56%、家电上升5pct至25%",
+        "text_level": 2,
+        "bbox": [
+            46,
+            50,
+            779,
+            100
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "chart",
+        "img_path": "images/dbd58c295f10ca89e1a1e0f63e44c2889822021ff9b8afd7c88b589922d70053.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 0.4 历史分位 1%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            177,
+            183,
+            464,
+            525
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "chart",
+        "img_path": "images/efd0e8acc6ee494e67ef73f474ba1ebc3c1cfc9e09eaf694915ed8ce9ae98f0d.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 1.1 历史分位 25%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            470,
+            183,
+            821,
+            525
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "chart",
+        "img_path": "images/4c4a0fa7ec75374c81e92bca656a32911368cc7567c25050b8631a02c1e9bfca.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 0.5 历史分位 13%"
+        ],
+        "chart_footnote": [
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号"
+        ],
+        "bbox": [
+            176,
+            600,
+            473,
+            948
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "chart",
+        "img_path": "images/ad75ce24449ab9e8a12b84a5e8e815b0b3ed13c155c276b4e46ceef8457c4bf0.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 0.5 历史分位 23%"
+        ],
+        "chart_footnote": [
+            "21 数据来源：Wind，华创证券，历史分位为16年以来，走势图为22年以来"
+        ],
+        "bbox": [
+            473,
+            600,
+            822,
+            946
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            124
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "2.2、价值主题行业：央企下降13pct至56%、家电上升5pct至25%",
+        "text_level": 2,
+        "bbox": [
+            46,
+            48,
+            778,
+            100
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "chart",
+        "img_path": "images/6ed2caa19879eda44a26c3c99075a64dd3cb7ba6ced2e508a8e0aea40aafe014.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 0.8 历史分位 1%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            121,
+            309,
+            466,
+            714
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "chart",
+        "img_path": "images/ee80803f0dd346fe5739e09075f6343bebc67b2eec84d047ec8840b8d4f59195.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 0.5 历史分位56%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            470,
+            311,
+            877,
+            712
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            124
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            47,
+            964,
+            323,
+            985
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "page_number",
+        "text": "22",
+        "bbox": [
+            490,
+            964,
+            507,
+            987
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "footer",
+        "text": "数据来源：Wind，华创证券，历史分位为16年以来，走势图为22年以来",
+        "bbox": [
+            511,
+            966,
+            862,
+            994
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "2.3、周期主题行业：化工下降28pct至37%，煤炭下降15pct至36%",
+        "text_level": 2,
+        "bbox": [
+            46,
+            48,
+            792,
+            100
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "chart",
+        "img_path": "images/6192293bf70742e7f1782e512eea9cc364e7d91da5efb78b447724dc3d6054b3.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 2.2 历史分位24%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            173,
+            181,
+            460,
+            525
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "chart",
+        "img_path": "images/c7dfe687c4d612c8119f5fe70407ddb539a24233ca08b03f956c6476f9cf2ea9.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 1.8 历史分位52%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            468,
+            185,
+            825,
+            525
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "chart",
+        "img_path": "images/dc8b54a73ceb960480d2e9cbfa50153b04425c41fe652cf907087ca2124ec2c6.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 1.7 历史分位36%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            173,
+            596,
+            469,
+            946
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "chart",
+        "img_path": "images/c7cdf6c5a593c451d75a0407f9c8c18a8c276e9d6b94dc84eb227b1cc02c8a93.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 2.3 历史分位37%"
+        ],
+        "chart_footnote": [
+            "23 数据来源：Wind，华创证券，历史分位为16年以来，走势图为22年以来"
+        ],
+        "bbox": [
+            472,
+            624,
+            825,
+            946
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            124
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            47,
+            964,
+            323,
+            985
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "2.3、周期主题行业：化工下降28pct至37%，煤炭下降15pct至36%",
+        "text_level": 2,
+        "bbox": [
+            46,
+            48,
+            792,
+            100
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "chart",
+        "img_path": "images/86a5c3642fa507fd62970f8effeeb39c60ab803e87d1bccdfb3e4e9660589818.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 1.1 历史分位16%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            178,
+            203,
+            466,
+            522
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "chart",
+        "img_path": "images/dd7416f527c24ffbfe5019faa3727c0ee1b392ee4db499209dffe0ca63eff37b.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 2.3 历史分位 66%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            469,
+            200,
+            820,
+            525
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "chart",
+        "img_path": "images/40eb35eb5eda003628e4f1ee41710277ec42ff255e9b74cebae661d53e8d58ff.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 2.6 历史分位79%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            178,
+            587,
+            468,
+            935
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "chart",
+        "img_path": "images/fecccc7ac3a0b83ecb5d2dbafeda7db0c4db90d6dfa9bd55653fe1dc978e4708.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 1.6 历史分位40%"
+        ],
+        "chart_footnote": [
+            "24 数据来源：Wind，华创证券，历史分位为16年以来，走势图为22年以来"
+        ],
+        "bbox": [
+            473,
+            588,
+            821,
+            933
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            124
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            47,
+            964,
+            323,
+            985
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "2.3、周期主题行业：化工下降28pct至37%，煤炭下降15pct至36%",
+        "text_level": 2,
+        "bbox": [
+            46,
+            48,
+            791,
+            100
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "chart",
+        "img_path": "images/74eb314b057a4cae3b078ffb08df5f92d6df288f912aef95720361588d1c3469.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 2.8 历史分位77%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            307,
+            307,
+            679,
+            707
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            124
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            47,
+            964,
+            323,
+            985
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "page_number",
+        "text": "25",
+        "bbox": [
+            490,
+            964,
+            507,
+            987
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "footer",
+        "text": "数据来源：Wind，华创证券，历史分位为16年以来，走势图为22年以来",
+        "bbox": [
+            511,
+            966,
+            862,
+            992
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "2.4、TMT主题行业：计算机下降3pct至20%，传媒上升10pct至28%",
+        "text_level": 2,
+        "bbox": [
+            46,
+            46,
+            804,
+            96
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "chart",
+        "img_path": "images/2a1f836bdb9f06c9b0081af688e38885ca600d769afc9b63ebbba87d529f3138.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 2.3 历史分位 30%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            159,
+            181,
+            482,
+            509
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "chart",
+        "img_path": "images/2a72720b34f443d9d0a63adc1b8f32d27b71362046ae7e81c3a5efe371a9c566.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 2.2 历史分位 20%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            476,
+            183,
+            839,
+            525
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "chart",
+        "img_path": "images/95af51432dcfff63ea0f75f46fe153d26e8bc934d1e7f2ede0b6b0e14d6ebd42.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 2.2 历史分位 28%"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            159,
+            596,
+            494,
+            944
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "chart",
+        "img_path": "images/9ca4ba47511c6f3e533170dd3cfc856c2687a28c9345f265cc6998fec3cf0fad.jpg",
+        "content": "",
+        "chart_caption": [
+            "交易热度 2.9 历史分位49%"
+        ],
+        "chart_footnote": [
+            "26 数据来源：Wind，华创证券，历史分位为16年以来，走势图为22年以来"
+        ],
+        "bbox": [
+            496,
+            620,
+            840,
+            946
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            124
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            47,
+            964,
+            325,
+            985
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "目录",
+        "text_level": 2,
+        "bbox": [
+            77,
+            98,
+            140,
+            157
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "01 资金流动性：杠杆资金&股票型ETF分化加剧   \n02 交易拥挤度：建材、传媒、医疗服务上行；化工、煤炭、央企下行   \n03 投资者温度计：自媒体A股搜索热度下降，散户资金净流入规模上升",
+        "bbox": [
+            123,
+            261,
+            753,
+            564
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "3.1、自媒体：A股搜索热度下降",
+        "text_level": 2,
+        "bbox": [
+            47,
+            48,
+            405,
+            100
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "上周市场呈震荡上行、成长领跑的格局，风险偏好修复量能温和放量，市场对美伊冲突逐步脱敏， 自媒体A股搜索热度下降。",
+        "bbox": [
+            32,
+            411,
+            241,
+            694
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "chart",
+        "img_path": "images/0802dd97312866fbd7a7851d67b11e5dd2d7e0963b67bc5432296495948bae99.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [],
+        "bbox": [
+            262,
+            161,
+            984,
+            942
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "数据来源：微信指数，百度指数，微指数，新红数据，巨量算数，快手指数，华创证券注：以24/9/23为基点，数据截至26/4/20。",
+        "bbox": [
+            556,
+            946,
+            958,
+            992
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            124
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            46,
+            964,
+            323,
+            985
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "page_number",
+        "text": "28",
+        "bbox": [
+            490,
+            964,
+            506,
+            985
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "3.2、抖音观看“A股”内容用户：高能级城市、青年群体占比上升",
+        "text_level": 2,
+        "bbox": [
+            47,
+            48,
+            781,
+            100
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "抖音最近一周（4/11-4/17）观看“A股”内容用户结构分布总体平稳。从城市能级上看，一线、新一线等高能级城市群体占比上升；从年龄结构上看，18-23岁青年群体占比上升。",
+        "bbox": [
+            31,
+            190,
+            960,
+            283
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "抖音用户观看\"A股\"内容占比及TGI地域分布",
+        "bbox": [
+            89,
+            372,
+            377,
+            403
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "chart",
+        "img_path": "images/77c4f3d99bffc073653384b7c93bd7acf995e45439fefe05870cfd31127cff48.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [
+            "抖音用户观看\"A股\"内容占比及TGI年龄分布"
+        ],
+        "bbox": [
+            34,
+            416,
+            459,
+            911
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "chart",
+        "img_path": "images/7fd19bafa82f7325f90892ab92cadb9f980491b48b3ca2d44b35d6ac4db40cb7.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [
+            "数据来源：巨量算数，华创证券"
+        ],
+        "bbox": [
+            543,
+            412,
+            968,
+            927
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUACHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            87
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            46,
+            962,
+            323,
+            985
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "page_number",
+        "text": "29",
+        "bbox": [
+            490,
+            964,
+            506,
+            987
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "最近一周（4/11-4/17）快手“A股”作品：作品量2.7万个，较上期增加0.7万个；点赞量17.8万次，较上期减少2.0万次；评论量14.3万次，较上期减少0.8万次。",
+        "bbox": [
+            31,
+            190,
+            963,
+            281
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "chart",
+        "img_path": "images/90848f09758f226bd4bc1a8c408b6499e70f6376384f0cc77a7a00008fec7cb4.jpg",
+        "content": "",
+        "chart_caption": [
+            "快手\"股票\"话题热度及作品数(周频)"
+        ],
+        "chart_footnote": [
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号"
+        ],
+        "bbox": [
+            38,
+            424,
+            456,
+            916
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "chart",
+        "img_path": "images/a035e7d289224f1031bda3dd61c7e2c0273beb4c927c73916578bdb307973461.jpg",
+        "content": "",
+        "chart_caption": [
+            "快手\"股票\"话题评论量及点赞量(周频)"
+        ],
+        "chart_footnote": [
+            "30 数据来源：快手指数，华创证券"
+        ],
+        "bbox": [
+            547,
+            422,
+            959,
+            918
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "header",
+        "text": "3.3、 快手：“A股” 作品热度上升",
+        "bbox": [
+            47,
+            48,
+            417,
+            100
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUACHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            87
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            876,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "3.4、微博情绪：市场上行引发微博积极情绪上升",
+        "text_level": 2,
+        "bbox": [
+            47,
+            48,
+            587,
+            100
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "上周微博情绪总体平稳，市场震荡上行引发积极等情绪明显上升。",
+        "bbox": [
+            33,
+            198,
+            594,
+            238
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "chart",
+        "img_path": "images/4b3c7586b2d95144eb26e89e2f7857b879b072fd60ba6a386f0c1829cdd90bfc.jpg",
+        "content": "",
+        "chart_caption": [
+            "微博关键词\"A股\"情绪走势"
+        ],
+        "chart_footnote": [
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+            "31 数据来源：微热点，华创证券"
+        ],
+        "bbox": [
+            212,
+            372,
+            785,
+            905
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "3.5、基金风格：抱团趋势不变，行业偏向金融、周期、消费",
+        "text_level": 2,
+        "bbox": [
+            47,
+            48,
+            712,
+            100
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "最近一周（4/13-4/17）公募抱团趋势不变，风格偏向价值，行业偏向金融、周期、消费。",
+        "bbox": [
+            33,
+            185,
+            803,
+            227
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "chart",
+        "img_path": "images/cdc98c1277c1ac2dab6d6081ad7083fd12ef1c3cc1555c16a7e9259bb343617b.jpg",
+        "content": "",
+        "chart_caption": [
+            "基金净值涨幅分布"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            30,
+            342,
+            425,
+            872
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "chart",
+        "img_path": "images/2147d497e3b41839e2ce85b9163a99fff13054d348c48e9234d531bc6c15e00a.jpg",
+        "content": "",
+        "chart_caption": [
+            "基金净值涨幅分布"
+        ],
+        "chart_footnote": [
+            "注：图表以沪深300、创业板指、上证50、3个中信风格指数和2个申万指数（电子，电力设备）为参考，选取剔除行业基后规模前100普通股票型、偏股混合型和灵活配置型基金；气泡大小代表规模。"
+        ],
+        "bbox": [
+            569,
+            338,
+            957,
+            872
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUACHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "footer",
+        "text": "32 数据来源：Wind，华创证券",
+        "bbox": [
+            489,
+            962,
+            652,
+            988
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            46,
+            962,
+            325,
+            985
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "24/10新增开户数685万户，历史上仅次于15/4和15/6；26/3新增开户数460.1万户，处过去十年98%分位；",
+        "bbox": [
+            31,
+            162,
+            964,
+            205
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "最近一周（4/13-4/17）以小单(挂单额小于4万元)衡量的沪深两市A股散户资金净流入820.8亿元，较前值增加503.4亿元，处过去五年33.7%分位，净流入规模上升。",
+        "bbox": [
+            31,
+            218,
+            962,
+            311
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "chart",
+        "img_path": "images/ee84256dcf3c0dbd0f812648583e3cbc7986bc6e70692709911856ee017e093d.jpg",
+        "content": "",
+        "chart_caption": [
+            "上证所:A股账户新增开户数(万户)"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            27,
+            420,
+            430,
+            903
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "chart",
+        "img_path": "images/7a59f6bb9217629bf810bc05fdfa71617274fc9a396b829c5804b540be2e8753.jpg",
+        "content": "",
+        "chart_caption": [
+            "周频沪深A股小单净流入额(亿元)"
+        ],
+        "chart_footnote": [
+            "33 数据来源：Wind，华创证券",
+            "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号"
+        ],
+        "bbox": [
+            567,
+            437,
+            952,
+            894
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "header",
+        "text": "3.6、 散户资金净流入规模上升",
+        "bbox": [
+            47,
+            48,
+            386,
+            100
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            876,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "3.7、散户入场渠道：下载量增加",
+        "text_level": 2,
+        "bbox": [
+            47,
+            48,
+            412,
+            100
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "• 最近一周（4/11-4/17，下同）同花顺累计下载量达17.3万次，较前值增加4.8万次；东方财富下载量6.6万次，较前值增加2.3万次。最近一周同花顺五星好评数量6108次，较前值增加1793次。",
+        "bbox": [
+            31,
+            190,
+            948,
+            283
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "chart",
+        "img_path": "images/3b80eaec4330939e14ddc7c489b2abcad6b07317280cf36c0c2fe2e9a04c3713.jpg",
+        "content": "",
+        "chart_caption": [
+            "同花顺及东方财富APP下载量(iPhone端)"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            30,
+            394,
+            425,
+            898
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "chart",
+        "img_path": "images/5258afeae947d883d657972246d8ef3032fc47699867ed7def37db54ea32081f.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [
+            "34 数据来源：七麦数据，华创证券，存在部分日期评分数据缺失"
+        ],
+        "bbox": [
+            560,
+            359,
+            956,
+            896
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUACHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            876,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            46,
+            962,
+            323,
+            985
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "风险提示",
+        "text_level": 2,
+        "bbox": [
+            48,
+            51,
+            152,
+            100
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "1、宏观经济不及预期，可能导致相机抉择的货币政策与市场预期产生偏离；",
+        "bbox": [
+            47,
+            192,
+            670,
+            233
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "2、相关测算或与实际情况有所偏差；",
+        "bbox": [
+            46,
+            305,
+            352,
+            344
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "3、历史经验不代表未来：因市场环境等因素变化，历史数据得出的经验可能在未来失效。",
+        "bbox": [
+            46,
+            416,
+            782,
+            457
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUACHUANG SECURITIES",
+        "bbox": [
+            882,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            124
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            47,
+            964,
+            323,
+            985
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "page_number",
+        "text": "35",
+        "bbox": [
+            523,
+            977,
+            538,
+            998
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "策略组团队介绍",
+        "text_level": 2,
+        "bbox": [
+            45,
+            50,
+            226,
+            98
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "组长、首席分析师：姚佩",
+        "text_level": 2,
+        "bbox": [
+            43,
+            161,
+            258,
+            201
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "中国人民大学金融硕士，曾任东吴证券策略首席分析师、海通证券策略高级分析师，连续四年新财富策略第一团队核心。在传统策略大势研判、行业比较、主题研究以外，对大类资产、政策取向、市场风格、产业周期、个股特征均有增量研究与发现。",
+        "bbox": [
+            43,
+            240,
+            936,
+            301
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "策略分析师：丁炎晨",
+        "text_level": 2,
+        "bbox": [
+            44,
+            340,
+            182,
+            372
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "上海交通大学硕士，华中科技大学学士，2023年4月加入华创策略团队，曾任东吴证券策略研究员。目前专注于政策跟踪、个股特征等方面的增量研究。",
+        "bbox": [
+            43,
+            379,
+            935,
+            440
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "助理研究员：蔡雨阳",
+        "text_level": 2,
+        "bbox": [
+            43,
+            479,
+            182,
+            511
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "圣路易斯华盛顿大学金融硕士。2023年加入华创研究所。",
+        "bbox": [
+            44,
+            518,
+            405,
+            551
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "助理研究员：朱冬墨",
+        "text_level": 2,
+        "bbox": [
+            43,
+            590,
+            182,
+            622
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "上海财经大学经济学学士、硕士，2024年加入华创研究所。",
+        "bbox": [
+            44,
+            629,
+            418,
+            662
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "助理研究员：周名未",
+        "text_level": 2,
+        "bbox": [
+            43,
+            701,
+            182,
+            735
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "香港理工大学金融硕士，中央财经大学金融工程学士。2025年加入华创证券研究所。",
+        "bbox": [
+            43,
+            742,
+            579,
+            774
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            876,
+            100,
+            978,
+            125
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            46,
+            964,
+            323,
+            985
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "page_number",
+        "text": "36",
+        "bbox": [
+            522,
+            977,
+            539,
+            998
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "免责声明",
+        "text_level": 2,
+        "bbox": [
+            46,
+            50,
+            150,
+            98
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "分析师声明",
+        "text_level": 2,
+        "bbox": [
+            46,
+            159,
+            123,
+            190
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "每位负责撰写本研究报告全部或部分内容的分析师在此作以下声明：",
+        "bbox": [
+            45,
+            222,
+            387,
+            250
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "分析师在本报告中对所提及的证券或发行人发表的任何建议和观点均准确地反映了其个人对该证券或发行人的看法和判断；分析师对任何其他券商发布的所有可能存在雷同的研究报告不负有任何直接或者间接的可能责任。",
+        "bbox": [
+            44,
+            294,
+            963,
+            350
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "免责声明",
+        "text_level": 2,
+        "bbox": [
+            45,
+            418,
+            110,
+            450
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "本报告仅供华创证券有限责任公司（以下简称“本公司”）的客户使用。本公司不会因接收人收到本报告而视其为客户。",
+        "bbox": [
+            45,
+            481,
+            650,
+            509
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "本报告所载资料的来源被认为是可靠的，但本公司不保证其准确性或完整性。本报告所载的资料、意见及推测仅反映本公司于发布本报告当日的判断。在不同时期，本公司可发出与本报告所载资料、意见及推测不一致的报告。本公司在知晓范围内履行披露义务。",
+        "bbox": [
+            44,
+            551,
+            963,
+            609
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "报告中的内容和意见仅供参考，并不构成本公司对具体证券买卖的出价或询价。本报告所载信息不构成对所涉及证券的个人投资建议，也未考虑到个别客户特殊的投资目标、财务状况或需求。客户应考虑本报告中的任何意见或建议是否符合其特定状况，自主作出投资决策并自行承担投资风险，任何形式的分享证券投资收益或者分担证券投资损失的书面或口头承诺均为无效。本报告中提及的投资价格和价值以及这些投资带来的预期收入可能会波动。",
+        "bbox": [
+            44,
+            651,
+            964,
+            737
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "本报告版权仅为本公司所有，本公司对本报告保留一切权利。未经本公司事先书面许可，任何机构和个人不得以任何形式翻版、复制、发表或引用本报告的任何部分。如征得本公司许可进行引用、刊发的，需在允许的范围内使用，并注明出处为“华创证券研究”，且不得对本报告进行任何有悖原意的引用、删节和修改。",
+        "bbox": [
+            44,
+            779,
+            963,
+            837
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "证券市场是一个风险无时不在的市场，请您务必对盈亏风险有清醒的认识，认真考虑是否进行证券交易。市场有风险，投资需谨慎。",
+        "bbox": [
+            44,
+            879,
+            707,
+            909
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "header",
+        "text": "华创证券HUA CHUANG SECURITIES",
+        "bbox": [
+            881,
+            44,
+            966,
+            85
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "header",
+        "text": "证 券 研 究 报 告",
+        "bbox": [
+            877,
+            100,
+            978,
+            124
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "footer",
+        "text": "证监会审核华创证券投资咨询业务资格批文号：证监许可（2009）1210 号",
+        "bbox": [
+            46,
+            964,
+            323,
+            985
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "page_number",
+        "text": "37",
+        "bbox": [
+            522,
+            977,
+            538,
+            996
+        ],
+        "page_idx": 36
+    }
+]

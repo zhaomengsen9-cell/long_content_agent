@@ -1,0 +1,856 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6023,
+                "bbox": [
+                    214,
+                    387,
+                    1449,
+                    537
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9713,
+                "bbox": [
+                    213,
+                    637,
+                    1453,
+                    771
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9694,
+                "bbox": [
+                    210,
+                    793,
+                    1454,
+                    929
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9847,
+                "bbox": [
+                    210,
+                    948,
+                    1454,
+                    1319
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9309,
+                "bbox": [
+                    299,
+                    1338,
+                    821,
+                    1392
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9719,
+                "bbox": [
+                    213,
+                    1415,
+                    1443,
+                    1550
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8423,
+                "bbox": [
+                    813,
+                    2131,
+                    854,
+                    2170
+                ],
+                "index": 7
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    216,
+                    385,
+                    1452,
+                    465
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    759,
+                    461,
+                    907,
+                    548
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    309,
+                    636,
+                    1451,
+                    690
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    216,
+                    711,
+                    381,
+                    774
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    304,
+                    790,
+                    1451,
+                    847
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    215,
+                    870,
+                    1445,
+                    923
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    325,
+                    1416,
+                    1440,
+                    1466
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    215,
+                    1492,
+                    422,
+                    1549
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    313,
+                    949,
+                    1448,
+                    998
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    216,
+                    1026,
+                    1445,
+                    1080
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    219,
+                    1103,
+                    1447,
+                    1157
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    243,
+                    1179,
+                    1445,
+                    1235
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    220,
+                    1259,
+                    1438,
+                    1314
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    307,
+                    1337,
+                    815,
+                    1391
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    819,
+                    2133,
+                    848,
+                    2174
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1653,
+            "height": 2206
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.8999,
+                "bbox": [
+                    429,
+                    373,
+                    1237,
+                    446
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9382,
+                "bbox": [
+                    211,
+                    542,
+                    1453,
+                    838
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9447,
+                "bbox": [
+                    211,
+                    853,
+                    1454,
+                    1070
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9411,
+                "bbox": [
+                    209,
+                    1086,
+                    1456,
+                    1304
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.9317,
+                "bbox": [
+                    210,
+                    1319,
+                    1451,
+                    1537
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 0,
+                "label": "abstract",
+                "score": 0.866,
+                "bbox": [
+                    211,
+                    1553,
+                    1447,
+                    1693
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9432,
+                "bbox": [
+                    310,
+                    1789,
+                    1031,
+                    1844
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8571,
+                "bbox": [
+                    813,
+                    2130,
+                    853,
+                    2170
+                ],
+                "index": 8
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    309,
+                    1555,
+                    1445,
+                    1607
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    218,
+                    1635,
+                    1403,
+                    1686
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    817,
+                    2130,
+                    850,
+                    2176
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    428,
+                    367,
+                    1239,
+                    452
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    308,
+                    544,
+                    1446,
+                    596
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    221,
+                    622,
+                    1448,
+                    675
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    217,
+                    701,
+                    1449,
+                    752
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    221,
+                    780,
+                    906,
+                    829
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    308,
+                    856,
+                    1449,
+                    906
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    217,
+                    933,
+                    1449,
+                    986
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    218,
+                    1012,
+                    1264,
+                    1062
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    310,
+                    1322,
+                    1451,
+                    1375
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    216,
+                    1398,
+                    1437,
+                    1453
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    216,
+                    1476,
+                    1136,
+                    1532
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    310,
+                    1089,
+                    1453,
+                    1142
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    218,
+                    1166,
+                    1451,
+                    1219
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    219,
+                    1246,
+                    1042,
+                    1296
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    317,
+                    1788,
+                    1030,
+                    1842
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1653,
+            "height": 2206
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7084,
+                "bbox": [
+                    696,
+                    222,
+                    1506,
+                    297
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9909,
+                "bbox": [
+                    93,
+                    372,
+                    2109,
+                    1429
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>事项名称</td><td rowspan=1 colspan=1>抽查主体</td><td rowspan=1 colspan=1>抽查依据</td><td rowspan=1 colspan=1>抽查内容</td><td rowspan=1 colspan=1>抽查方式</td><td rowspan=1 colspan=1>抽查比例</td><td rowspan=1 colspan=1>抽查频次</td><td rowspan=1 colspan=1>备注</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>首发企业检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>1．《中华人民共和国证券法》第一百七十条：国务院证券监督管理机构依法履行职责，有权采取下列措施：（一）对证券发行人、证券公司、证券服务机构、证券交易场所、证券登记结算机构进行现场检查；2．《证券发行上市保荐业务管理办法》（证监会令第 58号公布，证监会令第137号、第170号、第207号修订）第六十-条：中国证监会可以对保荐机构及其与发行上市保荐工作相关的人员，证券服务机构、发行人及其与证券发行上市工作相关的人员等进行定期或者不定期现场检查，相关主体应当积极配合检查，如实提供有关资料，不得拒绝、阻挠、逃避检查，不得谎报、隐匿、销毁相关证据材料。</td><td rowspan=1 colspan=1>证券发行人、保荐机构、会计师事务所、律师事务所有关情况</td><td rowspan=1 colspan=1>结合日常监管情况，问题、风险导向和随机抽签相结合，问题、风险导向根据问题、风险性质确定，随机抽签通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>随机抽签的比例为20%</td><td rowspan=1 colspan=1>至少1次/年</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>上市公司检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>《中华人民共和国证券法》第一百七十条：国务院证券监督管理机构依法履行职责，有权采取下列措施：（一）对证券发行人、证券公司、证券服务机构、证券交易场所、证券登记结算机构进行现场检查；</td><td rowspan=1 colspan=1>对上市公司信息披露、公司治理等规范运作情况进行监督检查</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向，通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>不低于2%</td><td rowspan=1 colspan=1>1次/年</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>公司债券发行人检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>《中华人民共和国证券法》第一百七十条：国务院证券监督管理机构依法履行职责，有权采取下列措施：（一）对证券发行人、证券公司、证券服务机构、证券交易场所、证券登记结算机构进行现场检查；</td><td rowspan=1 colspan=1>信息披露义务人信息披露的合法合规性</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向，通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>0.5-5%</td><td rowspan=1 colspan=1>1次/年</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8671,
+                "bbox": [
+                    1080,
+                    1579,
+                    1122,
+                    1616
+                ],
+                "index": 3
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1088,
+                    1577,
+                    1116,
+                    1621
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    699,
+                    216,
+                    1507,
+                    301
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 2206,
+            "height": 1653
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9907,
+                "bbox": [
+                    88,
+                    218,
+                    2114,
+                    1389
+                ],
+                "index": 1,
+                "html": "<table><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>证券公司检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>《中华人民共和国证券法》第一百七十条：国务院证券监督管理机构依法履行职责，有权采取下列措施：（一）对证券发行人、证券公司、证券服务机构、证券交易场所、证券登记结算机构进行现场检查；</td><td rowspan=1 colspan=1>证券公司有关情况</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向,通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>10%</td><td rowspan=1 colspan=1>1次/年</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>会计师事务所从事证券服务业务检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>《中华人民共和国证券法》第一百七十条：国务院证券监督管理机构依法履行职责，有权采取下列措施：（一）对证券发行人、证券公司、证券服务机构、证券交易场所、证券登记结算机构进行现场检查；</td><td rowspan=1 colspan=1>会计师事务所证券服务业务质量</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向，通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>结合会计师事务所服务对象（如上市公司等）的抽查情况，由各派出机构综合确定。</td><td rowspan=1 colspan=1>1次/年</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>律师事务所从事证券法律业务检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>《中华人民共和国证券法》第一百七十条：国务院证券监督管理 机构依法履行职责，有权采取下列措施：（一）对证券发行人、证券公司、证券服务机构、证券交易场所、证券登记结算机构进行现场检查；····</td><td rowspan=1 colspan=1>律师事务所</td><td rowspan=1 colspan=1>结合日常监管情况，以问从事证券法 题和风险为导向，通过抽律业务情况 签、摇号等方式确定。</td><td rowspan=1 colspan=1>1%</td><td rowspan=1 colspan=1>1次/年</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8645,
+                "bbox": [
+                    1080,
+                    1580,
+                    1125,
+                    1614
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1088,
+                    1579,
+                    1118,
+                    1620
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 2206,
+            "height": 1653
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9907,
+                "bbox": [
+                    88,
+                    219,
+                    2114,
+                    1372
+                ],
+                "index": 1,
+                "html": "<table><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>证券投资咨询机构从事证券服务业务检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>1．《中华人民共和国证券法》第一百七十条：国务院证券监督管理机构依法履行职责，有权采取下列措施：（一）对证券发行人、证券公司、证券服务机构、证券交易场所、证券登记结算机构进行现场检查；2．《证券、期货投资咨询管理暂行办法》（证委发（1997）96 号）第二十七条：中国证监会和地方证管办（证监会）有权对证券、期货投资咨询机构和投资咨询人员的业务活动进行检查，被检查的证券、期货投资咨询机构及其投资咨询人员应当予以配合，不得干扰和阻碍。····</td><td rowspan=1 colspan=1>证券投资咨询机构有关情况</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向，通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>10%</td><td rowspan=1 colspan=1>1次/年</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>资产评估机构从事证券服务业务检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>《中华人民共和国证券法》第一百七十条：国务院证券监督管理机构依法履行职责，有权采取下列措施：（一）对证券发行人、证券公司、证券服务机构、证券交易场所、证券登记结算机构进行现场检查；·····</td><td rowspan=1 colspan=1>资产评估机构证券服务业务质量</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向，通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>结合资产评估机构服务对象（如上市公司等）的抽查情况，由各派出机构综合确定。</td><td rowspan=1 colspan=1>1次/年</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>评级机构从事证券市场资信评级业务检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>《中华人民共和国证券法》第一百七十条：国务院证券监督管理机构依法履行职责，有权采取下列措施：（一）对证券发行人、证券公司、证券服务机构、证券交易场所、证券登记结算机构进行现场检查；·</td><td rowspan=1 colspan=1>证券市场资信评级业务活动的合法合规性</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向，通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>20%-30%</td><td rowspan=1 colspan=1>1次/年</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8715,
+                "bbox": [
+                    1079,
+                    1580,
+                    1124,
+                    1615
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1089,
+                    1579,
+                    1115,
+                    1620
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 2206,
+            "height": 1653
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9905,
+                "bbox": [
+                    84,
+                    193,
+                    2117,
+                    1459
+                ],
+                "index": 1,
+                "html": "<table><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>财务顾问机构从事证券服务业务检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>1．《中华人民共和国证券法》第一百七十条：国务院证券监督管 理机构依法履行职责，有权采取下列措施：（一）对证券发行人、证券公司、证券服务机构、证券交易场所、证券登记结算机构进行现场检查；2．《上市公司并购重组财务顾问业务管理办法》（证监会令第 54号）第三十七条：中国证监会及其派出机构可以根据审慎监管原则，要求财务顾问提供已按照本办法的规定履行尽职调查义务的证明材料、工作档案和工作底稿，并对财务顾问的公司治理、内部控制、经营运作、风险状况、从业活动等方面进行非现场检查或者现场检查。</td><td rowspan=1 colspan=1>财务顾问机构有关情况</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向，通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>10%</td><td rowspan=1 colspan=1>1次/年</td></tr><tr><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>信息技术系统服务机构从事证券基金服务业务检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>1．《中华人民共和国证券法》第一百七十条：国务院证券监督管 理机构依法履行职责，有权采取下列措施：（一）对证券发行人、证券公司、证券服务机构、证券交易场所、证券登记结算机构进行现场检查；2．《中华人民共和国证券投资基金法》第一百一十三条：国务院证券监督管理机构依法履行职责，有权采取下列措施：（一）对基金管理人、基金托管人、基金服务机构进行现场检查，并要求其报送有关的业务资料；</td><td rowspan=1 colspan=1>信息技术系统服务机构证券基金服务业务质量</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向，通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>1%</td><td rowspan=1 colspan=1>1次/年</td></tr><tr><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>证券基金经营机构从事债券承销、受托管理等业务检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>1．《中华人民共和国证券法》第一百七十条：国务院证券监督管 理机构依法履行职责，有权采取下列措施：（一）对证券发行人、证券公司、证券服务机构、证券交易场所、证券登记结算机构进行现场检查；2．《中华人民共和国证券投资基金法》第一百一十三条：国务院证券监督管理机构依法履行职责，有权采取下列措施：（一）对基金管理人、基金托管人、基金服务机构进行现场检查，并要求其报送有关的业务资料；···..</td><td rowspan=1 colspan=1>公司债券承销、受托管理等业务活动的合法合规性</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向，通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>1%-5%</td><td rowspan=1 colspan=1>1次/年</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8723,
+                "bbox": [
+                    1080,
+                    1580,
+                    1124,
+                    1614
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1088,
+                    1576,
+                    1117,
+                    1622
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 2206,
+            "height": 1653
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9905,
+                "bbox": [
+                    80,
+                    210,
+                    2122,
+                    1352
+                ],
+                "index": 1,
+                "html": "<table><tr><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>基金管理人检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>《中华人民共和国证券投资基金法》第一百一十三条：国务院证券监督管理机构依法履行职责，有权采取下列措施：（一）对基金管理人、基金托管人、基金服务机构进行现场检查，并要求其报送有关的业务资料；····.</td><td rowspan=1 colspan=1>基金管理人有关情况</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向，通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>10%</td><td rowspan=1 colspan=1>至少1次/年</td></tr><tr><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>基金托管人检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>《中华人民共和国证券投资基金法》第一百一十三条：国务院证券监督管理机构依法履行职责，有权采取下列措施：（一）对基金管理人、基金托管人、基金服务机构进行现场检查，并要求其报送有关的业务资料；</td><td rowspan=1 colspan=1>基金托管人有关情况</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向，通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>10%</td><td rowspan=1 colspan=1>1次/年</td></tr><tr><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>基金服务机构检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>《中华人民共和国证券投资基金法》第一百一十三条：国务院证券监督管理机构依法履行职责，有权采取下列措施：（一）对基金管理人、基金托管人、基金服务机构进行现场检查，并要求其报送有关的业务资料；：···</td><td rowspan=1 colspan=1>基金服务机构有关情况</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向，通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>10%</td><td rowspan=1 colspan=1>1次/年</td></tr><tr><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>期货公司检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>《期货交易管理条例》第四十七条：国务院期货监督管理机构依法履行职责，可以采取下列措施：（一）对期货交易所、期货公司及其他期货经营机构、非期货公司结算会员、期货保证金安全存管监控机构和交割仓库进行现场检查。···</td><td rowspan=1 colspan=1>期货公司有关情况</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向，通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>10%</td><td rowspan=1 colspan=1>1次/年</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8652,
+                "bbox": [
+                    1079,
+                    1579,
+                    1124,
+                    1614
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1087,
+                    1578,
+                    1117,
+                    1618
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 2206,
+            "height": 1653
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9908,
+                "bbox": [
+                    80,
+                    193,
+                    2120,
+                    1066
+                ],
+                "index": 1,
+                "html": "<table><tr><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>外国证券类机构驻华代表机构及其首席代表检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>《外国证券类机构驻华代表机构管理办法》（证监机构字（1999）26号）第四条：中国证券监督管理委员会（以下简称“证监会”）是代表处的审批和监管机关；证监会派出机构对本辖区的代表处进行日常监管。</td><td rowspan=1 colspan=1>外国证券类机构驻华代表机构设立、运营及其首席代表资质、履职及向我会备案等情况</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向，通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>5%</td><td rowspan=1 colspan=1>1次/年</td></tr><tr><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>境外证券期货交易所驻华代表机构检查</td><td rowspan=1 colspan=1>证监会</td><td rowspan=1 colspan=1>1．《境外证券期货交易所驻华代表机构管理办法》（证监会令第157号）第三条：中国证监会根据审慎监管的原则，依法对代表处进行监管。中国证监会派出机构在中国证监会授权范围内对本辖区的代表处进行监管。2.《境外证券期货交易所驻华代表机构管理办法》（证监会令第157号）第十三条：中国证监会或者其派出机构可以对代表处进行定期或者不定期现场或者非现场检查。·····</td><td rowspan=1 colspan=1>境外证券期货交易所驻华代表机构设立、运营及其首席代表资质、履职及向我会备案等情况</td><td rowspan=1 colspan=1>结合日常监管情况，以问题和风险为导向，通过抽签、摇号等方式确定。</td><td rowspan=1 colspan=1>5%</td><td rowspan=1 colspan=1>1次/年</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.866,
+                "bbox": [
+                    1080,
+                    1579,
+                    1124,
+                    1615
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1088,
+                    1577,
+                    1116,
+                    1621
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 2206,
+            "height": 1653
+        }
+    }
+]

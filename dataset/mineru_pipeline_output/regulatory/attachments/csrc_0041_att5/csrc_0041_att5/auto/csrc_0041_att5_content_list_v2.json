@@ -1,0 +1,3300 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "JR/T 0326—2024"
+                    }
+                ]
+            },
+            "bbox": [
+                722,
+                191,
+                910,
+                210
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "区域性股权市场企业、产品和投资者编码规范"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                178,
+                386,
+                878,
+                462
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Specification for unified code of companies,products and investors in regional equity market"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                117,
+                489,
+                937,
+                535
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2024-12-24 发布 2024-12-24 实施"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                845,
+                934,
+                866
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ICS 03.060 CCS A 11"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                34,
+                211,
+                67
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "JR"
+                    }
+                ]
+            },
+            "bbox": [
+                707,
+                68,
+                885,
+                114
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "中 华 人 民 共 和 国 金 融 行 业 标 准"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                136,
+                912,
+                171
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "中国证券监督管理委员会 发 布"
+                    }
+                ]
+            },
+            "bbox": [
+                252,
+                910,
+                759,
+                932
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                0,
+                0,
+                998,
+                1000
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "目 次"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                455,
+                153,
+                568,
+                178
+            ]
+        },
+        {
+            "type": "index",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "前言 ."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "引言 .."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 范围 ..."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 规范性引用文件 ."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 术语和定义 .."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4 企业编码要求 .. 2"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.1 企业编码结构 .. 2"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.2 企业编码规则 .. 3"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.3 企业编码分配要求 . 4"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5 产品编码要求 .. 4"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5.1 产品编码结构 .. 4"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5.2 产品编码规则 .. 5"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5.3 产品编码分配要求 . 5"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6 投资者编码要求 .. 5"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6.1 投资者编码结构 . 5"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6.2 投资者编码规则 .. 5"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6.3 投资者编码分配要求 . 6"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "附录 A（资料性）企业编码参考示例 . .7"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "附录 B（资料性）产品编码参考示例 . .8"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "附录 C（资料性）投资者编码参考示例 .. 9"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                209,
+                909,
+                671
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "JR/T 0326—2024"
+                    }
+                ]
+            },
+            "bbox": [
+                769,
+                84,
+                907,
+                98
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "I"
+                    }
+                ]
+            },
+            "bbox": [
+                897,
+                921,
+                907,
+                932
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "前 言"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                428,
+                153,
+                544,
+                175
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本文件按照GB/T 1.1—2020《标准化工作导则 第1部分：标准化文件的结构和起草规则》的规定起草。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                217,
+                882,
+                252
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "请注意本文件的某些内容可能涉及专利。本文件的发布机构不承担识别专利的责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                254,
+                774,
+                271
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本文件由全国金融标准化技术委员会证券分技术委员会（SAC/TC 180/SC4）提出。"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                273,
+                757,
+                290
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本文件由全国金融标准化技术委员会（SAC/TC 180）归口。"
+                    }
+                ]
+            },
+            "bbox": [
+                126,
+                292,
+                583,
+                307
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本文件起草单位：中证信息技术服务有限责任公司、中国证券监督管理委员会市场监管二司、深圳证券通信有限公司、上海边界智能科技有限公司。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                310,
+                882,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本文件主要起草人：王凤冬、彭枫、谷新萍、陈柏峰、李宇、杨博、蒲军、陈明忠、陈小泉。"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                347,
+                847,
+                363
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "JR/T 0326—2024"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                84,
+                230,
+                97
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "II"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                920,
+                129,
+                932
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "引 言"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                455,
+                158,
+                566,
+                180
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "区域性股权市场是服务所在省级行政区域内中小微企业的私募股权市场，是多层次资本市场体系重要组成部分，是地方扶持中小微企业政策措施的综合运用平台，也是一类地方金融组织。同时要看到，区域性股权市场也存在功能发挥不畅、地方监管制度体系不完善、业务系统多样异构、数据规范性差、业务规则不完备等问题。区块链具有数据透明、不易篡改、可追溯等技术优势，在促进数据共享、优化业务流程、降低运营成本、提升协同效率、建设可信体系等方面具有积极作用。基于监管链和地方业务链的双层架构，可以更好支持区域性股权市场企业赋能服务、业务创新并逐步实现穿透式监管。为建成物理分散、逻辑统一的区域性股权市场新型金融基础设施，有必要定义区域性股权市场企业、产品和投资者的统一编码规范。"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                222,
+                909,
+                368
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本规范对区域性股权市场服务的企业、产品和投资者的编码进行了统一规范，明确了编码结构、编码规则和编码分配要求。"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                370,
+                907,
+                406
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "JR/T 0326—2024"
+                    }
+                ]
+            },
+            "bbox": [
+                769,
+                84,
+                907,
+                97
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "III"
+                    }
+                ]
+            },
+            "bbox": [
+                887,
+                921,
+                907,
+                932
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                0,
+                0,
+                998,
+                1000
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "区域性股权市场企业、产品和投资者编码规范"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                238,
+                158,
+                783,
+                181
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1 范围"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                222,
+                183,
+                239
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本文件规定了区域性股权市场服务的企业、产品和投资者的编码要求和分配规则。"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                260,
+                781,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本文件适用于为区域性股权市场服务的企业、产品和投资者统一编码和分配。"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                278,
+                747,
+                294
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2 规范性引用文件"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                316,
+                272,
+                331
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "下列文件中的内容通过文中的规范性引用而构成本文件必不可少的条款。其中，注日期的引用文件，仅该日期对应的版本适用于本文件；不注日期的引用文件，其最新版本（包括所有的修改单）适用于本文件。"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                353,
+                907,
+                405
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GB/T 2260 中华人民共和国行政区划代码"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                407,
+                484,
+                423
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GB 18030 信息技术 中文编码字符集"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                426,
+                457,
+                442
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GB/T 35964 证券及相关金融工具 金融工具分类（CFI）编码"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                445,
+                643,
+                461
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3 术语和定义"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                482,
+                235,
+                498
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "下列术语和定义适用于本文件。"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                519,
+                393,
+                535
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                548,
+                147,
+                562
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "监管链 global regulation blockchain"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                575,
+                475,
+                590
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "以区域性股权市场全局服务和监管为目的构建的区块链系统。"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                593,
+                621,
+                609
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                621,
+                149,
+                636
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "企业编码 company code"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                650,
+                351,
+                664
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由区域性股权市场分配的标识区域性股权市场企业信息的全局唯一代码。"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                668,
+                710,
+                684
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                696,
+                147,
+                709
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "辖区编码 region code"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                724,
+                342,
+                739
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "标识区域性股权市场所在行政区域信息的代码。"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                741,
+                515,
+                757
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注：辖区编码是企业编码的组成部分。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                760,
+                400,
+                776
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.4"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                789,
+                147,
+                803
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "企业数字编码 company number code"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                816,
+                448,
+                832
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由区域性股权市场分配的标识企业主体的数字编码。"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                834,
+                551,
+                851
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注：企业数字编码是企业编码的组成部分。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                853,
+                430,
+                869
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.5"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                882,
+                147,
+                895
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "JR/T 0326—2024"
+                    }
+                ]
+            },
+            "bbox": [
+                768,
+                84,
+                907,
+                98
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                878,
+                921,
+                889,
+                932
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "企业分层（类）编码 company classification code"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                124,
+                115,
+                547,
+                130
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "标识企业所在服务层次、分类信息的代码。"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                133,
+                458,
+                148
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注：企业分层（类）编码是企业编码的组成部分。"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                152,
+                453,
+                167
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.6"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                180,
+                124,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产品编码 product code"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                206,
+                327,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由区域性股权市场分配的标识企业非公开发行、转让或登记托管的证券产品信息的唯一代码。"
+                    }
+                ]
+            },
+            "bbox": [
+                126,
+                225,
+                847,
+                242
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.7"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                254,
+                124,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "证券品种编码 securities classification code"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                281,
+                521,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "标识证券产品品种信息的代码。"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                299,
+                371,
+                316
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注：证券品种编码是产品编码的组成部分。"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                318,
+                406,
+                334
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.8"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                347,
+                124,
+                360
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "证券发行期次编码 securities issuance batch code"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                374,
+                556,
+                388
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由区域性股权市场分配的标识证券产品发行期次信息的代码。"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                392,
+                598,
+                409
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注：证券发行期次编码是产品编码的组成部分。"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                411,
+                436,
+                425
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.9"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                439,
+                124,
+                453
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "投资者编码 investor code"
+                    }
+                ]
+            },
+            "bbox": [
+                126,
+                467,
+                352,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由监管链分配的标识投资者信息的全局唯一代码。"
+                    }
+                ]
+            },
+            "bbox": [
+                126,
+                485,
+                510,
+                501
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.10"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                513,
+                132,
+                527
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "投资者类别编码 investor classification code"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                541,
+                521,
+                556
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "标识投资者类别信息的代码。"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                560,
+                351,
+                575
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注：投资者类别编码是投资者编码的组成部分。"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                579,
+                436,
+                593
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.11"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                606,
+                131,
+                620
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "投资者数字编码 investor number code"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                633,
+                450,
+                649
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由监管链分配的投资者的数字编码。"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                652,
+                405,
+                668
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注：投资者数字编码是投资者编码的组成部分。"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                671,
+                436,
+                686
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4 企业编码要求"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                707,
+                228,
+                722
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.1 企业编码结构"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                745,
+                247,
+                760
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "企业编码结构应与图1相符合，由辖区编码、企业数字编码和企业分层（类）编码（如存在）组成。附录A给出了企业编码参考示例。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                772,
+                882,
+                806
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注：辖区编码预留三位，企业编码分配方可根据所属辖区的实际情况填写两位或三位辖区编码。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                810,
+                754,
+                825
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "JR/T 0326—2024"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                84,
+                230,
+                97
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                920,
+                122,
+                932
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/303fb9f808f9c1258b14341f333b630124a26852c87a8487b09955a0ceb69d7e.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 企业编码结构图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                379,
+                104,
+                715,
+                177
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.2 企业编码规则"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                216,
+                272,
+                231
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "企业编码规则如下："
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                243,
+                305,
+                259
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a） 辖区编码应符合 GB/T 2260 规定的字母码，见表 1；"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                262,
+                584,
+                278
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b） 企业数字编码应按照 GB 18030，采用 6 位无意义数字 0～9 进行编码；"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                281,
+                726,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "c） 企业分层（类）编码应符合表 2 的规则，根据企业分层或分类信息采用固定的单个字母。"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                299,
+                870,
+                316
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/44719667455a2c6f024e3b0ff93ca68027a17e07bcd7e57098e3d48a2714c368.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 1 辖区编码表"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"1\" rowspan=\"1\">序号</td><td colspan=\"1\" rowspan=\"1\">行政区域</td><td colspan=\"1\" rowspan=\"1\">区域性股权市场名称</td><td colspan=\"1\" rowspan=\"1\">辖区编码</td></tr><tr><td colspan=\"1\" rowspan=\"1\">01</td><td colspan=\"1\" rowspan=\"1\">北京</td><td colspan=\"1\" rowspan=\"1\">北京股权交易中心有限公司</td><td colspan=\"1\" rowspan=\"1\">BJ</td></tr><tr><td colspan=\"1\" rowspan=\"1\">02</td><td colspan=\"1\" rowspan=\"1\">天津</td><td colspan=\"1\" rowspan=\"1\">天津滨海柜台交易市场股份公司</td><td colspan=\"1\" rowspan=\"1\">TJ</td></tr><tr><td colspan=\"1\" rowspan=\"1\">03</td><td colspan=\"1\" rowspan=\"1\">河北</td><td colspan=\"1\" rowspan=\"1\">雄安股权交易所股份有限公司</td><td colspan=\"1\" rowspan=\"1\">HE</td></tr><tr><td colspan=\"1\" rowspan=\"1\">04</td><td colspan=\"1\" rowspan=\"1\">山西</td><td colspan=\"1\" rowspan=\"1\">山西股权交易中心有限公司</td><td colspan=\"1\" rowspan=\"1\">SX</td></tr><tr><td colspan=\"1\" rowspan=\"1\">05</td><td colspan=\"1\" rowspan=\"1\">内蒙古</td><td colspan=\"1\" rowspan=\"1\">内蒙古股权交易中心股份有限公司</td><td colspan=\"1\" rowspan=\"1\">NM</td></tr><tr><td colspan=\"1\" rowspan=\"1\">06</td><td colspan=\"1\" rowspan=\"1\">辽宁</td><td colspan=\"1\" rowspan=\"1\">辽宁股权交易中心股份有限公司</td><td colspan=\"1\" rowspan=\"1\">LN</td></tr><tr><td colspan=\"1\" rowspan=\"1\">07</td><td colspan=\"1\" rowspan=\"1\">吉林</td><td colspan=\"1\" rowspan=\"1\">吉林股权交易所股份有限公司</td><td colspan=\"1\" rowspan=\"1\">JL</td></tr><tr><td colspan=\"1\" rowspan=\"1\">08</td><td colspan=\"1\" rowspan=\"1\">黑龙江</td><td colspan=\"1\" rowspan=\"1\">黑龙江股权交易中心有限责任公司</td><td colspan=\"1\" rowspan=\"1\">HL</td></tr><tr><td colspan=\"1\" rowspan=\"1\">09</td><td colspan=\"1\" rowspan=\"1\">上海</td><td colspan=\"1\" rowspan=\"1\">上海股权托管交易中心股份有限公司</td><td colspan=\"1\" rowspan=\"1\">SH</td></tr><tr><td colspan=\"1\" rowspan=\"1\">10</td><td colspan=\"1\" rowspan=\"1\">江苏</td><td colspan=\"1\" rowspan=\"1\">江苏股权交易中心有限责任公司</td><td colspan=\"1\" rowspan=\"1\">JS</td></tr><tr><td colspan=\"1\" rowspan=\"1\">11</td><td colspan=\"1\" rowspan=\"1\">浙江</td><td colspan=\"1\" rowspan=\"1\">浙江股权服务集团有限公司</td><td colspan=\"1\" rowspan=\"1\">ZJ</td></tr><tr><td colspan=\"1\" rowspan=\"1\">12</td><td colspan=\"1\" rowspan=\"1\">安徽</td><td colspan=\"1\" rowspan=\"1\">安徽省股权托管交易中心有限责任公司</td><td colspan=\"1\" rowspan=\"1\">AH</td></tr><tr><td colspan=\"1\" rowspan=\"1\">13</td><td colspan=\"1\" rowspan=\"1\">福建</td><td colspan=\"1\" rowspan=\"1\">海峡股权交易中心（福建）有限公司</td><td colspan=\"1\" rowspan=\"1\">FJ</td></tr><tr><td colspan=\"1\" rowspan=\"1\">14</td><td colspan=\"1\" rowspan=\"1\">江西</td><td colspan=\"1\" rowspan=\"1\">江西联合股权交易中心股份有限公司</td><td colspan=\"1\" rowspan=\"1\">JX</td></tr><tr><td colspan=\"1\" rowspan=\"1\">15</td><td colspan=\"1\" rowspan=\"1\">山东</td><td colspan=\"1\" rowspan=\"1\">齐鲁股权交易中心有限公司</td><td colspan=\"1\" rowspan=\"1\">SD</td></tr><tr><td colspan=\"1\" rowspan=\"1\">16</td><td colspan=\"1\" rowspan=\"1\">河南</td><td colspan=\"1\" rowspan=\"1\">中原股权交易中心股份有限公司</td><td colspan=\"1\" rowspan=\"1\">HA</td></tr><tr><td colspan=\"1\" rowspan=\"1\">17</td><td colspan=\"1\" rowspan=\"1\">湖北</td><td colspan=\"1\" rowspan=\"1\">武汉股权托管交易中心有限公司</td><td colspan=\"1\" rowspan=\"1\">HB</td></tr><tr><td colspan=\"1\" rowspan=\"1\">18</td><td colspan=\"1\" rowspan=\"1\">湖南</td><td colspan=\"1\" rowspan=\"1\">湖南股权交易所有限公司</td><td colspan=\"1\" rowspan=\"1\">HN</td></tr><tr><td colspan=\"1\" rowspan=\"1\">19</td><td colspan=\"1\" rowspan=\"1\">广东</td><td colspan=\"1\" rowspan=\"1\">广东股权交易中心股份有限公司</td><td colspan=\"1\" rowspan=\"1\">GD</td></tr><tr><td colspan=\"1\" rowspan=\"1\">20</td><td colspan=\"1\" rowspan=\"1\">广西</td><td colspan=\"1\" rowspan=\"1\">广西北部湾股权交易所股份有限公司</td><td colspan=\"1\" rowspan=\"1\">GX</td></tr><tr><td colspan=\"1\" rowspan=\"1\">21</td><td colspan=\"1\" rowspan=\"1\">海南</td><td colspan=\"1\" rowspan=\"1\">海南股权交易中心有限责任公司</td><td colspan=\"1\" rowspan=\"1\">HI</td></tr><tr><td colspan=\"1\" rowspan=\"1\">22</td><td colspan=\"1\" rowspan=\"1\">重庆</td><td colspan=\"1\" rowspan=\"1\">重庆股份转让中心有限责任公司</td><td colspan=\"1\" rowspan=\"1\">CQ</td></tr><tr><td colspan=\"1\" rowspan=\"1\">23</td><td colspan=\"1\" rowspan=\"1\">四川</td><td colspan=\"1\" rowspan=\"1\">天府（四川）联合股权交易中心股份有限公司</td><td colspan=\"1\" rowspan=\"1\">SC</td></tr><tr><td colspan=\"1\" rowspan=\"1\">24</td><td colspan=\"1\" rowspan=\"1\">贵州</td><td colspan=\"1\" rowspan=\"1\">贵州股权交易中心有限公司</td><td colspan=\"1\" rowspan=\"1\">GZ</td></tr><tr><td colspan=\"1\" rowspan=\"1\">25</td><td colspan=\"1\" rowspan=\"1\">云南</td><td colspan=\"1\" rowspan=\"1\">云南省股权交易中心有限公司</td><td colspan=\"1\" rowspan=\"1\">YN</td></tr><tr><td colspan=\"1\" rowspan=\"1\">26</td><td colspan=\"1\" rowspan=\"1\">陕西</td><td colspan=\"1\" rowspan=\"1\">陕西股权交易中心股份有限公司</td><td colspan=\"1\" rowspan=\"1\">SN</td></tr><tr><td colspan=\"1\" rowspan=\"1\">27</td><td colspan=\"1\" rowspan=\"1\">甘肃</td><td colspan=\"1\" rowspan=\"1\">甘肃股权交易中心股份有限公司</td><td colspan=\"1\" rowspan=\"1\">GS</td></tr><tr><td colspan=\"1\" rowspan=\"1\">28</td><td colspan=\"1\" rowspan=\"1\">青海</td><td colspan=\"1\" rowspan=\"1\">青海股权交易中心有限公司</td><td colspan=\"1\" rowspan=\"1\">QH</td></tr><tr><td colspan=\"1\" rowspan=\"1\">29</td><td colspan=\"1\" rowspan=\"1\">宁夏</td><td colspan=\"1\" rowspan=\"1\">宁夏股权托管交易中心（有限公司）</td><td colspan=\"1\" rowspan=\"1\">NX</td></tr><tr><td colspan=\"1\" rowspan=\"1\">30</td><td colspan=\"1\" rowspan=\"1\">新疆</td><td colspan=\"1\" rowspan=\"1\">新疆股权交易中心有限公司</td><td colspan=\"1\" rowspan=\"1\">XJ</td></tr><tr><td colspan=\"1\" rowspan=\"1\">31</td><td colspan=\"1\" rowspan=\"1\">深圳</td><td colspan=\"1\" rowspan=\"1\">深圳前海股权交易中心有限公司</td><td colspan=\"1\" rowspan=\"1\">SZX</td></tr><tr><td colspan=\"1\" rowspan=\"1\">32</td><td colspan=\"1\" rowspan=\"1\">大连</td><td colspan=\"1\" rowspan=\"1\">大连股权交易中心股份有限公司</td><td colspan=\"1\" rowspan=\"1\">DLC</td></tr><tr><td colspan=\"1\" rowspan=\"1\">33</td><td colspan=\"1\" rowspan=\"1\">宁波</td><td colspan=\"1\" rowspan=\"1\">宁波股权交易中心有限公司</td><td colspan=\"1\" rowspan=\"1\">NGB</td></tr><tr><td colspan=\"1\" rowspan=\"1\">34</td><td colspan=\"1\" rowspan=\"1\">厦门</td><td colspan=\"1\" rowspan=\"1\">厦门两岸股权交易中心有限公司</td><td colspan=\"1\" rowspan=\"1\">XMN</td></tr><tr><td colspan=\"1\" rowspan=\"1\">35</td><td colspan=\"1\" rowspan=\"1\">青岛</td><td colspan=\"1\" rowspan=\"1\">青岛蓝海股权交易中心有限责任公司</td><td colspan=\"1\" rowspan=\"1\">TAO</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                95,
+                350,
+                905,
+                890
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "JR/T 0326—2024"
+                    }
+                ]
+            },
+            "bbox": [
+                768,
+                84,
+                909,
+                98
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                920,
+                890,
+                932
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                73,
+                139,
+                882,
+                312
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/34ca3343f5d7a6c5b214677e526bb26931aa35dcba9fc3758a49a85111b02b47.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 2 企业分层（类）编码表"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>企业分层（类）编码</td><td rowspan=1 colspan=1>企业分层（类）编码描述</td></tr><tr><td rowspan=1 colspan=1>01</td><td rowspan=1 colspan=1>F</td><td rowspan=1 colspan=1>孵化层</td></tr><tr><td rowspan=1 colspan=1>02</td><td rowspan=1 colspan=1>G</td><td rowspan=1 colspan=1>规范层</td></tr><tr><td rowspan=1 colspan=1>03</td><td rowspan=1 colspan=1>P</td><td rowspan=1 colspan=1>培育层</td></tr><tr><td rowspan=1 colspan=1>04</td><td rowspan=1 colspan=1>T</td><td rowspan=1 colspan=1>纯托管企业</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                72,
+                367,
+                880,
+                464
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.3 企业编码分配要求"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                89,
+                476,
+                284,
+                492
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "企业编码分配要求如下："
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                504,
+                317,
+                519
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a） 应保证企业编码在不同区域性股权市场的全局唯一性；"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                521,
+                583,
+                537
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b） 应根据企业所属区域性股权市场所在地信息来分配辖区编码；"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                541,
+                633,
+                557
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "c） 对于新增企业，区域性股权市场应根据企业数字编码规则和服务情况自行分配企业数字编码；"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                560,
+                882,
+                575
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "d） 对于存量企业，区域性股权市场已分配的6位企业代码保持不变，将现有企业代码作为企业数字编码；如果存量企业代码不为6位数字，区域性股权市场应按照本文件要求规范企业代码；"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                577,
+                884,
+                612
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "e） 若区域性股权市场对企业进行分层管理，应根据企业分层（类）信息及表2的规则自行分配企业分层（类）编码；"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                615,
+                884,
+                649
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "f） 若企业所属层级产生变化，应根据表2的规则进行相应变更，企业编码中其余部分编码保持不变；"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                652,
+                884,
+                686
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "g） 区域性股权市场为本区域内企业编码分配方。"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                689,
+                512,
+                706
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5 产品编码要求"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                89,
+                726,
+                230,
+                743
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5.1 产品编码结构"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                89,
+                763,
+                248,
+                780
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产品编码结构应与图2相符合，由企业编码、证券品种编码、证券发行期次编码三部分组成。证券品种编码与企业编码之间由半角圆点（.）分隔。附录B给出了产品编码参考示例。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                791,
+                884,
+                827
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "JR/T 0326—2024"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                84,
+                230,
+                98
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                920,
+                124,
+                932
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5b2cf9eea83753178a943c0e0b724269caf831ae44727c572e6746b710f0103f.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2 产品编码结构图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                307,
+                112,
+                747,
+                167
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5.2 产品编码规则"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                206,
+                272,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产品编码规则如下："
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                235,
+                305,
+                249
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a） 企业编码规则应符合 4.2要求；"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                253,
+                428,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b） 证券品种编码是在参考 GB/T 35964 规定的编码规则基础上，结合区域性股权市场实际产品类型，定义的编码；"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                272,
+                907,
+                305
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "c） 证券发行期次编码应按照 GB 18030，采用不超过 4 位数字 0～9 进行编码。其中，前两位数字表示发行年份，后两位数字为发行期次编号。"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                309,
+                907,
+                343
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5.3 产品编码分配要求"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                355,
+                307,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产品编码分配要求如下："
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                382,
+                341,
+                398
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a) 企业的每个证券产品应拥有一个相对应的产品编码；"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                401,
+                586,
+                417
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b) 现有存量产品保留原有编码不变，直至兑付完成；"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                420,
+                569,
+                436
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "c) 新增产品应按照本文件进行编码；"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                438,
+                447,
+                454
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "d) 区域性股权市场为本区域内产品编码分配方。"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                457,
+                534,
+                473
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6 投资者编码要求"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                494,
+                272,
+                511
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6.1 投资者编码结构"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                112,
+                531,
+                290,
+                548
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "投资者编码结构应与图3相符合，由投资者类别编码、投资者数字编码组成。附录C给出了投资者编码参考示例。"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                560,
+                907,
+                594
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b26116ad20652ff91c042e4d67212f3a9244f37b5757ae7b0f7c4a9c344ccf07.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 投资者编码结构图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                356,
+                596,
+                613,
+                649
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6.2 投资者编码规则"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                688,
+                290,
+                705
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "投资者编码规则如下："
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                717,
+                322,
+                732
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a） 投资者类别编码应符合表 3 的规则，根据投资者类别信息采用固定的单个字母；"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                736,
+                800,
+                751
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注：目前全国性证券交易场所的投资者证券账户是以 A、B、C、D、E、F 等字母开头，为避免混淆，区域性股权市场投资者类别编码以字母 Q、R、S开头。"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                755,
+                907,
+                788
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b） 投资者数字编码应按照 GB 18030，采用 9 位无意义数字 0～9进行编码。"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                791,
+                742,
+                807
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8bc59e0fc6a28adef74a7e6b0898950ac18a5c6c9ed058cd177de7011c41bbc5.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 3 投资者类别编码表"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"1\" rowspan=\"1\">序号</td><td colspan=\"1\" rowspan=\"1\">投资者类别编码</td><td colspan=\"1\" rowspan=\"1\">投资者类别说明</td></tr><tr><td colspan=\"1\" rowspan=\"1\">01</td><td colspan=\"1\" rowspan=\"1\">Q</td><td colspan=\"1\" rowspan=\"1\">自然人投资者</td></tr><tr><td>02</td><td>R</td><td>机构类投资者</td></tr><tr><td>03</td><td>S</td><td>产品类投资者</td></tr><tr><td colspan=\"3\">注1：自然人投资者包括合格投资者、豁免投资者及其他投资者，涵盖已登记的持有区域性股权市场企业股份的、未来 新增的符合要求的以自然人名义开立账户的投资者。 注2：机构类投资者指依法设立的公司法人、机关法人、社会团体法人、事业单位法人、基金会法人等法人机构，合伙 企业等，以及证券公司及其资管子公司、基金管理公司及其子公司、保险公司、信托公司、银行及商业银行理财 子公司等市场参与主体。 注3：产品类投资者指证券公司单一资产管理计划及集合资产管理计划、基金管理公司单一资产管理计划及集合资产管</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                97,
+                844,
+                904,
+                884
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "JR/T 0326—2024"
+                    }
+                ]
+            },
+            "bbox": [
+                768,
+                84,
+                907,
+                98
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                920,
+                890,
+                932
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                73,
+                147,
+                880,
+                393
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6.3 投资者编码分配要求"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                404,
+                300,
+                420
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "投资者编码分配要求如下："
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                432,
+                334,
+                447
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a) 每一名投资者的投资者编码全局唯一，在全国区域性股权市场通用；"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                451,
+                687,
+                466
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b) 投资者编码应通过中国证监会监管链系统分配。附录 C给出了投资者编码参考示例。"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                469,
+                810,
+                486
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "JR/T 0326—2024"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                84,
+                230,
+                97
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                920,
+                122,
+                932
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "附 录 A"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                467,
+                153,
+                556,
+                170
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "企业编码参考示例"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                436,
+                190,
+                584,
+                208
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "以下是企业编码的参考示例。"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                225,
+                376,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BJ000001F"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                244,
+                238,
+                261
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BJ"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                263,
+                211,
+                279
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "解释：辖区编码字段，由表 1 可知 BJ代表北京股权交易中心。"
+                    }
+                ]
+            },
+            "bbox": [
+                163,
+                280,
+                667,
+                299
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "000001"
+                    }
+                ]
+            },
+            "bbox": [
+                151,
+                300,
+                245,
+                316
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "解释：企业数字编码字段，为 6位数字。"
+                    }
+                ]
+            },
+            "bbox": [
+                156,
+                318,
+                500,
+                335
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "F"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                337,
+                201,
+                351
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "解释：企业分层（类）编码字段，由表 2 可知 F 代表该企业处于孵化层。"
+                    }
+                ]
+            },
+            "bbox": [
+                183,
+                355,
+                746,
+                373
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "JR/T 0326—2024"
+                    }
+                ]
+            },
+            "bbox": [
+                769,
+                84,
+                907,
+                98
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                920,
+                889,
+                932
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "附 录 B"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                443,
+                151,
+                531,
+                168
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "（资料性）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                448,
+                171,
+                524,
+                187
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "产品编码参考示例"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                413,
+                189,
+                561,
+                205
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "以下是产品编码的参考示例。"
+                    }
+                ]
+            },
+            "bbox": [
+                126,
+                224,
+                351,
+                241
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BJ000001F.DCFGFR2110"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                243,
+                310,
+                259
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "——BJ"
+                    }
+                ]
+            },
+            "bbox": [
+                126,
+                262,
+                186,
+                277
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "解释：辖区编码字段，由表 1 可知 BJ 代表北京股权交易中心。"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                279,
+                643,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "000001"
+                    }
+                ]
+            },
+            "bbox": [
+                126,
+                299,
+                221,
+                313
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "解释：企业数字编码字段，为 6位数字。"
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                317,
+                475,
+                334
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "F"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                336,
+                178,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "解释：企业分层（类）编码字段，由表 2 可知 F 代表该企业处于孵化层。"
+                    }
+                ]
+            },
+            "bbox": [
+                154,
+                354,
+                721,
+                372
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DCFGFR"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                374,
+                223,
+                387
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "解释：证券品种编码字段，表示可转换公司债券。"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                391,
+                546,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2110"
+                    }
+                ]
+            },
+            "bbox": [
+                126,
+                410,
+                205,
+                424
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "解释：证券发行期次编码字段，4 位数字 2101的前两位 21代表发行年份 2021年，后两位 01代表第一期次。"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                428,
+                882,
+                463
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "JR/T 0326—2024"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                84,
+                230,
+                98
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                920,
+                122,
+                932
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "以下是投资者编码的参考示例。"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                225,
+                393,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Q000000001"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                244,
+                245,
+                261
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "解释：投资者类别编码字段，由表 4可知 Q 代表该投资者为自然人投资者。000000001"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                280,
+                763,
+                316
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "解释：投资者数字编码字段，为 9 位数字 000000001。"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                318,
+                601,
+                336
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "JR/T 0326—2024"
+                    }
+                ]
+            },
+            "bbox": [
+                769,
+                84,
+                907,
+                98
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                920,
+                889,
+                932
+            ]
+        }
+    ]
+]

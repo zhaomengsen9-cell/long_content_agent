@@ -1,0 +1,91 @@
+command: mineru --path /opt/mengsen/long_content/dataset/public_dataset_upload/raw/regulatory/attachments/csrc_0038_att1.pdf --output /opt/mengsen/long_content/dataset/mineru_pipeline_output/regulatory/attachments/csrc_0038_att1 --backend pipeline --method auto --lang ch
+CUDA_VISIBLE_DEVICES=7
+MINERU_DEVICE_MODE=cuda
+MINERU_MODEL_SOURCE=local
+PYTORCH_ALLOC_CONF=expandable_segments:True
+Start MinerU FastAPI Service: http://127.0.0.1:45869
+API documentation: http://127.0.0.1:45869/docs
+2026-07-13 10:59:17.416 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:45869
+2026-07-13 10:59:19.969 | INFO     | __main__:create_app:250 - Request concurrency limited to 3
+INFO:     Started server process [3599117]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:45869 (Press CTRL+C to quit)
+2026-07-13 10:59:20.432 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 59 pages in this batch | 59 pages total | task#1 [csrc_0038_att1]
+2026-07-13 10:59:23.349 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze_streaming:182 - Pipeline processing-window multi-file run. doc_count=1, total_pages=59, window_size=64, total_batches=1
+2026-07-13 10:59:29.250 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze_streaming:234 - Pipeline processing window batch 1/1: 59/59 pages, batch_pages=59, doc_slices=doc0:1-59
+2026-07-13 10:59:29.717 | INFO     | mineru.backend.pipeline.pipeline_analyze:batch_image_analyze:327 - GPU Memory: 79 GB, Batch Ratio: 16. 
+2026-07-13 10:59:29.717 | INFO     | mineru.backend.pipeline.model_init:__init__:206 - DocAnalysis init, this may take some times......
+2026-07-13 10:59:34.975 | INFO     | mineru.backend.pipeline.model_init:__init__:259 - DocAnalysis init done!
+2026-07-13 10:59:34.975 | INFO     | mineru.backend.pipeline.pipeline_analyze:custom_model_init:82 - model init cost: 5.258459806442261
+
+Layout Predict:   0%|          | 0/59 [00:00<?, ?it/s]
+Layout Predict:  14%|█▎        | 8/59 [00:00<00:04, 11.81it/s]
+Layout Predict:  27%|██▋       | 16/59 [00:00<00:02, 19.34it/s]
+Layout Predict:  41%|████      | 24/59 [00:01<00:01, 24.30it/s]
+Layout Predict:  54%|█████▍    | 32/59 [00:01<00:00, 27.57it/s]
+Layout Predict:  68%|██████▊   | 40/59 [00:01<00:00, 29.49it/s]
+Layout Predict:  81%|████████▏ | 48/59 [00:01<00:00, 30.99it/s]
+Layout Predict:  95%|█████████▍| 56/59 [00:02<00:00, 32.04it/s]
+Layout Predict: 100%|██████████| 59/59 [00:02<00:00, 26.92it/s]
+
+Table-ocr det:   0%|          | 0/4 [00:00<?, ?it/s]
+Table-ocr det:  50%|█████     | 2/4 [00:00<00:00, 18.49it/s]
+Table-ocr det: 100%|██████████| 4/4 [00:00<00:00, 24.13it/s]
+
+Table-ocr rec ch:   0%|          | 0/59 [00:00<?, ?it/s]
+Table-ocr rec ch:  92%|█████████▏| 54/59 [00:00<00:00, 506.65it/s]
+Table-ocr rec ch: 100%|██████████| 59/59 [00:00<00:00, 478.73it/s]
+
+Table-wireless Predict:   0%|          | 0/4 [00:00<?, ?it/s]
+Table-wireless Predict: 100%|██████████| 4/4 [00:00<00:00, 20.82it/s]
+Table-wireless Predict: 100%|██████████| 4/4 [00:00<00:00, 20.80it/s]
+
+Table-wired Predict:   0%|          | 0/4 [00:00<?, ?it/s]
+Table-wired Predict:  25%|██▌       | 1/4 [00:00<00:00,  3.52it/s]
+Table-wired Predict:  50%|█████     | 2/4 [00:00<00:00,  2.49it/s]
+Table-wired Predict:  75%|███████▌  | 3/4 [00:00<00:00,  3.15it/s]
+Table-wired Predict: 100%|██████████| 4/4 [00:01<00:00,  3.96it/s]
+Table-wired Predict: 100%|██████████| 4/4 [00:01<00:00,  3.51it/s]
+
+OCR-det ch:   0%|          | 0/43 [00:00<?, ?it/s]
+OCR-det ch:   7%|▋         | 3/43 [00:00<00:06,  6.34it/s]
+OCR-det ch:   9%|▉         | 4/43 [00:01<00:11,  3.27it/s]
+OCR-det ch:  12%|█▏        | 5/43 [00:01<00:16,  2.35it/s]
+OCR-det ch:  19%|█▊        | 8/43 [00:02<00:10,  3.19it/s]
+OCR-det ch:  23%|██▎       | 10/43 [00:02<00:07,  4.48it/s]
+OCR-det ch:  30%|███       | 13/43 [00:02<00:05,  5.39it/s]
+OCR-det ch:  37%|███▋      | 16/43 [00:03<00:03,  7.84it/s]
+OCR-det ch:  47%|████▋     | 20/43 [00:03<00:02, 11.02it/s]
+OCR-det ch:  51%|█████     | 22/43 [00:03<00:01, 11.43it/s]
+OCR-det ch:  58%|█████▊    | 25/43 [00:03<00:01, 14.28it/s]
+OCR-det ch:  67%|██████▋   | 29/43 [00:03<00:00, 18.51it/s]
+OCR-det ch:  81%|████████▏ | 35/43 [00:03<00:00, 26.19it/s]
+OCR-det ch:  91%|█████████ | 39/43 [00:03<00:00, 27.88it/s]
+OCR-det ch: 100%|██████████| 43/43 [00:03<00:00, 10.86it/s]
+
+Seal Predict: 0it [00:00, ?it/s]
+Seal Predict: 0it [00:00, ?it/s]
+
+Processing pages:   0%|          | 0/59 [00:00<?, ?it/s]
+Processing pages:   5%|▌         | 3/59 [00:00<00:01, 29.20it/s]
+Processing pages:  12%|█▏        | 7/59 [00:00<00:01, 30.20it/s]
+Processing pages:  19%|█▊        | 11/59 [00:00<00:01, 30.30it/s]
+Processing pages:  25%|██▌       | 15/59 [00:00<00:01, 29.94it/s]
+Processing pages:  32%|███▏      | 19/59 [00:00<00:01, 30.16it/s]
+Processing pages:  39%|███▉      | 23/59 [00:00<00:01, 30.40it/s]
+Processing pages:  46%|████▌     | 27/59 [00:00<00:01, 30.44it/s]
+Processing pages:  53%|█████▎    | 31/59 [00:01<00:00, 30.11it/s]
+Processing pages:  59%|█████▉    | 35/59 [00:01<00:00, 30.13it/s]
+Processing pages:  66%|██████▌   | 39/59 [00:01<00:00, 30.35it/s]
+Processing pages:  73%|███████▎  | 43/59 [00:01<00:00, 30.07it/s]
+Processing pages:  80%|███████▉  | 47/59 [00:01<00:00, 30.63it/s]
+Processing pages:  86%|████████▋ | 51/59 [00:01<00:00, 30.61it/s]
+Processing pages:  93%|█████████▎| 55/59 [00:01<00:00, 30.96it/s]
+Processing pages: 100%|██████████| 59/59 [00:01<00:00, 31.33it/s]
+Processing pages: 100%|██████████| 59/59 [00:02<00:00, 25.63it/s]
+2026-07-13 10:59:49.115 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 59/59 pages | 1 of 1 batch finished | task#1 [csrc_0038_att1]
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3599117]

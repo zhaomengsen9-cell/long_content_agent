@@ -1,0 +1,156 @@
+command: mineru --path /opt/mengsen/long_content/dataset/public_dataset_upload/raw/insurance/6.pdf --output /opt/mengsen/long_content/dataset/mineru_pipeline_output/insurance/6 --backend pipeline --method auto --lang ch
+CUDA_VISIBLE_DEVICES=4
+MINERU_DEVICE_MODE=cuda
+MINERU_MODEL_SOURCE=local
+PYTORCH_ALLOC_CONF=expandable_segments:True
+Start MinerU FastAPI Service: http://127.0.0.1:45379
+API documentation: http://127.0.0.1:45379/docs
+2026-07-13 10:34:54.388 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:45379
+2026-07-13 10:34:56.805 | INFO     | __main__:create_app:250 - Request concurrency limited to 3
+INFO:     Started server process [2989642]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:45379 (Press CTRL+C to quit)
+2026-07-13 10:34:57.402 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 42 pages in this batch | 42 pages total | task#1 [6]
+2026-07-13 10:35:00.480 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze_streaming:182 - Pipeline processing-window multi-file run. doc_count=1, total_pages=42, window_size=64, total_batches=1
+2026-07-13 10:35:05.707 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze_streaming:234 - Pipeline processing window batch 1/1: 42/42 pages, batch_pages=42, doc_slices=doc0:1-42
+2026-07-13 10:35:06.168 | INFO     | mineru.backend.pipeline.pipeline_analyze:batch_image_analyze:327 - GPU Memory: 79 GB, Batch Ratio: 16. 
+2026-07-13 10:35:06.168 | INFO     | mineru.backend.pipeline.model_init:__init__:206 - DocAnalysis init, this may take some times......
+2026-07-13 10:35:10.633 | INFO     | mineru.backend.pipeline.model_init:__init__:259 - DocAnalysis init done!
+2026-07-13 10:35:10.633 | INFO     | mineru.backend.pipeline.pipeline_analyze:custom_model_init:82 - model init cost: 4.465043783187866
+
+Layout Predict:   0%|          | 0/42 [00:00<?, ?it/s]
+Layout Predict:  19%|█▉        | 8/42 [00:00<00:02, 11.56it/s]
+Layout Predict:  38%|███▊      | 16/42 [00:00<00:01, 18.95it/s]
+Layout Predict:  57%|█████▋    | 24/42 [00:01<00:00, 24.34it/s]
+Layout Predict:  76%|███████▌  | 32/42 [00:01<00:00, 27.74it/s]
+Layout Predict:  95%|█████████▌| 40/42 [00:01<00:00, 30.44it/s]
+Layout Predict: 100%|██████████| 42/42 [00:01<00:00, 24.99it/s]
+
+MFR Predict:   0%|          | 0/27 [00:00<?, ?it/s]
+MFR Predict:  59%|█████▉    | 16/27 [00:00<00:00, 44.98it/s]
+MFR Predict: 100%|██████████| 27/27 [00:00<00:00, 46.24it/s]
+MFR Predict: 100%|██████████| 27/27 [00:00<00:00, 46.00it/s]
+
+Table-ocr det:   0%|          | 0/30 [00:00<?, ?it/s]
+Table-ocr det:   7%|▋         | 2/30 [00:00<00:02, 12.43it/s]
+Table-ocr det:  17%|█▋        | 5/30 [00:00<00:01, 18.03it/s]
+Table-ocr det:  27%|██▋       | 8/30 [00:00<00:01, 19.61it/s]
+Table-ocr det:  37%|███▋      | 11/30 [00:00<00:00, 20.47it/s]
+Table-ocr det:  47%|████▋     | 14/30 [00:00<00:00, 20.57it/s]
+Table-ocr det:  60%|██████    | 18/30 [00:00<00:00, 25.00it/s]
+Table-ocr det:  70%|███████   | 21/30 [00:00<00:00, 23.17it/s]
+Table-ocr det:  80%|████████  | 24/30 [00:01<00:00, 22.12it/s]
+Table-ocr det:  90%|█████████ | 27/30 [00:01<00:00, 22.11it/s]
+Table-ocr det: 100%|██████████| 30/30 [00:01<00:00, 22.07it/s]
+Table-ocr det: 100%|██████████| 30/30 [00:01<00:00, 21.46it/s]
+
+Table-ocr rec ch:   0%|          | 0/1627 [00:00<?, ?it/s]
+Table-ocr rec ch:   3%|▎         | 54/1627 [00:00<00:02, 534.44it/s]
+Table-ocr rec ch:   7%|▋         | 108/1627 [00:00<00:02, 528.72it/s]
+Table-ocr rec ch:  10%|█         | 168/1627 [00:00<00:02, 555.97it/s]
+Table-ocr rec ch:  14%|█▍        | 228/1627 [00:00<00:02, 570.42it/s]
+Table-ocr rec ch:  18%|█▊        | 288/1627 [00:00<00:02, 578.00it/s]
+Table-ocr rec ch:  21%|██▏       | 348/1627 [00:00<00:02, 580.03it/s]
+Table-ocr rec ch:  25%|██▌       | 408/1627 [00:00<00:02, 582.09it/s]
+Table-ocr rec ch:  29%|██▉       | 468/1627 [00:00<00:02, 568.69it/s]
+Table-ocr rec ch:  32%|███▏      | 528/1627 [00:00<00:02, 543.23it/s]
+Table-ocr rec ch:  36%|███▌      | 588/1627 [00:01<00:01, 550.48it/s]
+Table-ocr rec ch:  40%|███▉      | 648/1627 [00:01<00:01, 541.63it/s]
+Table-ocr rec ch:  44%|████▎     | 708/1627 [00:01<00:01, 519.37it/s]
+Table-ocr rec ch:  47%|████▋     | 762/1627 [00:01<00:01, 463.31it/s]
+Table-ocr rec ch:  50%|████▉     | 810/1627 [00:01<00:01, 427.21it/s]
+Table-ocr rec ch:  53%|█████▎    | 858/1627 [00:01<00:01, 401.19it/s]
+Table-ocr rec ch:  55%|█████▌    | 900/1627 [00:01<00:01, 373.57it/s]
+Table-ocr rec ch:  58%|█████▊    | 942/1627 [00:01<00:01, 362.91it/s]
+Table-ocr rec ch:  60%|██████    | 984/1627 [00:02<00:01, 349.02it/s]
+Table-ocr rec ch:  63%|██████▎   | 1020/1627 [00:02<00:01, 329.53it/s]
+Table-ocr rec ch:  65%|██████▍   | 1056/1627 [00:02<00:01, 319.59it/s]
+Table-ocr rec ch:  67%|██████▋   | 1092/1627 [00:02<00:01, 315.10it/s]
+Table-ocr rec ch:  69%|██████▉   | 1128/1627 [00:02<00:01, 308.77it/s]
+Table-ocr rec ch:  72%|███████▏  | 1164/1627 [00:02<00:01, 312.37it/s]
+Table-ocr rec ch:  74%|███████▍  | 1200/1627 [00:02<00:01, 317.66it/s]
+Table-ocr rec ch:  76%|███████▌  | 1236/1627 [00:02<00:01, 327.96it/s]
+Table-ocr rec ch:  78%|███████▊  | 1272/1627 [00:03<00:01, 336.28it/s]
+Table-ocr rec ch:  80%|████████  | 1308/1627 [00:03<00:00, 337.02it/s]
+Table-ocr rec ch:  83%|████████▎ | 1344/1627 [00:03<00:00, 318.52it/s]
+Table-ocr rec ch:  85%|████████▌ | 1386/1627 [00:03<00:00, 333.81it/s]
+Table-ocr rec ch:  88%|████████▊ | 1428/1627 [00:03<00:00, 349.20it/s]
+Table-ocr rec ch:  90%|█████████ | 1470/1627 [00:03<00:00, 359.59it/s]
+Table-ocr rec ch:  93%|█████████▎| 1512/1627 [00:03<00:00, 367.43it/s]
+Table-ocr rec ch:  96%|█████████▌| 1554/1627 [00:03<00:00, 370.40it/s]
+Table-ocr rec ch:  98%|█████████▊| 1596/1627 [00:03<00:00, 368.42it/s]
+Table-ocr rec ch: 100%|██████████| 1627/1627 [00:04<00:00, 404.91it/s]
+
+Table-wireless Predict:   0%|          | 0/30 [00:00<?, ?it/s]
+Table-wireless Predict:  13%|█▎        | 4/30 [00:00<00:02,  9.75it/s]
+Table-wireless Predict:  27%|██▋       | 8/30 [00:00<00:01, 13.69it/s]
+Table-wireless Predict:  40%|████      | 12/30 [00:00<00:01, 13.93it/s]
+Table-wireless Predict:  53%|█████▎    | 16/30 [00:01<00:00, 16.11it/s]
+Table-wireless Predict:  67%|██████▋   | 20/30 [00:01<00:00, 18.78it/s]
+Table-wireless Predict:  80%|████████  | 24/30 [00:01<00:00, 18.93it/s]
+Table-wireless Predict:  93%|█████████▎| 28/30 [00:01<00:00, 13.17it/s]
+Table-wireless Predict: 100%|██████████| 30/30 [00:02<00:00, 11.68it/s]
+Table-wireless Predict: 100%|██████████| 30/30 [00:02<00:00, 13.66it/s]
+
+Table-wired Predict:   0%|          | 0/11 [00:00<?, ?it/s]
+Table-wired Predict:   9%|▉         | 1/11 [00:00<00:05,  1.72it/s]
+Table-wired Predict:  18%|█▊        | 2/11 [00:01<00:05,  1.75it/s]
+Table-wired Predict:  27%|██▋       | 3/11 [00:01<00:04,  1.83it/s]
+Table-wired Predict:  36%|███▋      | 4/11 [00:02<00:03,  1.76it/s]
+Table-wired Predict:  45%|████▌     | 5/11 [00:02<00:03,  1.76it/s]
+Table-wired Predict:  64%|██████▎   | 7/11 [00:02<00:01,  3.13it/s]
+Table-wired Predict:  82%|████████▏ | 9/11 [00:03<00:00,  3.21it/s]
+Table-wired Predict:  91%|█████████ | 10/11 [00:04<00:00,  2.77it/s]
+Table-wired Predict: 100%|██████████| 11/11 [00:04<00:00,  2.85it/s]
+Table-wired Predict: 100%|██████████| 11/11 [00:04<00:00,  2.48it/s]
+
+OCR-det ch:   0%|          | 0/33 [00:00<?, ?it/s]
+OCR-det ch:   9%|▉         | 3/33 [00:00<00:01, 26.54it/s]
+OCR-det ch:  21%|██        | 7/33 [00:00<00:00, 27.65it/s]
+OCR-det ch:  30%|███       | 10/33 [00:00<00:01, 12.91it/s]
+OCR-det ch:  39%|███▉      | 13/33 [00:00<00:01, 14.82it/s]
+OCR-det ch:  45%|████▌     | 15/33 [00:00<00:01, 15.38it/s]
+OCR-det ch:  55%|█████▍    | 18/33 [00:01<00:00, 18.14it/s]
+OCR-det ch:  64%|██████▎   | 21/33 [00:01<00:00, 20.52it/s]
+OCR-det ch:  73%|███████▎  | 24/33 [00:01<00:00, 17.87it/s]
+OCR-det ch:  82%|████████▏ | 27/33 [00:01<00:00, 20.46it/s]
+OCR-det ch:  91%|█████████ | 30/33 [00:01<00:00, 20.61it/s]
+OCR-det ch: 100%|██████████| 33/33 [00:01<00:00, 22.18it/s]
+OCR-det ch: 100%|██████████| 33/33 [00:01<00:00, 19.17it/s]
+
+Seal Predict: 0it [00:00, ?it/s]
+Seal Predict: 0it [00:00, ?it/s]
+
+Processing pages:   0%|          | 0/42 [00:00<?, ?it/s]
+Processing pages:   5%|▍         | 2/42 [00:00<00:02, 14.49it/s]
+Processing pages:  10%|▉         | 4/42 [00:00<00:02, 15.66it/s]
+Processing pages:  14%|█▍        | 6/42 [00:00<00:02, 17.06it/s]
+Processing pages:  19%|█▉        | 8/42 [00:00<00:01, 17.38it/s]
+Processing pages:  24%|██▍       | 10/42 [00:00<00:01, 16.68it/s]
+Processing pages:  29%|██▊       | 12/42 [00:00<00:01, 16.47it/s]
+Processing pages:  33%|███▎      | 14/42 [00:00<00:01, 15.70it/s]
+Processing pages:  38%|███▊      | 16/42 [00:01<00:01, 15.06it/s]
+Processing pages:  43%|████▎     | 18/42 [00:01<00:01, 15.07it/s]
+Processing pages:  48%|████▊     | 20/42 [00:01<00:01, 14.68it/s]
+Processing pages:  52%|█████▏    | 22/42 [00:01<00:01, 14.34it/s]
+Processing pages:  57%|█████▋    | 24/42 [00:01<00:01, 14.58it/s]
+Processing pages:  62%|██████▏   | 26/42 [00:01<00:01, 14.37it/s]
+Processing pages:  67%|██████▋   | 28/42 [00:01<00:01, 13.43it/s]
+Processing pages:  71%|███████▏  | 30/42 [00:02<00:00, 13.46it/s]
+Processing pages:  76%|███████▌  | 32/42 [00:02<00:00, 13.65it/s]
+Processing pages:  81%|████████  | 34/42 [00:02<00:00, 13.88it/s]
+Processing pages:  86%|████████▌ | 36/42 [00:02<00:00, 13.88it/s]
+Processing pages:  90%|█████████ | 38/42 [00:02<00:00, 13.89it/s]
+Processing pages:  95%|█████████▌| 40/42 [00:02<00:00, 14.23it/s]
+Processing pages: 100%|██████████| 42/42 [00:02<00:00, 15.22it/s]
+
+OCR-rec Predict:   0%|          | 0/1 [00:00<?, ?it/s][A
+OCR-rec Predict: 100%|██████████| 1/1 [00:00<00:00, 71.89it/s]
+
+Processing pages: 100%|██████████| 42/42 [00:03<00:00, 12.74it/s]
+2026-07-13 10:35:35.498 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 42/42 pages | 1 of 1 batch finished | task#1 [6]
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2989642]
