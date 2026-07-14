@@ -101,6 +101,10 @@ def _finalize_metadata(metadata: dict[str, Any]) -> dict[str, Any]:
     }
 
 
+def _is_short_heading_only(heading: str, content: str) -> bool:
+    return bool(heading.strip() and heading.strip() == content.strip() and len(content.strip()) <= 80)
+
+
 def chunk_mineru_json(json_blocks, doc_id, max_chunk_chars=800):
     """
     Chunk MinerU content_list.json blocks while preserving useful metadata.
@@ -114,6 +118,7 @@ def chunk_mineru_json(json_blocks, doc_id, max_chunk_chars=800):
     """
     chunks = []
     current_heading = "文档开头"
+    heading_stack: list[tuple[int, str]] = []
     current_content = []
     current_metadata = _new_metadata()
 
@@ -123,6 +128,8 @@ def chunk_mineru_json(json_blocks, doc_id, max_chunk_chars=800):
 
         chunk_text = "\n".join(content_list).strip()
         if not chunk_text:
+            return
+        if _is_short_heading_only(heading, chunk_text):
             return
 
         finalized_metadata = _finalize_metadata(metadata)
@@ -137,6 +144,17 @@ def chunk_mineru_json(json_blocks, doc_id, max_chunk_chars=800):
             }
         )
 
+    def update_heading(level: int, text: str) -> str:
+        nonlocal heading_stack
+
+        heading_stack = [
+            (existing_level, existing_text)
+            for existing_level, existing_text in heading_stack
+            if existing_level < level
+        ]
+        heading_stack.append((level, text))
+        return " / ".join(existing_text for _, existing_text in heading_stack)
+
     for block in json_blocks:
         block_type = block.get("type")
         if block_type in SKIP_TYPES:
@@ -149,10 +167,12 @@ def chunk_mineru_json(json_blocks, doc_id, max_chunk_chars=800):
         if block_type == "text" and "text_level" in block:
             save_chunk(current_heading, current_content, current_metadata)
 
-            current_heading = block_text
-            current_content = [block_text]
+            level = block.get("text_level")
+            if not isinstance(level, int) or level < 1:
+                level = len(heading_stack) + 1
+            current_heading = update_heading(level, block_text)
+            current_content = []
             current_metadata = _new_metadata()
-            _append_metadata(current_metadata, block)
             continue
 
         if block_type == "table":

@@ -111,6 +111,10 @@ def is_heading(paragraph: str) -> bool:
     )
 
 
+def is_short_heading_only(heading: str, content: str) -> bool:
+    return bool(heading.strip() and heading.strip() == content.strip() and len(content.strip()) <= 80)
+
+
 def make_chunks(
     doc_id: str,
     title: str,
@@ -130,6 +134,8 @@ def make_chunks(
             return
         content = "\n".join(current).strip()
         if not content:
+            return
+        if is_short_heading_only(heading, content):
             return
         index = len(chunks) + 1
         metadata = {
@@ -153,10 +159,12 @@ def make_chunks(
         )
 
     for paragraph in split_paragraphs(text):
-        if is_heading(paragraph) and current:
-            save()
-            current = []
+        if is_heading(paragraph):
+            if current:
+                save()
+                current = []
             heading = paragraph
+            continue
 
         current.append(paragraph)
         if sum(len(item) for item in current) >= max_chunk_chars:
