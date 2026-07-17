@@ -1,5 +1,6 @@
 import argparse
 import json
+import re
 from pathlib import Path
 from typing import Any
 
@@ -105,6 +106,24 @@ def _is_short_heading_only(heading: str, content: str) -> bool:
     return bool(heading.strip() and heading.strip() == content.strip() and len(content.strip()) <= 80)
 
 
+def _infer_heading_level(text: str, fallback_level: Any, current_depth: int) -> int:
+    text = text.strip()
+    if re.match(r"^(第[一二三四五六七八九十百千万]+[章节篇]|目录|释义|声明|重大事项提示)", text):
+        return 1
+    if re.match(r"^[一二三四五六七八九十百千万]+、", text):
+        return 2
+    if re.match(r"^（[一二三四五六七八九十百千万]+）", text):
+        return 3
+    if re.match(r"^\d+[、.．]", text):
+        return 4
+    if re.match(r"^（\d+）", text):
+        return 5
+
+    if isinstance(fallback_level, int) and fallback_level >= 1:
+        return fallback_level
+    return current_depth + 1
+
+
 def chunk_mineru_json(json_blocks, doc_id, max_chunk_chars=800):
     """
     Chunk MinerU content_list.json blocks while preserving useful metadata.
@@ -167,9 +186,11 @@ def chunk_mineru_json(json_blocks, doc_id, max_chunk_chars=800):
         if block_type == "text" and "text_level" in block:
             save_chunk(current_heading, current_content, current_metadata)
 
-            level = block.get("text_level")
-            if not isinstance(level, int) or level < 1:
-                level = len(heading_stack) + 1
+            level = _infer_heading_level(
+                block_text,
+                fallback_level=block.get("text_level"),
+                current_depth=len(heading_stack),
+            )
             current_heading = update_heading(level, block_text)
             current_content = []
             current_metadata = _new_metadata()

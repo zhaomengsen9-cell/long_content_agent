@@ -90,7 +90,9 @@ class Agent:
             stream_options={"include_usage": True},
         )
 
-    def parse_answer(self, model_output: str) -> str:
+    def parse_answer(
+        self, model_output: str, allowed_options: set[str] | None = None
+    ) -> str:
         text = model_output.strip()
         if text.startswith("```"):
             text = re.sub(r"^```(?:json)?\s*", "", text)
@@ -107,13 +109,21 @@ class Agent:
                 except json.JSONDecodeError:
                     parsed = None
 
-        raw_answer = parsed.get("answer") if isinstance(parsed, dict) else text
+        if isinstance(parsed, dict) and "answer" in parsed:
+            raw_answer = parsed.get("answer")
+        else:
+            answer_match = re.search(
+                r'"answer"\s*:\s*"([^"]*)"', text, flags=re.IGNORECASE
+            )
+            raw_answer = answer_match.group(1) if answer_match else text
+
         if isinstance(raw_answer, list):
             letters = [str(item).strip().upper() for item in raw_answer]
         else:
             letters = re.findall(r"[A-Z]", str(raw_answer).upper())
 
-        valid_letters = sorted({letter for letter in letters if "A" <= letter <= "Z"})
+        allowed = allowed_options or set("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+        valid_letters = sorted({letter for letter in letters if letter in allowed})
         return "".join(valid_letters)
 
     def ask(
@@ -339,7 +349,12 @@ class Agent:
                 )
                 self.append_failed_record(failed_output, record, exc)
                 continue
-            answer = self.parse_answer(model_output)
+            allowed_options = {
+                str(key).strip().upper()
+                for key in (record.get("options") or {}).keys()
+                if str(key).strip()
+            }
+            answer = self.parse_answer(model_output, allowed_options=allowed_options)
             self.append_reason_record(reason_output, record, reasoning, model_output)
             rows.append(
                 {

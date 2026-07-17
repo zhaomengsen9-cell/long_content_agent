@@ -1,0 +1,7 @@
+qid,answer_0716,answer_current,change_type
+fin_a_007,ABD,ABCDEGHIKLNOPQRSTUVWY,current_added_options
+fin_a_008,D,B,changed_options
+ins_a_007,BC,C,current_removed_options
+reg_a_004,ABC,AB,current_removed_options
+reg_a_005,ABC,BC,current_removed_options
+reg_a_012,ABD,ABCD,current_added_options

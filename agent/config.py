@@ -8,7 +8,7 @@ PROJECT_DIR = Path(__file__).resolve().parents[1]
 @dataclass
 class ModelConfig:
     provider: str = "dashscope"
-    model: str = "qwen3.7-plus"
+    model: str = "qwen3.7-max"
     api_key_env: str = "DASHSCOPE_API_KEY"
     base_url: str = "https://llm-cfmyrw3vesq6bnwj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1"
     temperature: float = 0.0
@@ -43,6 +43,9 @@ class PromptConfig:
 5. 涉及数字、百分比、证券代码、主体名称、评级、日期时，有上下文证据则逐字核对；没有上下文证据时不要编造具体出处。
 6. 如果上下文中有表格，优先使用表格中的原始数值。
 7. 绝不能因为无法判断就固定输出第一个选项；答案必须来自实际判断。
+8. answer 只能包含 evidence 中 verdict 为“支持”的选项；verdict 为“不支持”或“证据不足”的选项绝不能放入 answer。
+9. 多选题要保守作答：只有选项表述与上下文证据直接一致时才选择。若只是“可能成立”、只有间接推断、chunk_ids 为空、或引用内容不能直接证明该选项，则判为“不支持”或“证据不足”，不要选。
+10. 如果某个选项的证据来自“未检索到”“上下文未提供”“无法确认”这类表述，该选项必须视为证据不足，不能进入 answer。
 
 输出格式必须是 JSON，不要输出 Markdown。answer 字段必须是最终提交答案：
 单选题输出一个大写字母，例如 "A"。

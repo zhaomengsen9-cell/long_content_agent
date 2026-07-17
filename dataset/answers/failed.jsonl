@@ -1,1 +1,0 @@
-{"qid": "res_a_019", "domain": "research", "context_file": "/opt/mengsen/long_content/dataset/retrieval/research_contexts.jsonl", "question": "基于化工周报与电动车行业策略报告，关于大宗商品价格对行业的影响及估值预测，以下哪些判断是正确的？", "error_type": "RemoteProtocolError", "error": "peer closed connection without sending complete message body (incomplete chunked read)"}
